@@ -13,6 +13,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 ## Deep Learning
 A set of machine learning techniques specialized at training deep-layers artificial neural networks.
  * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
+ * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses)
  * [Deep Learning Resources (Papers, Online Courses, Books) by deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks by deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
  * https://github.com/terryum/awesome-deep-learning-papers
