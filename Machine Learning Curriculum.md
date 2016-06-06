@@ -10,6 +10,8 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
  * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
 ## Deep Learning
+A set of machine learning techniques specialized at training deep-layers artificial neural networks.
+ * [Deep learning course by Google](https://www.udacity.com/course/deep-learning--ud730)
  * [Deep Learning Resources (Papers, Online Courses, Books) by deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks by deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
  * https://github.com/terryum/awesome-deep-learning-papers
