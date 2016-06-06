@@ -46,5 +46,5 @@ Taking a look at their github statistics can give you a sense of how good/popula
  * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
  
 ## How to contribute to this list
- 1 Fork this gist and modify your forked version.
- 2 Comment on this gist that you want to get merged and I'll pull your fork into this one.
+ 1. Fork this gist and modify your forked version.
+ 2. Comment on this gist that you want to get merged and I'll pull your fork into this one.
