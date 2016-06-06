@@ -1,6 +1,9 @@
 # Machine Learning Curriculum
 Machine Learning is a branch of Artificial Intelligence dedicated at making machines learn from observational data without being explicitly programmed.
 
+## General Machine Learning
+ * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
+
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
  * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
