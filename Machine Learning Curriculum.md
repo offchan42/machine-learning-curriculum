@@ -26,11 +26,11 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://github.com/terryum/awesome-deep-learning-papers
  * http://neuralnetworksanddeeplearning.com/index.html
  
-## Machine Learning Results & Products
+## Trained Models
  * https://github.com/google/deepdream
  * https://github.com/tensorflow/magenta
  
-## Machine Learning Libraries
+## Libraries and Frameworks
 Taking a look at the github statistics can give you a sense of how good/popular each library is.
  * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn)
  * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow)
