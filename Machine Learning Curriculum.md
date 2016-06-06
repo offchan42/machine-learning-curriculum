@@ -26,3 +26,4 @@ A set of machine learning techniques specialized at training deep-layers artific
  
 ## Uncategorized
  * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
+ * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
