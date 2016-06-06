@@ -1,5 +1,5 @@
 # Machine Learning Curriculum
-Machine Learning is a branch of Artificial Intelligence dedicated at making machine learns from observational data without being explicitly programmed.
+Machine Learning is a branch of Artificial Intelligence dedicated at making machines learn from observational data without being explicitly programmed.
 
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
@@ -14,3 +14,6 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 ## Learning Libraries and Implementations
  * https://github.com/google/deepdream
  * https://github.com/tensorflow/magenta
+ 
+## Uncategorized
+ * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
