@@ -6,6 +6,9 @@
  
 ## Deep Learning
  * [Deep Learning Resources (Papers, Online Courses, Books) by deeplearning4j.org] (http://deeplearning4j.org/deeplearningpapers.html)
+ * [Introduction to Deep Neural Networks by deeplearning4j.org] (http://deeplearning4j.org/neuralnet-overview.html)
+ * https://github.com/terryum/awesome-deep-learning-papers
+ 
+## Library and Implementations
  * https://github.com/google/deepdream
  * https://github.com/tensorflow/magenta
- * https://github.com/terryum/awesome-deep-learning-papers
