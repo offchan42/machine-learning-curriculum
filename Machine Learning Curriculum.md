@@ -3,6 +3,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 
 ## General Machine Learning
  * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
+ * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262)
 
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
@@ -11,7 +12,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 
 ## Deep Learning
 A set of machine learning techniques specialized at training deep-layers artificial neural networks.
- * [Deep learning course by Google](https://www.udacity.com/course/deep-learning--ud730)
+ * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
  * [Deep Learning Resources (Papers, Online Courses, Books) by deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks by deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
  * https://github.com/terryum/awesome-deep-learning-papers
