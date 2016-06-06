@@ -4,6 +4,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 ## General Machine Learning
  * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262)
+ * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
