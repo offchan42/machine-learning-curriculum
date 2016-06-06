@@ -21,6 +21,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [Deep Learning Resources (Papers, Online Courses, Books) by deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks by deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
  * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses)
+ * [Deep Learning Book](http://www.deeplearningbook.org/)
  * https://github.com/terryum/awesome-deep-learning-papers
  * http://neuralnetworksanddeeplearning.com/index.html
  
