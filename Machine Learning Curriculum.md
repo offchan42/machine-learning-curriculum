@@ -29,11 +29,12 @@ A set of machine learning techniques specialized at training deep artificial neu
  
 ## Machine Learning Libraries
 Taking a look at the github statistics can give you a sense of how good/popular each library is.
- * [scikit-learn (Python)](http://scikit-learn.org/)
- * [TensorFlow (Python)](https://www.tensorflow.org/)
- * [Theano (Python)](https://github.com/Theano/Theano), CNTK, Deeplearnning4j, ...
- * [Torch (Lua)](http://torch.ch/)
- * [DeepLearning4j (Java)](http://deeplearning4j.org)
+ * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn)
+ * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow)
+ * [Theano (Python)](https://github.com/Theano/Theano)
+ * [Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
+ * [Torch (Lua)](https://github.com/torch/torch7)
+ * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j)
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
  
 ## Uncategorized
