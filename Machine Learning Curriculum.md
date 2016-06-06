@@ -42,7 +42,7 @@ Taking a look at their github statistics can give you a sense of how good/popula
  * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j)
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 
-## Insights for Future Research
+## Thoughtful Insights for Future Research
  * [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
  * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
  
