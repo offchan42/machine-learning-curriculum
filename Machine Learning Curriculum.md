@@ -36,6 +36,7 @@ Taking a look at their github statistics can give you a sense of how good/popula
  * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn)
  * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow)
  * [Theano (Python)](https://github.com/Theano/Theano)
+ * [Caffe (Python)](https://github.com/BVLC/caffe) does best at computer vision problems
  * [Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
  * [Torch (Lua)](https://github.com/torch/torch7)
  * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j)
