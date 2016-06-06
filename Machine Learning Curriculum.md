@@ -5,8 +5,7 @@
  * [An Introduction Book by Richard S. Sutton and Andrew G. Barto] (https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
  
 ## Deep Learning
- * [Deep Learning Resources (Papers, Online Courses, Books) by _deeplearning4j.org_] (http://deeplearning4j.org/deeplearningpapers.html)
- * [_deepdream_ by Google] (https://github.com/google/deepdream)
- * 
- 
-**NOTE:** Specific name is written in _italic_ form.
+ * [Deep Learning Resources (Papers, Online Courses, Books) by deeplearning4j.org] (http://deeplearning4j.org/deeplearningpapers.html)
+ * https://github.com/google/deepdream
+ * https://github.com/tensorflow/magenta
+ * https://github.com/terryum/awesome-deep-learning-papers
