@@ -1,5 +1,6 @@
 # Machine Learning Curriculum
 Machine Learning is a branch of Artificial Intelligence dedicated at making machines learn from observational data without being explicitly programmed.
+**NOTE**: There is no particular rank or order for each link. The order in which they appear is randomized.
 
 ## General Machine Learning
  * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
@@ -12,12 +13,13 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
  * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
 ## Deep Learning
-A set of machine learning techniques specialized at training deep-layers artificial neural networks.
+A set of machine learning techniques specialized at training deep artificial neural networks.
  * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
- * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses)
  * [Deep Learning Resources (Papers, Online Courses, Books) by deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks by deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
+ * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses)
  * https://github.com/terryum/awesome-deep-learning-papers
+ * http://neuralnetworksanddeeplearning.com/index.html
  
 ## Machine Learning Results & Products
  * https://github.com/google/deepdream
