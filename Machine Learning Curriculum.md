@@ -20,6 +20,7 @@ A set of machine learning techniques specialized at training deep-layers artific
 ## Learning Libraries and Implementations
  * https://github.com/google/deepdream
  * https://github.com/tensorflow/magenta
+ * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
  
 ## Uncategorized
  * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
