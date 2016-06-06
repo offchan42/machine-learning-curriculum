@@ -1,5 +1,6 @@
 # Machine Learning Curriculum
 Machine Learning is a branch of Artificial Intelligence dedicated at making machines learn from observational data without being explicitly programmed.
+
 **NOTE**: There is no particular rank or order for each link. The order in which they appear is randomized.
 
 ## General Machine Learning
