@@ -12,6 +12,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
  * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
  * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+ * [Lecture 10 Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 
 ## Deep Learning
 A set of machine learning techniques specialized at training deep artificial neural networks.
