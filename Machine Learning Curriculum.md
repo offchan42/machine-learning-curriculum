@@ -27,8 +27,8 @@ A set of machine learning techniques specialized at training deep artificial neu
  * http://neuralnetworksanddeeplearning.com/index.html
  
 ## Trained Models
- * [deepdream](https://github.com/google/deepdream)
- * [Magenta](https://github.com/tensorflow/magenta): Music and Art Generation with Machine Intelligence
+ * [deepdream](https://github.com/google/deepdream) inceptionism
+ * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
  * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
  
 ## Libraries and Frameworks
