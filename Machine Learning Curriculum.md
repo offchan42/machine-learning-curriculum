@@ -28,8 +28,12 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://github.com/tensorflow/magenta
  
 ## Machine Learning Libraries
- * [scikit-learn (python)](http://scikit-learn.org/)
- * [TensorFlow (python)](https://www.tensorflow.org/)
+Taking a look at the github statistics can give you a sense of how good/popular each library is.
+ * [scikit-learn (Python)](http://scikit-learn.org/)
+ * [TensorFlow (Python)](https://www.tensorflow.org/)
+ * [Theano (Python)](https://github.com/Theano/Theano), CNTK, Deeplearnning4j, ...
+ * [Torch (Lua)](http://torch.ch/)
+ * [DeepLearning4j (Java)](http://deeplearning4j.org)
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
  
 ## Uncategorized
