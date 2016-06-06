@@ -19,12 +19,13 @@ A set of machine learning techniques specialized at training deep-layers artific
  * [Introduction to Deep Neural Networks by deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
  * https://github.com/terryum/awesome-deep-learning-papers
  
-## Learning Results & Products
+## Machine Learning Results & Products
  * https://github.com/google/deepdream
  * https://github.com/tensorflow/magenta
- * 
-## Learning Libraries and Implementations
+ 
+## Machine Learning Libraries
  * [scikit-learn (python)](http://scikit-learn.org/)
+ * [TensorFlow (python)](https://www.tensorflow.org/)
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
  
 ## Uncategorized
