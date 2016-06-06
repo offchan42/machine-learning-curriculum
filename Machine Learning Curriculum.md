@@ -27,8 +27,9 @@ A set of machine learning techniques specialized at training deep artificial neu
  * http://neuralnetworksanddeeplearning.com/index.html
  
 ## Trained Models
- * https://github.com/google/deepdream
- * https://github.com/tensorflow/magenta
+ * [deepdream](https://github.com/google/deepdream)
+ * [magenta](https://github.com/tensorflow/magenta)
+ * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
  
 ## Libraries and Frameworks
 Taking a look at the github statistics can give you a sense of how good/popular each library is.
