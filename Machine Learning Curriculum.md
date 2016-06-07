@@ -9,6 +9,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262)
  * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
+ * https://karpathy.github.io/
 
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
