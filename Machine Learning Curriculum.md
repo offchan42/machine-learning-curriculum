@@ -5,6 +5,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 
 ## General Machine Learning
  * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
+ * [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262)
  * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
@@ -26,7 +27,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://github.com/terryum/awesome-deep-learning-papers
  * http://neuralnetworksanddeeplearning.com/index.html
  
-## Trained Models
+## Open Source Trained Models
  * [deepdream](https://github.com/google/deepdream) inceptionism
  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
  * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
