@@ -35,7 +35,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 ## Libraries and Frameworks
 Taking a look at their github statistics can give you a sense of how active/popular each library is.
  * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn)
- * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow) [Learning TensorFlow](http://learningtensorflow.com/index.html)
+ * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow), [Learning TensorFlow](http://learningtensorflow.com/index.html)
  * [Theano (Python)](https://github.com/Theano/Theano)
  * [Caffe (Python)](https://github.com/BVLC/caffe) does best at computer vision problems
  * [Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
