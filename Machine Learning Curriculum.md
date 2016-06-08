@@ -29,6 +29,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [DeepMind Publications](https://deepmind.com/publications.html)
  * https://github.com/terryum/awesome-deep-learning-papers
  * http://neuralnetworksanddeeplearning.com/index.html
+ * https://github.com/lisa-lab/DeepLearningTutorials
  
 ## Open Source Trained Models
  * [deepdream](https://github.com/google/deepdream) inceptionism
