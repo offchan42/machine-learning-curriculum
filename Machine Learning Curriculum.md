@@ -28,6 +28,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
  * [DeepMind Publications](https://deepmind.com/publications.html)
  * https://github.com/terryum/awesome-deep-learning-papers
+ * https://github.com/ChristosChristofidis/awesome-deep-learning
  * http://neuralnetworksanddeeplearning.com/index.html
  * https://github.com/lisa-lab/DeepLearningTutorials
  
