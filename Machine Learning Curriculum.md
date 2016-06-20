@@ -10,6 +10,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
  * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
  * https://karpathy.github.io/
+ * https://www.openai.com/
 
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
@@ -51,8 +52,8 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 
 ## Community
- * http://www.kaggle.com
- * http://openai.gym.com
+ * https://www.kaggle.com
+ * https://gym.openai.com
 
 ## Thoughtful Insights for Future Research
  * [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
