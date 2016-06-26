@@ -28,6 +28,8 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
  * [DeepMind Publications](https://deepmind.com/publications.html)
  * [DeepLearning.TV - YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+ * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+ * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
  * https://developer.nvidia.com/deep-learning
  * http://neuralnetworksanddeeplearning.com/index.html
  * https://github.com/terryum/awesome-deep-learning-papers
