@@ -43,6 +43,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  
 ### Recurrent Neural Networks
  * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+ * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
  
 ## Open Source Trained Models
