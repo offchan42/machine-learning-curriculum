@@ -41,6 +41,10 @@ A set of machine learning techniques specialized at training deep artificial neu
  * http://www.wildml.com/
  * http://colah.github.io/
  
+### Recurrent Neural Networks
+ * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+ * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+ 
 ## Open Source Trained Models
  * [deepdream](https://github.com/google/deepdream) inceptionism
  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
