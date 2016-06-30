@@ -39,6 +39,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://github.com/ChristosChristofidis/awesome-deep-learning
  * https://github.com/lisa-lab/DeepLearningTutorials
  * http://www.wildml.com/
+ * http://colah.github.io/
  
 ## Open Source Trained Models
  * [deepdream](https://github.com/google/deepdream) inceptionism
