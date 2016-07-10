@@ -64,6 +64,7 @@ Taking a look at their github statistics can give you a sense of how active/popu
 
 ## Cutting-Edge Research
  * https://www.openai.com/
+ * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
 
 ## Practitioner Community
  * https://www.kaggle.com
