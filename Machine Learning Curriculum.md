@@ -51,6 +51,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [deepdream](https://github.com/google/deepdream) inceptionism
  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
  * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
+ * [Neural Storyteller](https://github.com/ryankiros/neural-storyteller)
  
 ## Libraries and Frameworks
 Taking a look at their github statistics can give you a sense of how active/popular each library is.
