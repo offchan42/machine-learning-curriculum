@@ -68,6 +68,7 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * https://www.openai.com/
  * https://www.openai.com/requests-for-research/
  * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
+ * http://www.somatic.io/
 
 ## Practitioner Community
  * https://www.kaggle.com
