@@ -72,11 +72,11 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * https://www.openai.com/requests-for-research/
  * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
  * http://www.somatic.io/
+ * http://www.gitxiv.com/
 
 ## Practitioner Community
  * https://www.kaggle.com
  * https://gym.openai.com
- * http://www.gitxiv.com/
 
 ## Thoughtful Insights for Future Research
  * [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
