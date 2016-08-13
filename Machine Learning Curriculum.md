@@ -76,6 +76,7 @@ Taking a look at their github statistics can give you a sense of how active/popu
 ## Practitioner Community
  * https://www.kaggle.com
  * https://gym.openai.com
+ * http://www.gitxiv.com/
 
 ## Thoughtful Insights for Future Research
  * [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
