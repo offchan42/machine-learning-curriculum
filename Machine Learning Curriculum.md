@@ -81,6 +81,7 @@ Taking a look at their github statistics can give you a sense of how active/popu
  
 ## Uncategorized
  * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
+ * [The Principles of Modern Game AI](https://courses.nucl.ai/)
  * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
  
 ## How to contribute to this list
