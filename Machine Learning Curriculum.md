@@ -33,6 +33,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
  * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
  * [UFLDL Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/)
+ * [Neural networks class - YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  * http://deeplearning.net/
  * https://developer.nvidia.com/deep-learning
  * http://neuralnetworksanddeeplearning.com/index.html
