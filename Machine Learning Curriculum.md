@@ -13,7 +13,6 @@ This is a really big list because I also point to other people's list to ensure 
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
  * https://karpathy.github.io/
  * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
- * https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
@@ -67,7 +66,6 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * [Torch (LuaJIT)](https://github.com/torch/torch7)
  * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j)
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
- * https://github.com/josephmisiti/awesome-machine-learning
 
 ## Cutting-Edge Research
  * https://www.openai.com/
@@ -88,6 +86,10 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * [The Principles of Modern Game AI](https://courses.nucl.ai/)
  * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
  
+## Other Big Lists
+ * https://github.com/josephmisiti/awesome-machine-learning
+ * https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+
 ## How to contribute to this list
  1. Fork this gist and modify your forked version.
  2. Comment on this gist that you want to get merged and I'll pull your fork into this one.
