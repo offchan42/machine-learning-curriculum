@@ -64,6 +64,7 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * [Torch (LuaJIT)](https://github.com/torch/torch7)
  * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j)
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
+ * https://github.com/josephmisiti/awesome-machine-learning
 
 ## Cutting-Edge Research
  * https://www.openai.com/
