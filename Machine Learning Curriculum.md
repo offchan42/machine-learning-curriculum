@@ -13,6 +13,7 @@ This is a really big list because I also point to other people's list to ensure 
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
  * https://karpathy.github.io/
  * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+ * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 ## Reinforcement Learning
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
