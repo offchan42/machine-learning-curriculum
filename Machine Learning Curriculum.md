@@ -56,6 +56,8 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
  * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
  * [Neural Storyteller](https://github.com/ryankiros/neural-storyteller)
+ * https://github.com/facebookresearch/deepmask
+ * https://github.com/facebookresearch/multipathnet
  
 ## Production
  * https://deepart.io/
