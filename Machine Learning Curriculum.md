@@ -50,15 +50,15 @@ DNNs that remember things. They also understand sequences that vary in length.
  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
  
 ## Open Source Trained Models
- * [deepdream](https://github.com/google/deepdream) inceptionism
+ * [deepdream](https://github.com/google/deepdream) inceptionism - a deep model that converts an image to make it contain animal/building
  * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
  * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
- * [Neural Storyteller](https://github.com/ryankiros/neural-storyteller)
- * https://github.com/facebookresearch/deepmask
- * https://github.com/facebookresearch/multipathnet
+ * [Neural Storyteller](https://github.com/ryankiros/neural-storyteller) convert image caption into a romantic one
+ * https://github.com/facebookresearch/deepmask sharp object segmentation on image at pixel-level
+ * https://github.com/facebookresearch/multipathnet convnet for classifying DeepMask+SharpMask model above
  
 ## Production
- * https://deepart.io/
+ * https://deepart.io/ transfer image style to other image
 
 ## Nice Blogs to Follow
  * http://colah.github.io/
@@ -68,13 +68,13 @@ DNNs that remember things. They also understand sequences that vary in length.
 
 ## Libraries and Frameworks
 Taking a look at their github statistics can give you a sense of how active/popular each library is.
- * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn)
- * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-241256173); [Serving](https://tensorflow.github.io/serving/);
- * [Theano (Python)](https://github.com/Theano/Theano)
+ * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, very high level, geared towards beginners
+ * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-241256173); [Serving](https://tensorflow.github.io/serving/); computation graph framework built by Google, has nice visualization board
+ * [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework
  * [Caffe (Python)](https://github.com/BVLC/caffe) does best at computer vision problems
- * [Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
- * [Torch (LuaJIT)](https://github.com/torch/torch7)
- * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j)
+ * [Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework
+ * [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular deep learning framework for LuaJIT
+ * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 
 ## Cutting-Edge Research
