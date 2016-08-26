@@ -39,9 +39,6 @@ A set of machine learning techniques specialized at training deep artificial neu
  * http://deeplearning.net/
  * https://developer.nvidia.com/deep-learning
  * http://neuralnetworksanddeeplearning.com/index.html
- * https://github.com/terryum/awesome-deep-learning-papers
- * https://github.com/ChristosChristofidis/awesome-deep-learning
- * https://github.com/lisa-lab/DeepLearningTutorials
  
 ### Recurrent Neural Networks
  * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
@@ -99,6 +96,9 @@ Taking a look at their github statistics can give you a sense of how active/popu
 ## Other Big Lists
  * https://github.com/josephmisiti/awesome-machine-learning
  * https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+ * https://github.com/terryum/awesome-deep-learning-papers
+ * https://github.com/ChristosChristofidis/awesome-deep-learning
+ * https://github.com/lisa-lab/DeepLearningTutorials
 
 ## How to contribute to this list
  1. Fork this gist and modify your forked version.
