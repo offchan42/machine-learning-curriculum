@@ -6,6 +6,7 @@ This is a really big list because I also point to other people's list to ensure 
 **NOTE**: There is no particular rank or order for each link. The order in which they appear does not convey any meaning and is not essential.
 
 ## General Machine Learning
+A machine is learning when its performance P on task T improves when it gains more experience E.
  * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
  * [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262)
@@ -15,6 +16,7 @@ This is a really big list because I also point to other people's list to ensure 
  * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 ## Reinforcement Learning
+A machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its long-term scalar reward.
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
  * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
  * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
