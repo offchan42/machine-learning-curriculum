@@ -75,6 +75,7 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 
 ## Cutting-Edge Research
+Steal the most recent techniques invented by smart people (could be you).
  * https://research.facebook.com/ai/
  * http://research.google.com/pubs/MachineIntelligence.html
  * https://www.openai.com/
