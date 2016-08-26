@@ -80,6 +80,7 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
  * http://www.somatic.io/
  * http://www.gitxiv.com/
+ * https://research.facebook.com/blog/learning-to-segment/
 
 ## Practitioner Community
  * https://www.kaggle.com
