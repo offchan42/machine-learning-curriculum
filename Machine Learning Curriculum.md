@@ -75,12 +75,13 @@ Taking a look at their github statistics can give you a sense of how active/popu
  * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 
 ## Cutting-Edge Research
+ * https://research.facebook.com/ai/
+ * http://research.google.com/pubs/MachineIntelligence.html
  * https://www.openai.com/
  * https://www.openai.com/requests-for-research/
  * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
  * http://www.somatic.io/
  * http://www.gitxiv.com/
- * https://research.facebook.com/ai/
 
 ## Practitioner Community
  * https://www.kaggle.com
