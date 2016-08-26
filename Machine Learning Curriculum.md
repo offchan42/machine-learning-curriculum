@@ -24,7 +24,7 @@ Building a machine that senses the environment and then chooses the best policy 
  * [A Survey Paper](https://www.jair.org/media/301/live-301-1562-jair.pdf)
 
 ## Deep Learning
-A set of machine learning techniques specialized at training deep artificial neural networks.
+A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
  * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
  * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
@@ -44,6 +44,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://github.com/lisa-lab/DeepLearningTutorials
  
 ### Recurrent Neural Networks
+DNNs that remember things.
  * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
  * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
