@@ -11,7 +11,6 @@ This is a really big list because I also point to other people's list to ensure 
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262)
  * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
- * https://karpathy.github.io/
  * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
@@ -43,8 +42,6 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://github.com/terryum/awesome-deep-learning-papers
  * https://github.com/ChristosChristofidis/awesome-deep-learning
  * https://github.com/lisa-lab/DeepLearningTutorials
- * http://www.wildml.com/
- * http://colah.github.io/
  
 ### Recurrent Neural Networks
  * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
@@ -61,6 +58,12 @@ A set of machine learning techniques specialized at training deep artificial neu
  
 ## Production
  * https://deepart.io/
+
+## Nice Blogs to Follow
+ * http://colah.github.io/
+ * https://karpathy.github.io/
+ * http://www.wildml.com/
+ * https://adeshpande3.github.io/adeshpande3.github.io/
 
 ## Libraries and Frameworks
 Taking a look at their github statistics can give you a sense of how active/popular each library is.
