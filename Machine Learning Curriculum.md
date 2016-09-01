@@ -16,7 +16,7 @@ A machine is learning when its performance P on task T improves when it gains mo
  * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 ## Reinforcement Learning
-Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its long-term scalar reward is the goal of reinforcement learning.
+Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
  * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
  * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
  * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
