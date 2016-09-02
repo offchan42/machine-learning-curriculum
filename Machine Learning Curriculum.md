@@ -96,6 +96,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 ## Thoughtful Insights for Future Research
  * [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
  * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+ * https://ai100.stanford.edu/2016-report
  
 ## Uncategorized
  * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
