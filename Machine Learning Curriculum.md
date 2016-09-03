@@ -67,6 +67,7 @@ DNNs that remember things. They also understand sequences that vary in length.
  * https://karpathy.github.io/
  * http://www.wildml.com/
  * https://adeshpande3.github.io/adeshpande3.github.io/
+ * http://culurciello.github.io/
 
 ## Libraries and Frameworks
 Taking a look at their github statistics can give you a sense of how active/popular each library is.
