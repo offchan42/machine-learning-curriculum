@@ -63,12 +63,12 @@ DNNs that remember things. They also understand sequences that vary in length.
  * https://deepart.io/ transfer image style to other image
 
 ## Nice Blogs & Vlogs to Follow
- * http://colah.github.io/
- * https://karpathy.github.io/
- * http://www.wildml.com/
+ * http://colah.github.io/ this guy knows how to explain
+ * https://karpathy.github.io/ this guy has taught some courses on Deep Nets
+ * http://www.wildml.com/ this is like a repository on ML
  * https://adeshpande3.github.io/adeshpande3.github.io/
  * http://culurciello.github.io/
- * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense hilarious information
+ * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense short hilarious introduction to ML
 
 ## Libraries and Frameworks
 Taking a glance at their github statistics can give you a sense of how active/popular each library is.
