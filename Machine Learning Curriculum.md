@@ -62,12 +62,13 @@ DNNs that remember things. They also understand sequences that vary in length.
 ## Production
  * https://deepart.io/ transfer image style to other image
 
-## Nice Blogs to Follow
+## Nice Blogs & Vlogs to Follow
  * http://colah.github.io/
  * https://karpathy.github.io/
  * http://www.wildml.com/
  * https://adeshpande3.github.io/adeshpande3.github.io/
  * http://culurciello.github.io/
+ * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense hilarious information
 
 ## Libraries and Frameworks
 Taking a look at their github statistics can give you a sense of how active/popular each library is.
