@@ -71,7 +71,7 @@ DNNs that remember things. They also understand sequences that vary in length.
  * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense hilarious information
 
 ## Libraries and Frameworks
-Taking a look at their github statistics can give you a sense of how active/popular each library is.
+Taking a glance at their github statistics can give you a sense of how active/popular each library is.
  * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
  * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-241256173); [Serving](https://tensorflow.github.io/serving/); computation graph framework built by Google, has nice visualization board
  * [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework
