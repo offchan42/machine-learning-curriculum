@@ -114,6 +114,6 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * https://github.com/ChristosChristofidis/awesome-deep-learning
 
 ## How to contribute to this list
- 1. Fork this gist and modify your forked version.
+ 1. Fork this gist and modify your forked version. Make sure that your forked version is the latest because this gist is updated very frequently.
  2. Comment on this gist that you want to get merged and I'll pull your fork into this one.
  3. Or just say how would you want this list to be modified and I'll do it if it's promising.
