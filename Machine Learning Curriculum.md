@@ -59,7 +59,7 @@ DNNs that remember things. They also understand sequences that vary in length.
  * https://github.com/facebookresearch/deepmask sharp object segmentation on image at pixel-level
  * https://github.com/facebookresearch/multipathnet convnet for classifying DeepMask+SharpMask model above
  
-## Production
+## Production & Direct Applications
  * https://deepart.io/ transfer image style to other image
 
 ## Nice Blogs & Vlogs to Follow
