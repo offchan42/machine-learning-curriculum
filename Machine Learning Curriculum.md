@@ -17,11 +17,12 @@ A machine is learning when its performance P on task T improves when it gains mo
 
 ## Reinforcement Learning
 Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
- * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+ * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by Dave Silver
  * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
  * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
  * [Lecture 10: Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=IXuHxkpO5E8)
  * [A Survey Paper](https://www.jair.org/media/301/live-301-1562-jair.pdf)
+ * [Deep Reinforcement Learning: A Tutorial - OpenAI](https://gym.openai.com/docs/rl)
 
 ## Deep Learning
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
