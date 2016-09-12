@@ -70,6 +70,7 @@ DNNs that remember things. They also understand sequences that vary in length.
  * https://adeshpande3.github.io/adeshpande3.github.io/
  * http://culurciello.github.io/
  * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense short hilarious introduction to ML
+ * [Two Minute Papers on Deep Learning Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
 
 ## Libraries and Frameworks
 Taking a glance at their github statistics can give you a sense of how active/popular each library is.
