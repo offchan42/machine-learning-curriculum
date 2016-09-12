@@ -59,6 +59,7 @@ DNNs that remember things. They also understand sequences that vary in length.
  * [Neural Storyteller](https://github.com/ryankiros/neural-storyteller) convert image caption into a romantic one
  * https://github.com/facebookresearch/deepmask sharp object segmentation on image at pixel-level
  * https://github.com/facebookresearch/multipathnet convnet for classifying DeepMask+SharpMask model above
+ * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
  
 ## Production & Direct Applications
  * https://deepart.io/ transfer image style to other image
