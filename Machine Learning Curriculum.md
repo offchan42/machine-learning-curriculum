@@ -62,6 +62,7 @@ DNNs that remember things. They also understand sequences that vary in length.
  
 ## Interesting Techniques & Applications
  * https://deepart.io/ transfer image style to other image
+ * http://www.somatic.io/
  * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 ## Nice Blogs & Vlogs to Follow
@@ -91,7 +92,6 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * https://www.openai.com/
  * https://www.openai.com/requests-for-research/
  * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
- * http://www.somatic.io/
  * http://www.gitxiv.com/
 
 ## Practitioner Community
