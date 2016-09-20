@@ -12,7 +12,7 @@ A machine is learning when its performance P on task T improves when it gains mo
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
  * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning) recommended for people who want to know the details of ML algorithms under the hood, understand enough maths to be dangerous and do coding assignments in Octave programming language
- * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) a really nice put-together playlist for ML introduction
+ * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) a really nicely designed concrete actionable content for ML introduction
  * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
 
 ## Reinforcement Learning
