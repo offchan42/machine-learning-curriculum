@@ -8,12 +8,12 @@ This is a really big list because I also point to other people's list to ensure 
 ## General Machine Learning
 A machine is learning when its performance P on task T improves when it gains more experience E.
  * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
- * [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+ * [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262)
  * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
- * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning)
- * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
- * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+ * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning) recommended for people who want to know the details of ML algorithms, understand enough maths to be dangerous and do assignment in Octave programming language
+ * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) a really nice put-together playlist for ML introduction
+ * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
 
 ## Reinforcement Learning
 Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
@@ -26,14 +26,14 @@ Building a machine that senses the environment and then chooses the best policy 
 
 ## Deep Learning
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
- * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730)
+ * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner, this course provides high abstraction ideas of deep learning but low on details
  * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
- * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses)
- * [Deep Learning Book](http://www.deeplearningbook.org/)
+ * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses) because GPU are efficient at training Neural Networks, NVIDIA notices this market !
+ * [Deep Learning Book](http://www.deeplearningbook.org/) recommended for math geeks, a lot of maths involved here
  * [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
  * [DeepMind Publications](https://deepmind.com/publications.html)
- * [DeepLearning.TV - YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+ * [DeepLearning.TV - YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) broad overview of deep learning, no implementation, just pure ideas
  * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
  * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
@@ -41,7 +41,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * [Neural networks class - YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  * http://deeplearning.net/
  * https://developer.nvidia.com/deep-learning
- * http://neuralnetworksanddeeplearning.com/index.html
+ * http://neuralnetworksanddeeplearning.com/index.html a hands-on online book for deep learning maths intuition
  * https://github.com/lisa-lab/DeepLearningTutorials
  * https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i
  * https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv
