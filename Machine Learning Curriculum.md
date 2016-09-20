@@ -26,7 +26,7 @@ Building a machine that senses the environment and then chooses the best policy 
 
 ## Deep Learning
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
- * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time
+ * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner who knows some ML, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time in a professional way
  * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
  * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
  * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses) because GPU are efficient at training Neural Networks, NVIDIA notices this market !
