@@ -14,7 +14,7 @@ A machine is learning when its performance P on task T improves when it gains mo
  * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning) recommended for people who want to know the details of ML algorithms under the hood, understand enough maths to be dangerous and do coding assignments in Octave programming language
  * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) a really nicely designed concrete actionable content for ML introduction
  * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
- * [Machine Learning in Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+ * [Machine Learning with Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 ## Reinforcement Learning
 Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
