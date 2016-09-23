@@ -95,6 +95,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * https://www.openai.com/requests-for-research/
  * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
  * http://www.gitxiv.com/
+ * [Why does Deep Learning work so well? - The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
 
 ## Practitioner Community
  * https://www.kaggle.com
