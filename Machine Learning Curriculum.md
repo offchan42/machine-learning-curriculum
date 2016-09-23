@@ -95,7 +95,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * https://www.openai.com/requests-for-research/
  * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
  * http://www.gitxiv.com/
- * [Why does Deep Learning work so well? - The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
+ 
 
 ## Practitioner Community
  * https://www.kaggle.com
@@ -105,6 +105,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
  * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
  * https://ai100.stanford.edu/2016-report
+ * [Why does Deep Learning work so well? - The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
  
 ## Uncategorized
  * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
