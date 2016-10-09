@@ -46,6 +46,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://github.com/lisa-lab/DeepLearningTutorials
  * https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i
  * https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv
+ * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
  
 ### Recurrent Neural Networks
 DNNs that remember things. They also understand sequences that vary in length.
