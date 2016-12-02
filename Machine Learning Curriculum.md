@@ -7,6 +7,7 @@ This is a really big list because I also point to other people's list to ensure 
 
 ## General Machine Learning
 A machine is learning when its performance P on task T improves when it gains more experience E.
+ * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) It's a quick introduction and it's mostly Machine Learning ideas so I include it here.
  * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
  * [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
  * [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
