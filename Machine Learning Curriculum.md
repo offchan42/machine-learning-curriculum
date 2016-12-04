@@ -84,7 +84,7 @@ DNNs that remember things. They also understand sequences that vary in length.
 ## Libraries and Frameworks
 Taking a glance at their github statistics can give you a sense of how active/popular each library is.
  * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
- * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-241256173); [Fresh Install on Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/); [Serving](https://tensorflow.github.io/serving/); computation graph framework built by Google, has nice visualization board
+ * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-263645160); [Fresh Install on Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/); [Serving](https://tensorflow.github.io/serving/); computation graph framework built by Google, has nice visualization board
  * [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework
  * [Caffe (Python)](https://github.com/BVLC/caffe) does best at computer vision problems
  * [Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework
