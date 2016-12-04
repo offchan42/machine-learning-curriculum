@@ -4,7 +4,7 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 
 This is a really big list because I also point to other people's list to ensure that most of the resources are accessible from this page without you looking anywhere else.
 
-**NOTE**: There is no particular rank or order for each link. The order in which they appear does not convey any meaning and is not essential.
+**NOTE**: There is no particular rank or order for each link. The order in which they appear does not convey any meaning and should not be treated differently.
 
 ## General Machine Learning
 A machine is learning when its performance P on task T improves when it gains more experience E.
