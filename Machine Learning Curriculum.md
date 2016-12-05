@@ -105,6 +105,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 ## Practitioner Community
  * https://www.kaggle.com
  * https://gym.openai.com
+ * https://universe.openai.com/
 
 ## Thoughtful Insights for Future Research
  * [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
