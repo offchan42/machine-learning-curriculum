@@ -46,7 +46,7 @@ A set of machine learning techniques specialized at training deep artificial neu
  * https://developer.nvidia.com/deep-learning
  * http://neuralnetworksanddeeplearning.com/index.html a hands-on online book for deep learning maths intuition
  * https://github.com/lisa-lab/DeepLearningTutorials
- * https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i
+ * https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i This course goes deeper into the world of deep learning, you will learn a lot of things based on TensorFlow such as Autoencoders, Convolutional neural net, feedforward neural nets, etc. You will have lots of assignments to accomplish.
  * https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv
  * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
  
