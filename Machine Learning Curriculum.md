@@ -124,6 +124,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * https://github.com/ujjwalkarn/Machine-Learning-Tutorials
  * https://github.com/terryum/awesome-deep-learning-papers
  * https://github.com/ChristosChristofidis/awesome-deep-learning
+ * https://github.com/Developer-Y/cs-video-courses#machine-learning
 
 ## How to contribute to this list
  1. Fork this gist and modify your forked version. Make sure that your forked version is the latest because this gist is updated very frequently.
