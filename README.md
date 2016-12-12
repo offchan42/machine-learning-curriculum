@@ -127,6 +127,6 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * https://github.com/Developer-Y/cs-video-courses#machine-learning
 
 ## How to contribute to this list
- 1. Fork this gist and modify your forked version. Make sure that your forked version is the latest because this gist is updated very frequently.
- 2. Comment on this gist that you want to get merged and I'll pull your fork into this one.
- 3. Or just say how would you want this list to be modified and I'll do it if it's promising.
+ 1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
+ 2. Make a [pull request](https://github.com/off99555/machine-learning-curriculum/pull/new/master) and tag me if you want.
+ 3. That's it. If your edition is useful, I'll merge it.
