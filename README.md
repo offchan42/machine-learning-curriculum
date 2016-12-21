@@ -10,6 +10,7 @@ This is a really big list because I also point to other people's list to ensure 
 
 ## General Machine Learning
 A machine is said to be learning when its performance `P` on task `T` improves when it gains more experience `E`.
+
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) It's a quick introduction by Yann LeCun and it's mostly Machine Learning ideas so I include it here.
 * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
 * [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
@@ -23,6 +24,7 @@ A machine is said to be learning when its performance `P` on task `T` improves w
 
 ## Reinforcement Learning
 Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
+
 * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by Dave Silver
 * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
@@ -32,6 +34,7 @@ Building a machine that senses the environment and then chooses the best policy 
 
 ## Deep Learning
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
+
 * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner who knows some ML, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time in an intuitive way
 * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
 * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
@@ -55,6 +58,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 
 ### Recurrent Neural Networks
 DNNs that remember things. They also understand sequences that vary in length.
+
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
@@ -86,6 +90,7 @@ DNNs that remember things. They also understand sequences that vary in length.
 
 ## Libraries and Frameworks
 Taking a glance at their github statistics can give you a sense of how active/popular each library is.
+
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
 * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-263645160); [Fresh Install on Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/); [Serving](https://tensorflow.github.io/serving/); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
 * [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework
@@ -97,6 +102,7 @@ Taking a glance at their github statistics can give you a sense of how active/po
 
 ## Cutting-Edge Research
 Steal the most recent techniques introduced by smart computer scientists (could be you).
+
 * https://research.facebook.com/ai/
 * http://research.google.com/pubs/MachineIntelligence.html
 * https://www.openai.com/
@@ -111,7 +117,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * https://universe.openai.com/
 
 ## Thoughtful Insights for Future Research
-* [Pedro Domingos: "The Master Algorithm" | Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
+* [Pedro Domingos: "The Master Algorithm" - Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
 * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 * https://ai100.stanford.edu/2016-report
 * [Why does Deep Learning work so well? - The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
