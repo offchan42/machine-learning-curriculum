@@ -119,9 +119,8 @@ Steal the most recent techniques introduced by smart computer scientists (could 
  * [The Principles of Modern Game AI](https://courses.nucl.ai/)
  * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
  * https://www.youtube.com/user/aicourses
- * [The Fundamentals of Neuroscience](https://www.mcb80x.org/) this is a really
-   good thing to know if you want to know about how our brain works so that
-   you can invent breakthrough research on deep learning
+ * [The Fundamentals of Neuroscience](https://www.mcb80x.org/) learn how our
+   brain works so that you can discover new deep learning breakthrough
  
 ## Other Big Lists
  * https://github.com/josephmisiti/awesome-machine-learning
