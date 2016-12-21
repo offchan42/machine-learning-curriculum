@@ -9,6 +9,7 @@ This is a really big list because I also point to other people's list to ensure 
 **NOTE**: There is no particular rank for each link. The order in which they appear does not convey any meaning and should not be treated differently.
 
 ## General Machine Learning
+
 A machine is said to be learning when its performance `P` on task `T` improves when it gains more experience `E`.
 
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) It's a quick introduction by Yann LeCun and it's mostly Machine Learning ideas so I include it here.
@@ -23,6 +24,7 @@ A machine is said to be learning when its performance `P` on task `T` improves w
 * [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
 
 ## Reinforcement Learning
+
 Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
 
 * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by Dave Silver
@@ -33,6 +35,7 @@ Building a machine that senses the environment and then chooses the best policy 
 * [Deep Reinforcement Learning: A Tutorial - OpenAI](https://gym.openai.com/docs/rl)
 
 ## Deep Learning
+
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
 
 * [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner who knows some ML, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time in an intuitive way
@@ -57,6 +60,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
 
 ### Recurrent Neural Networks
+
 DNNs that remember things. They also understand sequences that vary in length.
 
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
@@ -89,6 +93,7 @@ DNNs that remember things. They also understand sequences that vary in length.
 * [Welch Labs](https://www.youtube.com/user/Taylorns34/)
 
 ## Libraries and Frameworks
+
 Taking a glance at their github statistics can give you a sense of how active/popular each library is.
 
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
@@ -101,6 +106,7 @@ Taking a glance at their github statistics can give you a sense of how active/po
 * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 
 ## Cutting-Edge Research
+
 Steal the most recent techniques introduced by smart computer scientists (could be you).
 
 * https://research.facebook.com/ai/
