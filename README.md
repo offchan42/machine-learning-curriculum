@@ -14,8 +14,8 @@ A machine is said to be learning when its performance `P` on task `T` improves w
 
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) It's a quick introduction by Yann LeCun and it's mostly Machine Learning ideas so I include it here.
 * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
-* [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
-* [Machine Learning: Supervised, Unsupervised & Reinforcement | Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
+* [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
+* [Machine Learning: Supervised, Unsupervised & Reinforcement - Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
 * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 * [Andrew Ng's Course](https://www.coursera.org/learn/machine-learning) recommended for people who want to know the details of ML algorithms under the hood, understand enough maths to be dangerous and do coding assignments in Octave programming language
 * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) a really nicely designed concrete actionable content for ML introduction
@@ -38,7 +38,7 @@ Building a machine that senses the environment and then chooses the best policy 
 
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
 
-* [Deep learning | Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner who knows some ML, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time in an intuitive way
+* [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner who knows some ML, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time in an intuitive way
 * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
 * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
 * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses) because GPU are efficient at training Neural Networks, NVIDIA notices this market !
