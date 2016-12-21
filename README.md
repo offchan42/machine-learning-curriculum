@@ -51,45 +51,45 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 * [UFLDL Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [Neural networks class - YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-* http://deeplearning.net/
-* https://developer.nvidia.com/deep-learning
-* http://neuralnetworksanddeeplearning.com/index.html a hands-on online book for deep learning maths intuition, I can say that after you finish this, you will be able to explain deep learning in a fine detail.
-* https://github.com/lisa-lab/DeepLearningTutorials
-* https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i This course goes deeper into the world of deep learning, you will learn a lot of things based on TensorFlow such as Autoencoders, Convolutional neural net, feedforward neural nets, etc. You will have lots of assignments to accomplish. The course director (Parag) is also approachable and active. He is always happy to answer your questions.
-* https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv
+* [http://deeplearning.net/](http://deeplearning.net/)
+* [https://developer.nvidia.com/deep-learning](https://developer.nvidia.com/deep-learning)
+* [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html) a hands-on online book for deep learning maths intuition, I can say that after you finish this, you will be able to explain deep learning in a fine detail.
+* [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
+* [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) This course goes deeper into the world of deep learning, you will learn a lot of things based on TensorFlow such as Autoencoders, Convolutional neural net, feedforward neural nets, etc. You will have lots of assignments to accomplish. The course director (Parag) is also approachable and active. He is always happy to answer your questions.
+* [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv)
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
 
 ### Recurrent Neural Networks
 
 DNNs that remember things. They also understand sequences that vary in length.
 
-* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-* http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-* http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+* [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 ## Open Source Trained Models
 * [deepdream](https://github.com/google/deepdream) inceptionism - a deep model that converts an image to make it contain animal/building
 * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
 * [Neural Storyteller](https://github.com/ryankiros/neural-storyteller) convert image caption into a romantic one
-* https://github.com/facebookresearch/deepmask sharp object segmentation on image at pixel-level
-* https://github.com/facebookresearch/multipathnet convnet for classifying DeepMask+SharpMask model above
-* https://github.com/tensorflow/models
+* [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) sharp object segmentation on image at pixel-level
+* [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet) convnet for classifying DeepMask+SharpMask model above
+* [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
 
 ## Interesting Techniques & Applications
-* https://deepart.io/ transfer image style to other image
-* http://www.somatic.io/
+* [https://deepart.io/](https://deepart.io/) transfer image style to other image
+* [http://www.somatic.io/](http://www.somatic.io/)
 * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 ## Nice Blogs & Vlogs to Follow
-* http://colah.github.io/ this guy knows how to explain
-* https://karpathy.github.io/ this guy has taught some courses on Deep Nets
-* http://www.wildml.com/ this is like a repository on ML
-* https://adeshpande3.github.io/adeshpande3.github.io/
-* http://culurciello.github.io/
+* [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
+* [https://karpathy.github.io/](https://karpathy.github.io/) this guy has taught some courses on Deep Nets
+* [http://www.wildml.com/](http://www.wildml.com/) this is like a repository on ML
+* [https://adeshpande3.github.io/adeshpande3.github.io/](https://adeshpande3.github.io/adeshpande3.github.io/)
+* [http://culurciello.github.io/](http://culurciello.github.io/)
 * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense short hilarious introduction to ML
 * [Two Minute Papers on Deep Learning Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
-* http://www.leviathan.ai/
+* [http://www.leviathan.ai/](http://www.leviathan.ai/)
 * [Welch Labs](https://www.youtube.com/user/Taylorns34/)
 
 ## Libraries and Frameworks
@@ -109,39 +109,39 @@ Taking a glance at their github statistics can give you a sense of how active/po
 
 Steal the most recent techniques introduced by smart computer scientists (could be you).
 
-* https://research.facebook.com/ai/
-* http://research.google.com/pubs/MachineIntelligence.html
-* https://www.openai.com/
-* https://www.openai.com/requests-for-research/
+* [https://research.facebook.com/ai/](https://research.facebook.com/ai/)
+* [http://research.google.com/pubs/MachineIntelligence.html](http://research.google.com/pubs/MachineIntelligence.html)
+* [https://www.openai.com/](https://www.openai.com/)
+* [https://www.openai.com/requests-for-research/](https://www.openai.com/requests-for-research/)
 * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
-* http://www.gitxiv.com/
+* [http://www.gitxiv.com/](http://www.gitxiv.com/)
 
 
 ## Practitioner Community
-* https://www.kaggle.com
-* https://gym.openai.com
-* https://universe.openai.com/
+* [https://www.kaggle.com](https://www.kaggle.com)
+* [https://gym.openai.com](https://gym.openai.com)
+* [https://universe.openai.com/](https://universe.openai.com/)
 
 ## Thoughtful Insights for Future Research
 * [Pedro Domingos: "The Master Algorithm" - Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
 * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-* https://ai100.stanford.edu/2016-report
+* [https://ai100.stanford.edu/2016-report](https://ai100.stanford.edu/2016-report)
 * [Why does Deep Learning work so well? - The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
 
 ## Uncategorized
 * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
 * [The Principles of Modern Game AI](https://courses.nucl.ai/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html)
-* https://www.youtube.com/user/aicourses
+* [https://www.youtube.com/user/aicourses](https://www.youtube.com/user/aicourses)
 * [The Fundamentals of Neuroscience](https://www.mcb80x.org/) learn how our
 brain works so that you can discover new deep learning breakthrough
 
 ## Other Big Lists
-* https://github.com/josephmisiti/awesome-machine-learning
-* https://github.com/ujjwalkarn/Machine-Learning-Tutorials
-* https://github.com/terryum/awesome-deep-learning-papers
-* https://github.com/ChristosChristofidis/awesome-deep-learning
-* https://github.com/Developer-Y/cs-video-courses#machine-learning
+* [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [https://github.com/terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [https://github.com/Developer-Y/cs-video-courses#machine-learning](https://github.com/Developer-Y/cs-video-courses#machine-learning)
 
 ## How to contribute to this list
 1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
