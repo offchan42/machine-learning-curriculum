@@ -70,6 +70,7 @@ DNNs that remember things. They also understand sequences that vary in length.
 * [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 ## Open Source Trained Models
+* [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
 * [deepdream](https://github.com/google/deepdream) inceptionism - a deep model that converts an image to make it contain animal/building
 * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
