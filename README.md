@@ -151,4 +151,6 @@ brain works so that you can discover new deep learning breakthrough
 2. Make a [pull request](https://github.com/off99555/machine-learning-curriculum/pull/new/master) and tag me if you want.
 3. That's it. If your edition is useful, I'll merge it.
 
+<hr>
+
 [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
