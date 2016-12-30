@@ -4,6 +4,8 @@
 
 Machine Learning is a branch of Artificial Intelligence dedicated at making machines learn from observational data without being explicitly programmed.
 
+Let sacrifice some time to learn Machine Learning so that you can be lazy later.
+
 ## Disclaimer
 
 This is a really big list because I also point to other people's list to ensure that most of the resources are accessible from this page without you looking anywhere else.
