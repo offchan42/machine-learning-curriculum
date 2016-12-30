@@ -12,7 +12,9 @@ This is a really big list because I also point to other people's list to ensure 
 
 ## General Machine Learning
 
-A machine is said to be learning when its performance `P` on task `T` improves when it gains more experience `E`.
+A computer program is said to learn from experience E with respect to some class
+of tasks T and performance measure P if its performance at tasks in T, as
+measured by P, improves with experience E.
 
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) It's a quick introduction by Yann LeCun, mostly about Machine Learning ideas so I include it here.
 * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
