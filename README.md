@@ -28,6 +28,7 @@ class of tasks `T` and performance measure `P` if its performance at tasks in
 * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
 * [Machine Learning with Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
+* [Machine Learning Crash Course: Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 
 ## Reinforcement Learning
 
