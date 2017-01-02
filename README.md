@@ -46,7 +46,6 @@ Building a machine that senses the environment and then chooses the best policy 
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
 
 * [Practical Deep Learning For Coders Course at Fast.ai](http://course.fast.ai/) taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic)
-* [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) an open source deep learning curriculum which contains a lot of course recommendations for you to consider enrolling. (Many recommendations are the same as in this list)
 * [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner who knows some ML, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time in an intuitive way
 * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
 * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
@@ -152,6 +151,8 @@ brain works so that you can discover new deep learning breakthrough
 * [https://github.com/terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [https://github.com/Developer-Y/cs-video-courses#machine-learning](https://github.com/Developer-Y/cs-video-courses#machine-learning)
+* [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/) a major maths guide to Deep Learning
+* [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) an open source deep learning curriculum which contains a lot of course recommendations for you to consider enrolling. (Many recommendations are the same as in this list)
 
 ## How to contribute to this list
 1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
