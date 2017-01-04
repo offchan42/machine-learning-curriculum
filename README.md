@@ -30,6 +30,9 @@ class of tasks `T` and performance measure `P` if its performance at tasks in
 * [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
 * [Machine Learning Crash Course: Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 
+### Glossary
+* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
+
 ## Reinforcement Learning
 
 Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
@@ -64,7 +67,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://developer.nvidia.com/deep-learning](https://developer.nvidia.com/deep-learning)
 * [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html) a hands-on online book for deep learning maths intuition, I can say that after you finish this, you will be able to explain deep learning in a fine detail.
 * [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
-* [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) This course goes deeper into the world of deep learning, you will learn a lot of things based on TensorFlow such as Autoencoders, Convolutional neural net, feedforward neural nets, etc. You will have lots of assignments to accomplish. The course director (Parag) is also approachable and active. He is always happy to answer your questions.
+* [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) This course goes deeper into the world of deep learning, you will learn a lot of things based on TensorFlow such as Autoencoders, Convolutional neural net, feedforward neural nets, generative models, etc. You will have lots of assignments to accomplish. The course director (Parag) is also approachable and active.
 * [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv)
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
 
