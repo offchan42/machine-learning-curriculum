@@ -68,9 +68,6 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv)
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
 
-### Glossary
-* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
-
 ### Recurrent Neural Networks
 
 DNNs that remember things. They also understand sequences that vary in length.
@@ -78,6 +75,9 @@ DNNs that remember things. They also understand sequences that vary in length.
 * [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
+### Glossary
+* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
 
 ## Open Source Trained Models
 * [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
