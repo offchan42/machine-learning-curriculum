@@ -68,6 +68,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv)
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
 * [A Neural Network Playground](http://playground.tensorflow.org/)
+* [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 
 ### Recurrent Neural Networks
 
