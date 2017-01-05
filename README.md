@@ -67,6 +67,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) This course goes deeper into the world of deep learning, you will learn a lot of things based on TensorFlow such as Autoencoders, Convolutional neural net, feedforward neural nets, generative models, etc. You will have lots of assignments to accomplish. The course director (Parag) is also approachable and active.
 * [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv)
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
+* [A Neural Network Playground](http://playground.tensorflow.org/)
 
 ### Recurrent Neural Networks
 
