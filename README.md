@@ -47,7 +47,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 
 * [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/) a curated maths guide to Deep Learning
 * [Practical Deep Learning For Coders Course at Fast.ai](http://course.fast.ai/) taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic)
-* [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for fast learner who knows some ML, this course provides high abstraction ideas of deep learning, dense details put in a short period amount of time in an intuitive way
+* [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for visual learner who knows some ML, this course provides high abstraction ideas of deep learning, dense intuitive details put in a short amount of time
 * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
 * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
 * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses) because GPU are efficient at training Neural Networks, NVIDIA notices this market !
