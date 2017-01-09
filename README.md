@@ -66,8 +66,8 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://developer.nvidia.com/deep-learning](https://developer.nvidia.com/deep-learning)
 * [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html) a hands-on online book for deep learning maths intuition, I can say that after you finish this, you will be able to explain deep learning in a fine detail.
 * [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
-* [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) This course goes deeper into the world of deep learning, you will learn a lot of things based on TensorFlow such as Autoencoders, Convolutional neural net, feedforward neural nets, generative models, etc. You will have lots of assignments to accomplish. The course director (Parag) is also approachable and active.
-* [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm)
+* [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) You will implement a lot of things inside TensorFlow such as Autoencoders, Convolutional neural net, Feedforward neural nets, Generative models (Generative Adversarial Networks, Recurrent networks), visualizing the network, etc. You will have lots of assignments to finish. The course director (Parag) is also approachable and active.
+* [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) Why not learn Deep Learning from the guy who invented Convolutional nets?
 * [A Neural Network Playground](http://playground.tensorflow.org/)
 
 ### Recurrent Neural Networks
