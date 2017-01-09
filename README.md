@@ -47,6 +47,7 @@ Building a machine that senses the environment and then chooses the best policy 
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
 
 * [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
+* [A Neural Network Playground](http://playground.tensorflow.org/) Tinker with a simple neural network designed to help you visualize the learning process
 * [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/) a curated maths guide to Deep Learning
 * [Practical Deep Learning For Coders Course at Fast.ai](http://course.fast.ai/) taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic)
 * [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for visual learner who knows some ML, this course provides high abstraction ideas of deep learning, dense intuitive details put in a short amount of time
@@ -68,7 +69,6 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 * [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) You will implement a lot of things inside TensorFlow such as Autoencoders, Convolutional neural net, Feedforward neural nets, Generative models (Generative Adversarial Networks, Recurrent networks), visualizing the network, etc. You will have lots of assignments to finish. The course director (Parag) is also approachable and active.
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) Why not learn Deep Learning from the guy who invented Convolutional nets?
-* [A Neural Network Playground](http://playground.tensorflow.org/)
 
 ### Recurrent Neural Networks
 
