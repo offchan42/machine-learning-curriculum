@@ -59,7 +59,6 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [DeepMind Publications](https://deepmind.com/publications.html)
 * [DeepLearning.TV - YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) broad overview of deep learning, no implementation, just pure ideas
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 * [UFLDL Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [Neural networks class - YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
@@ -69,6 +68,16 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 * [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) You will implement a lot of things inside TensorFlow such as Autoencoders, Convolutional neural net, Feedforward neural nets, Generative models (Generative Adversarial Networks, Recurrent networks), visualizing the network, etc. You will have lots of assignments to finish. The course director (Parag) is also approachable and active.
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) Why not learn Deep Learning from the guy who invented Convolutional nets?
+
+### Convolutional Neural Networks
+DNNs that work with grid data like sound waveforms, images and videos better
+than ordinary DNNs. They are based on the assumptions that nearby input units
+are more related than the distant units. They also utilize translation
+invariance. For example, given an image, it might be useful to detect the same
+kind of edges everywhere on the image.
+
+* [Neural Network that Changes Everything - Computerphile](https://www.youtube.com/watch?v=py5byOOHZM8)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 ### Recurrent Neural Networks
 
