@@ -153,6 +153,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 * [https://ai100.stanford.edu/2016-report](https://ai100.stanford.edu/2016-report)
 * [Why does Deep Learning work so well? - The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
+* [These are three of the biggest problems facing today's AI](http://www.theverge.com/2016/10/10/13224930/ai-deep-learning-limitations-drawbacks)
 
 ## Uncategorized
 * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
