@@ -129,7 +129,7 @@ Taking a glance at their github statistics can give you a sense of how active/po
 * [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular deep learning framework for LuaJIT
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
 * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
-* [https://bons.ai/](https://bons.ai/) Bonsai is a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
+* [Bonsai](https://bons.ai/) a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
 
 ## Cutting-Edge Research
 
