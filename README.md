@@ -179,6 +179,8 @@ brain works so that you can discover new deep learning breakthrough
 Or you can just submit a [new issue](https://github.com/off99555/machine-learning-curriculum/issues/new)
 containing the resource you want me to include if you don't have time to send a pull request.
 
+The resource you want to include should be free to study.
+
 <hr>
 
 [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
