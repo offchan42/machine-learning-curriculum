@@ -41,6 +41,7 @@ Building a machine that senses the environment and then chooses the best policy 
 * [Lecture 10: Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 * [A Survey Paper](https://www.jair.org/media/301/live-301-1562-jair.pdf)
 * [Deep Reinforcement Learning: A Tutorial - OpenAI](https://gym.openai.com/docs/rl)
+* [CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 
 ## Deep Learning
 
