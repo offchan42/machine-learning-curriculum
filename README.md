@@ -172,7 +172,7 @@ brain works so that you can discover new deep learning breakthrough
 * [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [https://github.com/Developer-Y/cs-video-courses#machine-learning](https://github.com/Developer-Y/cs-video-courses#machine-learning)
 * [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) an open source deep learning curriculum which contains a lot of course recommendations for you to consider enrolling. (Many recommendations are the same as in this list)
-* [Deep Learning Resources by Jeremy](http://www.jeremydjacksonphd.com/category/deep-learning/)
+* [Deep Learning Resources by Jeremy D. Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
 
 ## How to contribute to this list
 1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
