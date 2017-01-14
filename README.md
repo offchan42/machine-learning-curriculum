@@ -12,7 +12,7 @@ This is a really big list because I also point to other people's list to ensure 
 
 **NOTE**: There is no particular rank for each link. The order in which they appear does not convey any meaning and should not be treated differently.
 
-## General Machine Learning
+## Machine Learning in General
 
 A computer program is said to learn from experience `E` with respect to some
 class of tasks `T` and performance measure `P` if its performance at tasks in
