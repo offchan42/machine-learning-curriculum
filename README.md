@@ -78,6 +78,7 @@ invariance. For example, given an image, it might be useful to detect the same
 kind of edges everywhere on the image.
 They are sometimes called **convnets** or **CNNs**.
 
+* [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA) technical explanation including pooling operations, ReLU, fully connected layer, optimization using gradient descent
 * [Neural Network that Changes Everything - Computerphile](https://www.youtube.com/watch?v=py5byOOHZM8)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
