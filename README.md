@@ -49,6 +49,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 
 * [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [A Neural Network Playground](http://playground.tensorflow.org/) Tinker with a simple neural network designed to help you visualize the learning process
+* [Deep Learning Demystified - Youtube](https://www.youtube.com/watch?v=Q9Z20HCPnww) explain inspiration of deep learning from real neurons to artificial neural networks
 * [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/) a curated maths guide to Deep Learning
 * [Practical Deep Learning For Coders Course at Fast.ai](http://course.fast.ai/) taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic)
 * [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for visual learner who knows some ML, this course provides high level ideas of deep learning, dense intuitive details put in a short amount of time, you will use TensorFlow inside the course
@@ -78,7 +79,9 @@ invariance. For example, given an image, it might be useful to detect the same
 kind of edges everywhere on the image.
 They are sometimes called **convnets** or **CNNs**.
 
-* [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA) technical explanation including pooling operations, ReLU, fully connected layer, optimization using gradient descent
+* [How Convolutional Neural Networks work - Youtube](https://www.youtube.com/watch?v=FmpDIaiMIeA) technical
+  explanation including pooling operations, ReLU, fully connected layer,
+  optimization using gradient descent
 * [Neural Network that Changes Everything - Computerphile](https://www.youtube.com/watch?v=py5byOOHZM8)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
