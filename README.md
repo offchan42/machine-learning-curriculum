@@ -76,6 +76,7 @@ than ordinary DNNs. They are based on the assumptions that nearby input units
 are more related than the distant units. They also utilize translation
 invariance. For example, given an image, it might be useful to detect the same
 kind of edges everywhere on the image.
+They are sometimes called **convnets** or **CNNs**.
 
 * [Neural Network that Changes Everything - Computerphile](https://www.youtube.com/watch?v=py5byOOHZM8)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
