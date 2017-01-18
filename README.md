@@ -71,6 +71,7 @@ A set of machine learning techniques specialized at training deep artificial neu
 * [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 * [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) You will implement a lot of things inside TensorFlow such as Autoencoders, Convolutional neural net, Feedforward neural nets, Generative models (Generative Adversarial Networks, Recurrent networks), visualizing the network, etc. You will have lots of assignments to finish. The course director (Parag) is also approachable and active.
 * [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) Why not learn Deep Learning from the guy who invented Convolutional nets?
+* [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) a course at MIT
 
 ### Convolutional Neural Networks
 DNNs that work with grid data like sound waveforms, images and videos better
