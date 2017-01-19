@@ -138,7 +138,7 @@ Taking a glance at their github statistics can give you a sense of how active/po
 * [Keras: Deep Learning library for Theano and TensorFlow](https://github.com/fchollet/keras)
 * [Caffe (Python)](https://github.com/BVLC/caffe) originally created to tackle computer vision problems
 * [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework
-* [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular deep learning framework for LuaJIT
+* [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular scientific computing framework for LuaJIT
 * [PyTorch](http://pytorch.org/) PyTorch is a deep learning framework that puts Python first.
 * [MXNet: A Scalable Deep Learning Framework](https://github.com/dmlc/mxnet/) supports multiple language interfaces
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
