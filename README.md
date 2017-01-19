@@ -137,7 +137,7 @@ Taking a glance at their github statistics can give you a sense of how active/po
 * [Lasagne](https://github.com/Lasagne/Lasagne) Lightweight library to build and train neural networks in **Theano**
 * [Keras: Deep Learning library for Theano and TensorFlow](https://github.com/fchollet/keras)
 * [Caffe (Python)](https://github.com/BVLC/caffe) originally created to tackle computer vision problems
-* [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework
+* [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework (previously known as Computational Network Toolkit)
 * [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular scientific computing framework for LuaJIT
 * [PyTorch](http://pytorch.org/) PyTorch is a deep learning framework that puts Python first.
 * [MXNet: A Scalable Deep Learning Framework](https://github.com/dmlc/mxnet/) supports multiple language interfaces
