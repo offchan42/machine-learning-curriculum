@@ -139,11 +139,11 @@ Taking a glance at their github statistics can give you a sense of how active/po
 * [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework
 * [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular deep learning framework for LuaJIT
 * [PyTorch](http://pytorch.org/) PyTorch is a deep learning framework that puts Python first.
-* [MXNet: A Scalable Deep Learning Framework](http://mxnet.io/) supports multiple language interfaces
+* [MXNet: A Scalable Deep Learning Framework](https://github.com/dmlc/mxnet/) supports multiple language interfaces
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
 * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 * [Bonsai](https://bons.ai/) a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
-* [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
+* [Keras: Deep Learning library for Theano and TensorFlow](https://github.com/fchollet/keras)
 
 ## Cutting-Edge Research
 
