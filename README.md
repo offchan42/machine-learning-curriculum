@@ -142,7 +142,6 @@ Taking a glance at their github statistics can give you a sense of how active/po
 * [PyTorch](http://pytorch.org/) PyTorch is a deep learning framework that puts Python first.
 * [MXNet: A Scalable Deep Learning Framework](https://github.com/dmlc/mxnet/) supports multiple language interfaces
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
-* [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 * [Bonsai](https://bons.ai/) a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
 
 ## Cutting-Edge Research
