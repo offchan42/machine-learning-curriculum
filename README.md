@@ -134,11 +134,12 @@ Taking a glance at their github statistics can give you a sense of how active/po
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
 * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-263645160); [Fresh Install on Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/); [Serving](https://tensorflow.github.io/serving/); [Awesome](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
 * [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework
+* [Lasagne](https://github.com/Lasagne/Lasagne) Lightweight library to build and train neural networks in **Theano**
 * [Caffe (Python)](https://github.com/BVLC/caffe) does best at computer vision problems
 * [Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework
 * [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular deep learning framework for LuaJIT
 * [PyTorch](http://pytorch.org/) PyTorch is a deep learning framework that puts Python first.
-* [MXNet: A Scalable Deep Learning Framework](http://mxnet.io/)
+* [MXNet: A Scalable Deep Learning Framework](http://mxnet.io/) supports multiple language interfaces
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
 * [Software Tools for Reinforcement Learning, Artificial Neural Networks and Robotics (Matlab and Python)](http://jamh-web.appspot.com/download.htm)
 * [Bonsai](https://bons.ai/) a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
