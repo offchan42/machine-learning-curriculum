@@ -139,7 +139,7 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [Caffe (Python)](https://github.com/BVLC/caffe) originally created to tackle computer vision problems
 * [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework (previously known as Computational Network Toolkit)
 * [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular scientific computing framework for LuaJIT
-* [PyTorch (Python)](http://pytorch.org/) PyTorch is a deep learning framework that puts Python first.
+* [PyTorch (Python)](https://github.com/pytorch/pytorch) PyTorch is a deep learning framework that puts Python first.
 * [MXNet: A Scalable Deep Learning Framework](https://github.com/dmlc/mxnet/) supports multiple language interfaces
 * [MinPy (Python)](https://github.com/dmlc/minpy) NumPy interface with mixed backend execution (MXNet, autograd)
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
