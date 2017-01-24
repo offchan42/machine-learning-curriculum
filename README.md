@@ -142,6 +142,7 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [PyTorch (Python)](https://github.com/pytorch/pytorch) PyTorch is a deep learning framework that puts Python first.
 * [MXNet: A Scalable Deep Learning Framework](https://github.com/dmlc/mxnet/) supports multiple language interfaces
 * [MinPy (Python)](https://github.com/dmlc/minpy) NumPy interface with mixed backend execution (MXNet, autograd)
+* [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
 * [Bonsai (Inkling)](https://bons.ai/) a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
 
