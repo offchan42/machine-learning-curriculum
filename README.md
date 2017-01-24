@@ -115,6 +115,7 @@ They are sometimes called **RNNs**.
 * [https://deepart.io/](https://deepart.io/) transfer image style to other image
 * [http://www.somatic.io/](http://www.somatic.io/)
 * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+* [Jukedeck](https://www.jukedeck.com/) Musical AI
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
