@@ -118,6 +118,7 @@ They are sometimes called **RNNs**.
 * [http://www.somatic.io/](http://www.somatic.io/)
 * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 * [Jukedeck](https://www.jukedeck.com/) Musical AI
+* [StackGAN](https://github.com/hanzhanggit/StackGAN) StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 * [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) 3D-GAN, generating 3D models using GAN
 
 ## Nice Blogs & Vlogs to Follow
