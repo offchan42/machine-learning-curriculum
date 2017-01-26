@@ -110,7 +110,7 @@ They are sometimes called **RNNs**.
 * [Neural Storyteller](https://github.com/ryankiros/neural-storyteller) convert image caption into a romantic one
 * [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) sharp object segmentation on image at pixel-level
 * [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet) convnet for classifying DeepMask+SharpMask model above
-* [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText) Library for fast text representation and classification
+* [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText) Library for fast text representation and classification; [Tutorial](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
 * [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
 
 ## Interesting Techniques & Applications
