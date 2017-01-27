@@ -102,7 +102,7 @@ They are sometimes called **RNNs**.
 ### Glossary
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
 * [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) an
-  activation function that is trying to be better than its predecessor (ReLU) in
+  activation function that is trying to be better than its predecessor ([ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))) in
   a lot of way
 
 ## Open Source Trained Models
