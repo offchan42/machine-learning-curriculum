@@ -36,7 +36,7 @@ class of tasks `T` and performance measure `P` if its performance at tasks in
 
 Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
 
-* [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by Dave Silver
+* [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html) (the guy behind [AlphaGo](https://deepmind.com/research/alphago/))
 * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [Lecture 10: Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=IXuHxkpO5E8)
