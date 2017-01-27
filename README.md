@@ -101,6 +101,7 @@ They are sometimes called **RNNs**.
 
 ### Glossary
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
+* [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) an activation function that overcomes its predecessor (ReLU)
 
 ## Open Source Trained Models
 * [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
