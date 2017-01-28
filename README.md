@@ -153,7 +153,10 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
 * [Bonsai (Inkling)](https://bons.ai/) a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
-* [bitfusion - Software to Manage Deep Learning & GPUs](http://www.bitfusion.io/)
+* [bitfusion - Software to Manage Deep Learning & GPUs](http://www.bitfusion.io/) contains
+  Amazon Machine Images for many Deep Learning libraries
+  including
+  [TensorFlow](http://www.bitfusion.io/2016/05/09/easy-tensorflow-model-training-aws/)
 
 ## Cutting-Edge Research
 
