@@ -6,12 +6,6 @@ Machine Learning is a branch of Artificial Intelligence dedicated at making mach
 
 Let sacrifice some time to learn Machine Learning so that you can be lazy later.
 
-## Disclaimer
-
-This is a really big list because I also point to other people's list to ensure that most of the resources are accessible from this page without you looking anywhere else.
-
-**NOTE**: There is no particular rank for each link. The order in which they appear does not convey any meaning and should not be treated differently.
-
 ## Machine Learning in General
 
 A computer program is said to learn from experience `E` with respect to some
@@ -209,6 +203,12 @@ brain works so that you can discover new deep learning breakthrough
 ## I am confused, too much links, where do I start?
 Well, if you are really a beginner and want some concrete suggestions from me please read this issue:
 [https://github.com/off99555/machine-learning-curriculum/issues/4](https://github.com/off99555/machine-learning-curriculum/issues/4)
+
+## Disclaimer
+
+This is a really big list because I also point to other people's list to ensure that most of the resources are accessible from this page without you looking anywhere else.
+
+**NOTE**: There is no particular rank for each link. The order in which they appear does not convey any meaning and should not be treated differently.
 
 ## How to contribute to this list
 1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
