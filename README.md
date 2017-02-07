@@ -119,6 +119,7 @@ They are sometimes called **RNNs**.
 * [Jukedeck](https://www.jukedeck.com/) Musical AI
 * [StackGAN](https://github.com/hanzhanggit/StackGAN) StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 * [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) 3D-GAN, generating 3D models using GAN
+* [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.pqg7xhuce) this is my article explaining GAN, I try to be as intuitive as possible, GAN is so awesome that I can't just ignore and not talk about it
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
