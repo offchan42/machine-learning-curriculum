@@ -136,7 +136,7 @@ They are sometimes called **RNNs**.
 
 Glancing at their GitHub statistics can give you an estimate for how active/popular each of them is.
 
-* [Python Deep Learning Frameworks Reviewed 2017](https://indico.io/blog/python-deep-learning-frameworks-reviewed/)
+* [Python Deep Learning Frameworks Reviewed 2017](https://indico.io/blog/python-deep-learning-frameworks-reviewed/) read this to decide which framework is appropriate for you
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
 * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-263645160); [Fresh Install on Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/); [Serving](https://tensorflow.github.io/serving/); [Awesome](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
 * [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework
