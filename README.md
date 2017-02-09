@@ -41,6 +41,7 @@ Building a machine that senses the environment and then chooses the best policy 
 ## Deep Learning
 
 A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
+The simplest kind of DNN is a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron) (MLP).
 
 <div style="text-align:center"><img src ="img/Brain-549603035-1.jpg" /></div>
 
