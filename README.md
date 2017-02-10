@@ -174,6 +174,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://gym.openai.com](https://gym.openai.com)
 * [https://universe.openai.com/](https://universe.openai.com/)
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* [https://www.facebook.com/groups/DeepNetGroup/](https://www.facebook.com/groups/DeepNetGroup/)
 
 ## Thoughtful Insights for Future Research
 * [Pedro Domingos: "The Master Algorithm" - Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
