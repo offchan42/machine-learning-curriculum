@@ -133,6 +133,30 @@ They are sometimes called **RNNs**.
 * [http://www.leviathan.ai/](http://www.leviathan.ai/)
 * [Welch Labs](https://www.youtube.com/user/Taylorns34/)
 
+## Impactful People
+* [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
+  the [godfather of deep learning](https://www.youtube.com/watch?v=uAu3jQWaN6E)
+  by introducing 2 revolutionizing techniques (ReLU and Dropout) with his students.
+  These techniques solve the Vanishing Gradient and Generalization problem of
+  deep neural networks. He also taught
+  a [Neural Networks course](https://www.coursera.org/learn/neural-networks) at
+  Coursera.
+* [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), he invented CNNs
+  (Convolutional neural networks), the kind of network that is really popular
+  among developer today
+* [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
+  serious professor at Deep Learning
+* [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
+  Google Brain engineer, watch [his TEDx Talk](https://www.youtube.com/watch?v=BfDQNrVphLQ)
+* [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow), he invented
+  GANs (Generative Adversarial Networks), is an OpenAI engineer
+* [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html) this is
+  the guy behind AlphaGo and Artari reinforcement learning game agents at DeepMind
+* [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) CEO of
+  DeepMind, has given a lot of talks about AlphaGo and Reinforcement Learning
+  achievements they have
+
+
 ## Libraries and Frameworks
 
 Glancing at their GitHub statistics can give you an estimate for how active/popular each of them is.
