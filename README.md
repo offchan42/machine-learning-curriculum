@@ -86,6 +86,12 @@ They are sometimes called **convnets** or **CNNs**.
   optimization using gradient descent
 * [Neural Network that Changes Everything - Computerphile](https://www.youtube.com/watch?v=py5byOOHZM8)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+* [Deep Learning for Computer Vision (Andrej Karparthy, OpenAI)](https://www.youtube.com/watch?v=u6aEYuemt0M) this
+  is my most favorite video of convolutional net. Andrej explains convnet in
+  detail answering all the curious questions that one might have. For example,
+  most articles only talk about convolution in grayscale image, but he describe
+  convolution in images with color channels as well. He also talks about the
+  concerns and the assumptions that convnets make. This is a great lecture!
 
 ### Recurrent Neural Networks
 
