@@ -161,6 +161,9 @@ They are sometimes called **RNNs**.
 * [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) CEO of
   DeepMind, has given a lot of talks about AlphaGo and Reinforcement Learning
   achievements they have
+* [Andrej Karparthy](http://cs.stanford.edu/people/karpathy/) he teaches convnet
+  classes, wrote ConvNetJS, and produces a lot of content for DL community, he
+  also writes a blog (see **Nice Blogs & Vlogs to Follow** section)
 
 
 ## Libraries and Frameworks
