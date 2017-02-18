@@ -92,6 +92,8 @@ They are sometimes called **convnets** or **CNNs**.
   most articles only talk about convolution in grayscale image, but he describe
   convolution in images with color channels as well. He also talks about the
   concerns and the assumptions that convnets make. This is a great lecture!
+* [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis) explains
+  how to visualize a convnet using various techniques
 
 ### Recurrent Neural Networks
 
