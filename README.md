@@ -2,10 +2,10 @@
 
 # Machine Learning Curriculum
 
-Machine Learning is a branch of Artificial Intelligence dedicated at making machines learn from observational data without being explicitly programmed.
+Machine Learning is a branch of Artificial Intelligence dedicated at making
+machines learn from observational data without being explicitly programmed. 
 
-Let sacrifice some time to learn Machine Learning so that you can be lazy later.
-
+Let sacrifice some time to learn Machine Learning and do something cool.
 ## Machine Learning in General
 
 A computer program is said to learn from experience `E` with respect to some
@@ -28,7 +28,9 @@ class of tasks `T` and performance measure `P` if its performance at tasks in
 
 ## Reinforcement Learning
 
-Building a machine that senses the environment and then chooses the best policy (action) to do at any given state to maximize its expected long-term scalar reward is the goal of reinforcement learning.
+Building a machine that senses the environment and then chooses the best policy
+(action) to do at any given state to maximize its expected long-term scalar
+reward is the goal of reinforcement learning.
 
 * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html) (the guy behind [AlphaGo](https://deepmind.com/research/alphago/))
 * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
@@ -246,9 +248,12 @@ Well, if you are really a beginner and want some concrete suggestions from me pl
 
 ## Disclaimer
 
-This is a really big list because I also point to other people's list to ensure that most of the resources are accessible from this page without you looking anywhere else.
+This is a really big list because I also point to other people's list to ensure
+that most of the resources are accessible from this page without you looking
+anywhere else.
 
-**NOTE**: There is no particular rank for each link. The order in which they appear does not convey any meaning and should not be treated differently.
+**NOTE**: There is no particular rank for each link. The order in which they
+appear does not convey any meaning and should not be treated differently.
 
 ## How to contribute to this list
 1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
