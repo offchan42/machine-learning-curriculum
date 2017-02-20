@@ -55,7 +55,9 @@ The simplest kind of DNN is a [Multilayer Perceptron](https://en.wikipedia.org/w
 * [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
 * [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
 * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses) because GPU are efficient at training Neural Networks, NVIDIA notices this market !
-* [Deep Learning Book](http://www.deeplearningbook.org/) recommended for math nerds who want to understand the theoretical side
+* [Deep Learning Book](http://www.deeplearningbook.org/) recommended for math
+  nerds who want to understand the theoretical side, the book is crafted by our
+  deep learning wizards (Goodfellow, Bengio and Courville)
 * [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
 * [DeepMind Publications](https://deepmind.com/publications.html)
 * [DeepLearning.TV - YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) broad overview of deep learning, no implementation, just pure ideas
