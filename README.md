@@ -133,6 +133,7 @@ They are sometimes called **RNNs**.
 * [Jukedeck](https://www.jukedeck.com/) Musical AI
 * [StackGAN](https://github.com/hanzhanggit/StackGAN) StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 * [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) 3D-GAN, generating 3D models using GAN
+* [FloydHub] a Heroku for Deep Learning (You focus on the model, they'll deploy)
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
