@@ -133,7 +133,6 @@ They are sometimes called **RNNs**.
 * [Jukedeck](https://www.jukedeck.com/) Musical AI
 * [StackGAN](https://github.com/hanzhanggit/StackGAN) StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 * [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) 3D-GAN, generating 3D models using GAN
-* [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
@@ -173,7 +172,7 @@ They are sometimes called **RNNs**.
   also writes a blog (see **Nice Blogs & Vlogs to Follow** section)
 
 
-## Libraries and Frameworks
+## Libraries, Frameworks and Services
 
 Glancing at their GitHub statistics can give you an estimate for how active/popular each of them is.
 
@@ -196,6 +195,7 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
   Amazon Machine Images for many Deep Learning libraries
   including
   [TensorFlow](http://www.bitfusion.io/2016/05/09/easy-tensorflow-model-training-aws/)
+* [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
 
 ## Cutting-Edge Research
 
