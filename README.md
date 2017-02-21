@@ -215,6 +215,8 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://universe.openai.com/](https://universe.openai.com/)
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 * [https://www.facebook.com/groups/DeepNetGroup/](https://www.facebook.com/groups/DeepNetGroup/)
+* [https://www.facebook.com/groups/1892696574296664/](Transmission) a Facebook
+  group talking about Self-Driving Cars but it's usually not specific to that
 
 ## Thoughtful Insights for Future Research
 * [Pedro Domingos: "The Master Algorithm" - Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
