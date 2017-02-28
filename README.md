@@ -5,12 +5,19 @@
 Machine Learning is a branch of Artificial Intelligence dedicated at making
 machines learn from observational data without being explicitly programmed. 
 
-Let sacrifice some time to learn Machine Learning and use it to do something cool.
+> Machine learning and AI are not the same. Machine learning is an instrument in
+> the AI symphony — a component of AI. So what is Machine Learning — or ML —
+> exactly? It’s the ability for an algorithm to learn from prior data in order
+> to produce a behavior. ML is teaching machines to make decisions in situations
+> they have never seen.
+
 ## Machine Learning in General
 
-A computer program is said to learn from experience `E` with respect to some
-class of tasks `T` and performance measure `P` if its performance at tasks in
-`T`, as measured by `P`, improves with experience `E`.
+Study this section to understand fundamental ideas before going any deeper.
+
+> A computer program is said to learn from experience `E` with respect to some
+> class of tasks `T` and performance measure `P` if its performance at tasks in
+> `T`, as measured by `P`, improves with experience `E`.
 
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas
 * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
