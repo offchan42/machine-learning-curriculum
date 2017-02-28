@@ -42,8 +42,15 @@ reward is the goal of reinforcement learning.
 
 ## Deep Learning
 
-A set of machine learning techniques specialized at training deep artificial neural networks (DNN).
-The simplest kind of DNN is a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron) (MLP).
+Deep learning is a branch of machine learning where deep artificial neural
+networks (DNN) — algorithms inspired by the way neurons work in the brain — find
+patterns in raw data by combining multiple layers of artificial neurons. As the
+layers increase, so does the neural network’s ability to learn increasingly
+abstract concepts.
+
+The simplest kind of DNN is
+a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+(MLP).
 
 <div style="text-align:center"><img src ="img/Brain-549603035-1.jpg" /></div>
 
