@@ -140,6 +140,7 @@ They are sometimes called **RNNs**.
 * [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
 
 ## Interesting Techniques & Applications
+* [http://deeplearninggallery.com/](http://deeplearninggallery.com/) Deep Learning Gallery - a curated list of awesome deep learning projects
 * [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.pqg7xhuce) this is my article explaining GANs, I try to be as intuitive as possible, GANs are so awesome that I can't just ignore and not talk about it. You can also watch the [official tutorial by Ian Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks).
 * [https://deepart.io/](https://deepart.io/) transfer image style to other image
 * [http://www.somatic.io/](http://www.somatic.io/)
