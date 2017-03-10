@@ -261,6 +261,7 @@ brain works so that you can discover new deep learning breakthrough
 * [https://github.com/Developer-Y/cs-video-courses#machine-learning](https://github.com/Developer-Y/cs-video-courses#machine-learning)
 * [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) an open source deep learning curriculum which contains a lot of course recommendations for you to consider enrolling. (Many recommendations are the same as in this list)
 * [Deep Learning Resources by Jeremy D. Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
+* [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 ## I am confused, too many links, where do I start?
 If you are a beginner and want to get started with my suggestions, please read this issue:
