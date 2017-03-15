@@ -13,7 +13,7 @@ machines learn from observational data without being explicitly programmed.
 
 ## Machine Learning in General
 
-Study this section to understand fundamental ideas before going any deeper.
+Study this section to understand fundamental concepts and develop intuitions before going any deeper.
 
 > A computer program is said to learn from experience `E` with respect to some
 > class of tasks `T` and performance measure `P` if its performance at tasks in
