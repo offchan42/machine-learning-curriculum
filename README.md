@@ -171,7 +171,7 @@ They are sometimes called **RNNs**.
   Coursera.
 * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), he invented CNNs
   (Convolutional neural networks), the kind of network that is really popular
-  among developer today
+  among computer vision developers today
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
   serious professor at Deep Learning
 * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
