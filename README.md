@@ -139,6 +139,15 @@ They are sometimes called **RNNs**.
 * [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet) convnet for classifying DeepMask+SharpMask model above
 * [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText) Library for fast text representation and classification; [Tutorial](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
 * [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
+* [https://github.com/google/seq2seq](https://github.com/google/seq2seq) A
+  general-purpose encoder-decoder framework for Tensorflow (you need to provide
+  it a sequence of vectors as input and also provide sequence of vectors as
+  output to train this deep RNN)
+* [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
+  Image-to-image translation using conditional adversarial nets;
+  [TensorFlow port of pix2pix](https://github.com/affinelayer/pix2pix-tensorflow);
+  Watch the presentation of this work:
+  [Learning to see without a teacher](https://www.youtube.com/watch?v=ck3_7tVuCRs)
 
 ## Interesting Techniques & Applications
 * [http://deeplearninggallery.com/](http://deeplearninggallery.com/) Deep Learning Gallery - a curated list of awesome deep learning projects
