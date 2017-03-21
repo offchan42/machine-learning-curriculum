@@ -169,6 +169,7 @@ They are sometimes called **RNNs**.
 * [Two Minute Papers on Deep Learning Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
 * [http://www.leviathan.ai/](http://www.leviathan.ai/)
 * [Welch Labs](https://www.youtube.com/user/Taylorns34/)
+* [Distill.pub](http://distill.pub/about/) A modern medium for presenting research in Machine Learning
 
 ## Impactful People
 * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
