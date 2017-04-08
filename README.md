@@ -157,7 +157,10 @@ They are sometimes called **RNNs**.
 * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 * [Jukedeck](https://www.jukedeck.com/) Musical AI
 * [StackGAN](https://github.com/hanzhanggit/StackGAN) StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
-* [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) 3D-GAN, generating 3D models using GAN
+* [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) 3D-GAN,
+  generating 3D models using GAN
+* [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) this
+  type of GAN generates more realistic images than ordinary GAN
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
