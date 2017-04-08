@@ -184,6 +184,8 @@ They are sometimes called **RNNs**.
   among computer vision developers today
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
   serious professor at Deep Learning
+* [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) invented LSTM (a
+  particular type of RNN)
 * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
   Google Brain engineer, watch [his TEDx Talk](https://www.youtube.com/watch?v=BfDQNrVphLQ)
 * [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow), he invented
