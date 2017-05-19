@@ -280,7 +280,7 @@ brain works so that you can discover new deep learning breakthrough
 * [Deep Learning Resources by Jeremy D. Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
 * [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
-* [http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/](A Large set of Machine Learning Resources for Beginners to Mavens)
+* [A Large set of Machine Learning Resources for Beginners to Mavens](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
 
 ## I am confused, too many links, where do I start?
 If you are a beginner and want to get started with my suggestions, please read this issue:
