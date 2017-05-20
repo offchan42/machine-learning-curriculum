@@ -187,7 +187,8 @@ They are sometimes called **RNNs**.
   (Convolutional neural networks), the kind of network that is really popular
   among computer vision developers today
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
-  serious professor at Deep Learning
+  serious professor at Deep Learning, you can
+  [watch his TEDx talk here (2017)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
 * [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) invented LSTM (a
   particular type of RNN)
 * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
