@@ -203,6 +203,9 @@ They are sometimes called **RNNs**.
 * [Andrej Karparthy](http://cs.stanford.edu/people/karpathy/) he teaches convnet
   classes, wrote ConvNetJS, and produces a lot of content for DL community, he
   also writes a blog (see **Nice Blogs & Vlogs to Follow** section)
+* [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) he wrote the book
+  *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
+  Remake Our World*, [watch his TEDx talk here](https://homes.cs.washington.edu/~pedrod/)
 
 
 ## Libraries, Frameworks and Services
