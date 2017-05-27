@@ -205,7 +205,7 @@ They are sometimes called **RNNs**.
   also writes a blog (see **Nice Blogs & Vlogs to Follow** section)
 * [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) he wrote the book
   *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
-  Remake Our World*, [watch his TEDx talk here](https://homes.cs.washington.edu/~pedrod/)
+  Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
 
 
 ## Libraries, Frameworks and Services
