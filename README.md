@@ -256,6 +256,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
   group talking about Self-Driving Cars but it's usually not specific to that
 
 ## Thoughtful Insights for Future Research
+* [What Can't Deep Learning Do?](http://rbharath.github.io/what-cant-deep-learning-do/) a list of problems that deep learning faces
 * [Pedro Domingos: "The Master Algorithm" - Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
 * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 * [https://ai100.stanford.edu/2016-report](https://ai100.stanford.edu/2016-report)
