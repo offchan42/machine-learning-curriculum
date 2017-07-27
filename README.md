@@ -166,6 +166,7 @@ They are sometimes called **RNNs**.
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
 * [https://karpathy.github.io/](https://karpathy.github.io/) this guy has taught some courses on Deep Nets
+* [http://ruder.io](http://ruder.io) Sebastian Ruder's Deep Learning and NLP blog
 * [http://www.wildml.com/](http://www.wildml.com/) this is like a repository on ML
 * [https://adeshpande3.github.io/adeshpande3.github.io/](https://adeshpande3.github.io/adeshpande3.github.io/)
 * [http://culurciello.github.io/](http://culurciello.github.io/)
