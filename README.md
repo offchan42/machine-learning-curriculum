@@ -91,6 +91,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) a bunch of neural network models that you should know about (I know about half of them so don't worry that you don't know many because most of them are not popular or useful in the present)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) a course for 2017
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo/blob/master/README.md) a list of GAN papers which have their own name
+* [A Microsoft CNTK tutorial in Python – build a neural network](http://adventuresinmachinelearning.com/microsoft-cntk-tutorial/) a comprehensive introductory tutorial for Microsoft's CNTK framework
 
 ### Convolutional Neural Networks
 DNNs that work with grid data like sound waveforms, images and videos better
@@ -114,6 +115,7 @@ They are sometimes called **convnets** or **CNNs**.
   concerns and the assumptions that convnets make. This is a great lecture!
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis) explains
   how to visualize a convnet using various techniques
+* [Convolutional Neural Networks Tutorial in TensorFlow](http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/) gives an introduction to CNNs for beginners in TensorFlow
 
 ### Recurrent Neural Networks
 
