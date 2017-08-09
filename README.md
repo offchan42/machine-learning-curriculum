@@ -193,6 +193,8 @@ They are sometimes called **RNNs**.
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
   serious professor at Deep Learning, you can
   [watch his TEDx talk here (2017)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
+* [Andrew Ng](http://www.andrewng.org/) he discovered that GPUs make deep learning faster.
+  He taught 2 famous online courses, Machine Learning and Deep Learning specialization at Coursera.
 * [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) invented LSTM (a
   particular type of RNN)
 * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
