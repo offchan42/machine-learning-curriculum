@@ -95,7 +95,6 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) a course for 2017
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo/blob/master/README.md) a list of GAN papers which have their own name
 * [A Microsoft CNTK tutorial in Python – build a neural network](http://adventuresinmachinelearning.com/microsoft-cntk-tutorial/) a comprehensive introductory tutorial for Microsoft's CNTK framework
-* [How to debug neural networks. Manual.](https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2)
 
 ### Convolutional Neural Networks
 DNNs that work with grid data like sound waveforms, images and videos better
@@ -130,11 +129,9 @@ They are sometimes called **RNNs**.
 * [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
-### Glossary
+### Best Practices
+* [How to debug neural networks. Manual.](https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
-* [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) an
-  activation function that is trying to be better than its predecessor ([ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))) in
-  a lot of way
 
 ## Open Source Trained Models
 * [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
@@ -168,6 +165,8 @@ They are sometimes called **RNNs**.
   generating 3D models using GAN
 * [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) this
   type of GAN generates more realistic images than ordinary GAN
+* [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) an
+  activation function that is trying to be better than its predecessor ([ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))) in a lot of way
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
