@@ -248,10 +248,12 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 
 * [https://research.facebook.com/ai/](https://research.facebook.com/ai/)
 * [http://research.google.com/pubs/MachineIntelligence.html](http://research.google.com/pubs/MachineIntelligence.html)
+* [https://deepmind.com/research/][https://deepmind.com/research/] Research of DeepMind company
 * [https://www.openai.com/](https://www.openai.com/)
 * [https://www.openai.com/requests-for-research/](https://www.openai.com/requests-for-research/)
 * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
 * [http://www.gitxiv.com/](http://www.gitxiv.com/)
+* [http://www.arxiv-sanity.com/](http://www.arxiv-sanity.com/) Arxiv Sanity Preserver built by Andrej Karparthy for listing papers in [arxiv](https://arxiv.org/)
 
 
 ## Practitioner Community
