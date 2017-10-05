@@ -19,7 +19,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 > class of tasks `T` and performance measure `P` if its performance at tasks in
 > `T`, as measured by `P`, improves with experience `E`.
 
-* [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas
+* [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas, Deep Learning, and convolutional neural network
 * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
 * [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
 * [Machine Learning: Supervised, Unsupervised & Reinforcement - Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
@@ -63,7 +63,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 <div style="text-align:center"><img src ="img/Brain-549603035-1.jpg" /></div>
 
-* [deeplearning.ai](https://www.deeplearning.ai/) new 5 courses specialization taught by Andrew Ng at Coursera; It's the sequel of [Machine Learning course](https://www.coursera.org/learn/machine-learning) at Coursera.
+* [DeepLearning.ai](https://www.deeplearning.ai/) new 5 courses specialization taught by Andrew Ng at Coursera; It's the sequel of [Machine Learning course](https://www.coursera.org/learn/machine-learning) at Coursera.
 * [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [A Neural Network Playground](http://playground.tensorflow.org/) Tinker with a simple neural network designed to help you visualize the learning process
 * [Deep Learning Demystified - Youtube](https://www.youtube.com/watch?v=Q9Z20HCPnww) explain inspiration of deep learning from real neurons to artificial neural networks
