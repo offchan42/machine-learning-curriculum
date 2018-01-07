@@ -64,6 +64,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 <div style="text-align:center"><img src ="img/Brain-549603035-1.jpg" /></div>
 
 * [DeepLearning.ai](https://www.deeplearning.ai/) new 5 courses specialization taught by Andrew Ng at Coursera; It's the sequel of [Machine Learning course](https://www.coursera.org/learn/machine-learning) at Coursera.
+* [Advanced Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/aml) consists of 7 courses
 * [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [A Neural Network Playground](http://playground.tensorflow.org/) Tinker with a simple neural network designed to help you visualize the learning process
 * [Deep Learning Demystified - Youtube](https://www.youtube.com/watch?v=Q9Z20HCPnww) explain inspiration of deep learning from real neurons to artificial neural networks
