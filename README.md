@@ -300,6 +300,7 @@ brain works so that you can discover new deep learning breakthrough
 * [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
 * [A Large set of Machine Learning Resources for Beginners to Mavens](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
+* [Skynet Today](http://www.skynettoday.com) Accessible and informed coverage of the latest AI hype and panic
 
 ## I am confused, too many links, where do I start?
 If you are a beginner and want to get started with my suggestions, please read this issue:
