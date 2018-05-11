@@ -244,6 +244,7 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
   including
   [TensorFlow](http://www.bitfusion.io/2016/05/09/easy-tensorflow-model-training-aws/)
 * [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
+* [Lobe](https://lobe.ai/) a drag-and-drop tool for machine learning
 
 ## Cutting-Edge Research
 
