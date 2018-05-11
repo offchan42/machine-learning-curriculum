@@ -170,6 +170,7 @@ They are sometimes called **RNNs**.
   type of GAN generates more realistic images than ordinary GAN
 * [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) an
   activation function that is trying to be better than its predecessor ([ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))) in a lot of way
+* [Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
