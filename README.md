@@ -257,6 +257,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://www.openai.com/](https://www.openai.com/)
 * [https://www.openai.com/requests-for-research/](https://www.openai.com/requests-for-research/)
 * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
+* [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 * [http://www.gitxiv.com/](http://www.gitxiv.com/)
 * [http://www.arxiv-sanity.com/](http://www.arxiv-sanity.com/) Arxiv Sanity Preserver built by Andrej Karparthy for listing papers in [arxiv](https://arxiv.org/)
 
