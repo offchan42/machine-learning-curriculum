@@ -3,7 +3,7 @@
 # Machine Learning Curriculum
 
 Machine Learning is a branch of Artificial Intelligence dedicated at making
-machines learn from observational data without being explicitly programmed. 
+machines learn from observational data without being explicitly programmed.
 
 > Machine learning and AI are not the same. Machine learning is an instrument in
 > the AI symphony — a component of AI. So what is Machine Learning — or ML —
@@ -19,6 +19,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 > class of tasks `T` and performance measure `P` if its performance at tasks in
 > `T`, as measured by `P`, improves with experience `E`.
 
+* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas, Deep Learning, and convolutional neural network
 * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
 * [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
@@ -99,6 +100,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [A Microsoft CNTK tutorial in Python – build a neural network](http://adventuresinmachinelearning.com/microsoft-cntk-tutorial/) a comprehensive introductory tutorial for Microsoft's CNTK framework
 
 ### Convolutional Neural Networks
+
 DNNs that work with grid data like sound waveforms, images and videos better
 than ordinary DNNs. They are based on the assumptions that nearby input units
 are more related than the distant units. They also utilize translation
