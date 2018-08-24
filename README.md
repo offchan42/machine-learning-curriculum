@@ -263,6 +263,7 @@ Let the machine does machine learning for you!
 * https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
 * https://github.com/EpistasisLab/tpot Run thousands of machine learning pipelines and output the code for you
 * https://github.com/dmlc/xgboost eXtreme Gradient Boosting
+* https://mljar.com/ Commercial solution for AutoML that integrates multiple libraries like sklearn, keras, tensorflow, etc.
 
 ## Cutting-Edge Research
 
