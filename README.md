@@ -259,6 +259,7 @@ Let the machine does machine learning for you!
 
 * https://www.automl.org/ Find curated list of AutoML libraries and researches
 * https://github.com/jhfjhfj1/autokeras As of writing (24 August 2018), this library is pretty premature as it can only does classification.
+* https://github.com/maxpumperla/hyperas Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
 * https://github.com/EpistasisLab/tpot Run thousands of machine learning pipelines and output the code for you
 * https://github.com/dmlc/xgboost eXtreme Gradient Boosting
