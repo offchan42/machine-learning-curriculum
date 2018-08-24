@@ -178,7 +178,8 @@ They are sometimes called **RNNs**.
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
 * [https://karpathy.github.io/](https://karpathy.github.io/) this guy has taught some courses on Deep Nets
 * [http://ruder.io](http://ruder.io) Sebastian Ruder's Deep Learning and NLP blog
-* [http://www.wildml.com/](http://www.wildml.com/) this is like a repository on ML
+* [http://www.wildml.com/](http://www.wildml.com/)
+* [https://machinelearningmastery.com/](https://machinelearningmastery.com/) Contains a lot of content and beautiful website
 * [https://adeshpande3.github.io/adeshpande3.github.io/](https://adeshpande3.github.io/adeshpande3.github.io/)
 * [http://culurciello.github.io/](http://culurciello.github.io/)
 * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense short hilarious introduction to ML
