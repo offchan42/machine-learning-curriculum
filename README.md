@@ -249,6 +249,19 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
 * [Lobe](https://lobe.ai/) a drag-and-drop tool for machine learning
 
+### AutoML
+
+Make machine learns without the tedious task of feature engineer, model selection, and hyperparameter tuning
+that you have to do yourself.
+
+Let the machine does machine learning for you!
+
+* https://www.automl.org/ Find curated list of AutoML libraries and researches
+* https://github.com/jhfjhfj1/autokeras As of writing (24 August 2018), this library is pretty premature as it can only does classification.
+* https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
+* https://github.com/EpistasisLab/tpot Run thousands of machine learning pipelines and output the code for you
+* https://github.com/dmlc/xgboost eXtreme Gradient Boosting
+
 ## Cutting-Edge Research
 
 Steal the most recent techniques introduced by smart computer scientists (could be you).
