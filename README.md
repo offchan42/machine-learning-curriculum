@@ -139,6 +139,7 @@ They are sometimes called **RNNs**.
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
 
 ## Open Source Trained Models
+* [https://modelzoo.co/](https://modelzoo.co/) Model Zoo
 * [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
 * [deepdream](https://github.com/google/deepdream) inceptionism - a deep model that takes an image and hallucinates animals/buildings from it
 * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
