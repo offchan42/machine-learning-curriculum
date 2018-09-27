@@ -19,6 +19,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 > class of tasks `T` and performance measure `P` if its performance at tasks in
 > `T`, as measured by `P`, improves with experience `E`.
 
+* [Opinionated Machine Learning Course by Fast.ai](http://course.fast.ai/ml.html)
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas, Deep Learning, and convolutional neural network
 * [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
