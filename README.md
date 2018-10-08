@@ -267,6 +267,7 @@ Let the machine does machine learning for you!
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
 * https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular
 * https://mljar.com/ Commercial solution for AutoML that integrates multiple libraries like sklearn, keras, tensorflow, etc.
+* https://github.com/autonomio/talos Hyperparameter Scanning and Optimization for Keras
 
 ## Cutting-Edge Research
 
