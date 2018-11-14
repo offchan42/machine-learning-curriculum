@@ -43,6 +43,7 @@ Building a machine that senses the environment and then chooses the best policy
 (action) to do at any given state to maximize its expected long-term scalar
 reward is the goal of reinforcement learning.
 
+* [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html) This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 * [Basic Reinforcement Learning | GitHub](https://github.com/vmayoral/basic_reinforcement_learning) An introduction series to Reinforcement Learning (RL) with comprehensive step-by-step tutorials.
 * [Advanced Topics: RL 2015 (COMPM050/COMPGI13)](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html) (the guy behind [AlphaGo](https://deepmind.com/research/alphago/))
 * [An Introduction Book by Richard S. Sutton and Andrew G. Barto](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
