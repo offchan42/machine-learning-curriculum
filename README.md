@@ -255,6 +255,7 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [Lobe](https://lobe.ai/) a drag-and-drop tool for machine learning
 * [comet.ml](https://www.comet.ml/) Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
 * [MLflow](https://mlflow.org/) MLflow (currently in beta) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. It currently offers three components: MLflow Tracking, MLflow Projects, MLflow Models.
+* [wav2letter++](https://code.fb.com/ai-research/wav2letter/) Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native
 
 ### AutoML
 
