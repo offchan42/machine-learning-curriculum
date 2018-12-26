@@ -100,6 +100,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) a course for 2017
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo/blob/master/README.md) a list of GAN papers which have their own name
 * [A Microsoft CNTK tutorial in Python – build a neural network](http://adventuresinmachinelearning.com/microsoft-cntk-tutorial/) a comprehensive introductory tutorial for Microsoft's CNTK framework
+* [https://deeplearning.mit.edu/](https://deeplearning.mit.edu/) MIT Deep Learning taught by Lex Fridman
 
 ### Convolutional Neural Networks
 
