@@ -259,6 +259,7 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [MLflow](https://mlflow.org/) MLflow (currently in beta) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. It currently offers three components: MLflow Tracking, MLflow Projects, MLflow Models.
 * [wav2letter++](https://code.fb.com/ai-research/wav2letter/) Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native
 * [Ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. It's by Uber team.
+* [spektral](https://github.com/danielegrattarola/spektral/) A Python framework for relational representation learning in Keras
 
 ### AutoML
 
