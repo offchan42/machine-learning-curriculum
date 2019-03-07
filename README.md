@@ -101,7 +101,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo/blob/master/README.md) a list of GAN papers which have their own name
 * [A Microsoft CNTK tutorial in Python – build a neural network](http://adventuresinmachinelearning.com/microsoft-cntk-tutorial/) a comprehensive introductory tutorial for Microsoft's CNTK framework
 * [https://deeplearning.mit.edu/](https://deeplearning.mit.edu/) MIT Deep Learning taught by Lex Fridman
-* [https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187](Intro to TensorFlow for Deep Learning) By TensorFlow at Udacity
+* [Intro to TensorFlow for Deep Learning | Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) By TensorFlow
 
 ### Convolutional Neural Networks
 
