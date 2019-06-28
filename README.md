@@ -138,6 +138,15 @@ They are sometimes called **RNNs**.
 * [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
+## Unsupervised Domain Adaptation
+
+Unsupervised Domain Adaptation is a type of Transfer Learning that applies a model that was trained on source dataset to do well on a target dataset without any label on the target dataset. It's one of the technique that is practically useful in the real world when the cost of labeling target dataset is high. One of the example is to train a model on synthetic data with label and try to use it on real data without label.
+
+* [https://paperswithcode.com/task/unsupervised-domain-adaptation](https://paperswithcode.com/task/unsupervised-domain-adaptation)
+* [https://github.com/zhaoxin94/awsome-domain-adaptation#unsupervised-da](https://github.com/zhaoxin94/awsome-domain-adaptation#unsupervised-da)
+* [https://github.com/barebell/DA](https://github.com/barebell/DA)
+* [https://github.com/bbdamodaran/deepJDOT](https://github.com/bbdamodaran/deepJDOT) one of the easy-to-use implementation on keras of a unsupervised domain adaptation technique that I tried before and work great
+
 ### Best Practices
 * [How to debug neural networks. Manual.](https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
