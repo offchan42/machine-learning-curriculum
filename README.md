@@ -271,6 +271,12 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [Ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. It's by Uber team.
 * [spektral](https://github.com/danielegrattarola/spektral/) A Python framework for relational representation learning in Keras
 
+### Data Augmentation
+
+* https://github.com/aleju/imgaug Image augmentation library which supports converting keypoints to heatmaps
+* https://github.com/albu/albumentations Fastest image augmentation library
+* https://github.com/mdbloice/Augmentor Easy-to-use image augmentation for classification tasks (cannot augment keypoints)
+
 ### AutoML
 
 Make machine learns without the tedious task of feature engineer, model selection, and hyperparameter tuning
