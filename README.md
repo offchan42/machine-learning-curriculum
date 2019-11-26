@@ -276,6 +276,7 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * https://github.com/aleju/imgaug Image augmentation library which supports converting keypoints to heatmaps
 * https://github.com/albu/albumentations Fastest image augmentation library
 * https://github.com/mdbloice/Augmentor Easy-to-use image augmentation for classification tasks (cannot augment keypoints)
+* https://github.com/cgnorthcutt/cleanlab Clean labeling error of dataset
 
 ### AutoML
 
