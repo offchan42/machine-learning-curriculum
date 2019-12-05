@@ -182,6 +182,7 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
 * [Jukedeck](https://www.jukedeck.com/) Musical AI
 
 ## Nice Blogs & Vlogs to Follow
+* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/) Frequently updated blog about OpenCV and deep learning
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
 * [https://karpathy.github.io/](https://karpathy.github.io/) this guy has taught some courses on Deep Nets
 * [http://ruder.io](http://ruder.io) Sebastian Ruder's Deep Learning and NLP blog
