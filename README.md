@@ -180,14 +180,6 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
 * [http://www.somatic.io/](http://www.somatic.io/)
 * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 * [Jukedeck](https://www.jukedeck.com/) Musical AI
-* [StackGAN](https://github.com/hanzhanggit/StackGAN) StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
-* [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) 3D-GAN,
-  generating 3D models using GAN
-* [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) this
-  type of GAN generates more realistic images than ordinary GAN
-* [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289) an
-  activation function that is trying to be better than its predecessor ([ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))) in a lot of way
-* [Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
 
 ## Nice Blogs & Vlogs to Follow
 * [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
@@ -243,6 +235,7 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
 
 Glancing at their GitHub statistics can give you an estimate for how active/popular each of them is.
 
+* [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
 * [Python Deep Learning Frameworks Reviewed 2017](https://indico.io/blog/python-deep-learning-frameworks-reviewed/) read this to decide which framework is appropriate for you
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
 * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-263645160); [Fresh Install on Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/); [Serving](https://tensorflow.github.io/serving/); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
