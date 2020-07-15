@@ -266,6 +266,12 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [Ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. It's by Uber team.
 * [spektral](https://github.com/danielegrattarola/spektral/) A Python framework for relational representation learning in Keras
 
+### Machine Learning in Production
+
+Libraries that help you develop/debug/deploy the model in production. There is more to ML than training the model.
+* https://github.com/iterative/cml Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. Use it to automate parts of your development workflow, including model training and evaluation, comparing ML experiments across your project history, and monitoring changing datasets.
+* https://github.com/creme-ml/creme Python library for **online machine learning**. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data.
+
 ### Data Wrangling
 
 * https://github.com/Netflix/metaflow Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix.
