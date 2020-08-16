@@ -178,9 +178,8 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
 * [http://deeplearninggallery.com/](http://deeplearninggallery.com/) Deep Learning Gallery - a curated list of awesome deep learning projects
 * [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.pqg7xhuce) this is my article explaining GANs, I try to be as intuitive as possible, GANs are so awesome that I can't just ignore and not talk about it. You can also watch the [official tutorial by Ian Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks).
 * [https://deepart.io/](https://deepart.io/) transfer image style to other image
-* [http://www.somatic.io/](http://www.somatic.io/)
 * [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
-* [Jukedeck](https://www.jukedeck.com/) Musical AI
+* https://github.com/TachibanaYoshino/AnimeGAN
 
 ## Nice Blogs & Vlogs to Follow
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/) Frequently updated blog about OpenCV and deep learning
@@ -297,7 +296,7 @@ Let the machine does machine learning for you!
 * https://mljar.com/ Commercial solution for AutoML that integrates multiple libraries like sklearn, keras, tensorflow, etc.
 * https://github.com/autonomio/talos Hyperparameter Scanning and Optimization for Keras
 
-## Cutting-Edge Research
+## Cutting-Edge Research Publishers
 
 Steal the most recent techniques introduced by smart computer scientists (could be you).
 
