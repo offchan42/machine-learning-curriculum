@@ -315,9 +315,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://gym.openai.com](https://gym.openai.com)
 * [https://universe.openai.com/](https://universe.openai.com/)
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-* [https://www.facebook.com/groups/DeepNetGroup/](https://www.facebook.com/groups/DeepNetGroup/)
-* [https://www.facebook.com/groups/1892696574296664/](Transmission) a Facebook
-  group talking about Self-Driving Cars but it's usually not specific to that
+* [https://www.facebook.com/groups/DeepNetGroup/](https://www.facebook.com/groups/DeepNetGroup/) 
 
 ## Thoughtful Insights for Future Research
 * [The Consciousness Prior](https://arxiv.org/abs/1709.08568) by Yoshua Bengio
