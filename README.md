@@ -282,6 +282,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 ### Tuning Hyperparameters
 
 * https://github.com/keras-team/keras-tuner
+* https://github.com/ray-project/ray
 
 ### AutoML
 
