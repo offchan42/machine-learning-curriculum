@@ -279,6 +279,10 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * https://github.com/mdbloice/Augmentor Easy-to-use image augmentation for classification tasks (cannot augment keypoints)
 * https://github.com/cgnorthcutt/cleanlab Clean labeling error of dataset
 
+### Tuning Hyperparameters
+
+* https://github.com/keras-team/keras-tuner
+
 ### AutoML
 
 Make machine learns without the tedious task of feature engineer, model selection, and hyperparameter tuning
