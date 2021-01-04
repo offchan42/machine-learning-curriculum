@@ -174,6 +174,7 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
   [Learning to see without a teacher](https://www.youtube.com/watch?v=ck3_7tVuCRs)
 
 ## Interesting Techniques & Applications
+* [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
 * [https://paperswithcode.com/](https://paperswithcode.com/) A list of papers with evaluation metrics, and state of the art comparison.
 * [http://deeplearninggallery.com/](http://deeplearninggallery.com/) Deep Learning Gallery - a curated list of awesome deep learning projects
 * [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.pqg7xhuce) this is my article explaining GANs, I try to be as intuitive as possible, GANs are so awesome that I can't just ignore and not talk about it. You can also watch the [official tutorial by Ian Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks).
