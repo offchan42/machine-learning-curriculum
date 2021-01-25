@@ -346,6 +346,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 brain works so that you can discover new deep learning breakthrough
 
 ## Other Big Lists
+* [https://github.com/alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 * [https://github.com/jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
 * [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
 * [http://aireads.top](http://aireads.top) AI/ML Reads - a directory of artificial intelligence/machine learning resources
