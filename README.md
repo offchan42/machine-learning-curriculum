@@ -286,6 +286,9 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 
 * https://github.com/keras-team/keras-tuner
 * https://github.com/ray-project/ray
+* https://github.com/autonomio/talos Hyperparameter Optimization for Keras, TensorFlow (tf.keras) and PyTorch
+* https://github.com/maxpumperla/hyperas Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
+* https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
 
 ### AutoML
@@ -297,7 +300,6 @@ Let the machine does machine learning for you!
 
 * https://www.automl.org/ Find curated list of AutoML libraries and researches
 * https://github.com/jhfjhfj1/autokeras As of writing (24 August 2018), this library is pretty premature as it can only does classification.
-* https://github.com/maxpumperla/hyperas Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
 * https://github.com/EpistasisLab/tpot Run thousands of machine learning pipelines and output the code for you
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
@@ -305,7 +307,6 @@ Let the machine does machine learning for you!
 * https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML
 * https://mljar.com/ Commercial solution for AutoML that integrates multiple libraries like sklearn, keras, tensorflow, etc.
-* https://github.com/autonomio/talos Hyperparameter Scanning and Optimization for Keras
 
 ## Cutting-Edge Research Publishers
 
