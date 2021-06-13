@@ -290,6 +290,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * https://github.com/maxpumperla/hyperas Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
+* https://github.com/optuna/optuna an automatic hyperparameter optimization software framework
 
 ### AutoML
 
