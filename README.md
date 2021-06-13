@@ -282,15 +282,19 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * https://github.com/mdbloice/Augmentor Easy-to-use image augmentation for classification tasks (cannot augment keypoints)
 * https://github.com/cgnorthcutt/cleanlab Clean labeling error of dataset
 
-### Tuning Hyperparameters
+### Hyperparameter Tuning
 
-* https://github.com/keras-team/keras-tuner
-* https://github.com/ray-project/ray
+My top opinionated preferences are ray tune, optuna, and keras tuner because of parallelization (distributed tuning on many machines), flexibility (can optimize any arbitrary objective), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, etc), result visualization/analysis tools, and extensive documentations/tutorials.
+
+Easy-to-use is cool but finding the best models *faster* is more important to me.
+
+* https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
+* https://github.com/optuna/optuna an automatic hyperparameter optimization software framework (framework agnostic, define-by-run)
+* https://github.com/keras-team/keras-tuner an easy-to-use, distributable hyperparameter optimization for keras; read its article [here](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
 * https://github.com/autonomio/talos Hyperparameter Optimization for Keras, TensorFlow (tf.keras) and PyTorch
-* https://github.com/maxpumperla/hyperas Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
+* https://github.com/maxpumperla/hyperas (deprecated) Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
-* https://github.com/optuna/optuna an automatic hyperparameter optimization software framework
 
 ### AutoML
 
@@ -304,7 +308,7 @@ Let the machine does machine learning for you!
 * https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
 * https://github.com/EpistasisLab/tpot Run thousands of machine learning pipelines and output the code for you
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
-* https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular
+* https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular among Kaggle competitors
 * https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML
 * https://mljar.com/ Commercial solution for AutoML that integrates multiple libraries like sklearn, keras, tensorflow, etc.
