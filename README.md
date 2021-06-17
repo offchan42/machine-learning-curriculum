@@ -284,7 +284,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 
 ### Hyperparameter Tuning
 
-My top opinionated preferences are ray tune, optuna, and keras tuner because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow tuning dataset features), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, etc), result visualization/analysis tools, and extensive documentations/tutorials.
+My top opinionated preferences are ray tune, optuna, and determined because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow every hyperparameter including the dataset preprocessing), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, etc), result visualization/analysis tools, and extensive documentations/tutorials.
 
 * https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
 * https://github.com/optuna/optuna an automatic hyperparameter optimization software framework (framework agnostic, define-by-run)
@@ -293,6 +293,7 @@ My top opinionated preferences are ray tune, optuna, and keras tuner because of 
 * https://github.com/maxpumperla/hyperas (deprecated) Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
+* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
 
 ### AutoML
 
