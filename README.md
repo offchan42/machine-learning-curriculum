@@ -67,6 +67,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 <div style="text-align:center"><img src ="img/Brain-549603035-1.jpg" /></div>
 
+* [https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks](Advancing AI theory with a first-principles understanding of deep neural networks) we use deep learning successfully for quite a long time but we don't know exactly why it works and how to really improve it from the ground up. This blog post contains a link to the paper that explains the first-principles attempt of understanding neural networks so that we can advance deep learning field further.
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/) Learn Production-Level Deep Learning from Top Practitioners
 * [DeepLearning.ai](https://www.deeplearning.ai/) new 5 courses specialization taught by Andrew Ng at Coursera; It's the sequel of [Machine Learning course](https://www.coursera.org/learn/machine-learning) at Coursera.
 * [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) consists of 7 courses on Coursera
