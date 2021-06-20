@@ -11,7 +11,7 @@ machines learn from observational data without being explicitly programmed.
 > to produce a behavior. ML is teaching machines to make decisions in situations
 > they have never seen.
 
-This curriculum is made to guide you to learn machine learning, recommend tools, and news source.
+This curriculum is made to guide you to learn machine learning, recommend tools, and help you to embrace ML lifestyle by suggesting media to follow.
 I update it regularly to maintain freshness and get rid of outdated content and deprecated tools.
 
 ## Machine Learning in General
@@ -189,18 +189,14 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
 
 ## Nice Blogs & Vlogs to Follow
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/) Frequently updated blog about OpenCV and deep learning
-* [http://colah.github.io/](http://colah.github.io/) this guy knows how to explain
-* [https://karpathy.github.io/](https://karpathy.github.io/) this guy has taught some courses on Deep Nets
+* [http://colah.github.io/](http://colah.github.io/) nice explanations with beautiful visualizations
+* [https://karpathy.github.io/](https://karpathy.github.io/) He has taught some courses on Deep Nets and is working at Tesla as the AI director.
 * [http://ruder.io](http://ruder.io) Sebastian Ruder's Deep Learning and NLP blog
 * [http://www.wildml.com/](http://www.wildml.com/)
 * [https://machinelearningmastery.com/](https://machinelearningmastery.com/) Contains a lot of content and beautiful website
-* [https://adeshpande3.github.io/adeshpande3.github.io/](https://adeshpande3.github.io/adeshpande3.github.io/)
-* [http://culurciello.github.io/](http://culurciello.github.io/)
 * [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense short hilarious introduction to ML
 * [Two Minute Papers on Deep Learning Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
-* [http://www.leviathan.ai/](http://www.leviathan.ai/)
-* [Welch Labs](https://www.youtube.com/user/Taylorns34/)
-* [Distill.pub](http://distill.pub/about/) A modern medium for presenting research in Machine Learning
+* [Distill.pub](https://distill.pub/) A modern medium for presenting research in Machine Learning
 * [deeplearn.org](https://deeplearn.org/) Deep Learning Monitor; news about deep learning papers and tweets
 
 ## Impactful People
