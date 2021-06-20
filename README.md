@@ -355,6 +355,8 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 brain works so that you can discover new deep learning breakthrough
 
 ## Other Big Lists
+
+* https://github.com/collections/machine-learning
 * https://papers.labml.ai/papers/daily
 * [https://github.com/alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 * [https://github.com/jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
