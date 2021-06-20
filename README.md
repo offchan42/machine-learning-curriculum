@@ -156,84 +156,6 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
 * [https://github.com/barebell/DA](https://github.com/barebell/DA)
 * [https://github.com/bbdamodaran/deepJDOT](https://github.com/bbdamodaran/deepJDOT) one of the easy-to-use implementation on keras of a unsupervised domain adaptation technique that I tried before and work great
 
-## Open Source Trained Models
-* [https://modelzoo.co/](https://modelzoo.co/) Model Zoo
-* [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
-* [deepdream](https://github.com/google/deepdream) inceptionism - a deep model that takes an image and hallucinates animals/buildings from it
-* [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
-* [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
-* [Neural Storyteller](https://github.com/ryankiros/neural-storyteller) convert image caption into a romantic one
-* [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) sharp object segmentation on image at pixel-level
-* [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet) convnet for classifying DeepMask+SharpMask model above
-* [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText) Library for fast text representation and classification; [Tutorial](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
-* [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
-* [https://github.com/google/seq2seq](https://github.com/google/seq2seq) A
-  general-purpose encoder-decoder framework for Tensorflow (you need to provide
-  it a sequence of vectors as input and also provide sequence of vectors as
-  output to train this deep RNN)
-* [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
-  Image-to-image translation using conditional adversarial nets;
-  [TensorFlow port of pix2pix](https://github.com/affinelayer/pix2pix-tensorflow);
-  Watch the presentation of this work:
-  [Learning to see without a teacher](https://www.youtube.com/watch?v=ck3_7tVuCRs)
-* [wav2letter](https://github.com/flashlight/wav2letter) Facebook AI Research's Automatic Speech Recognition Toolkit
-
-## Interesting Techniques & Applications
-* [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
-* [https://paperswithcode.com/](https://paperswithcode.com/) A list of papers with evaluation metrics, and state of the art comparison.
-* [http://deeplearninggallery.com/](http://deeplearninggallery.com/) Deep Learning Gallery - a curated list of awesome deep learning projects
-* [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.pqg7xhuce) this is my article explaining GANs, I try to be as intuitive as possible, GANs are so awesome that I can't just ignore and not talk about it. You can also watch the [official tutorial by Ian Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks).
-* [https://deepart.io/](https://deepart.io/) transfer image style to other image
-* [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
-* https://github.com/TachibanaYoshino/AnimeGAN
-
-## Nice Blogs & Vlogs to Follow
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/) Frequently updated blog about OpenCV and deep learning
-* [http://colah.github.io/](http://colah.github.io/) nice explanations with beautiful visualizations
-* [https://karpathy.github.io/](https://karpathy.github.io/) He has taught some courses on Deep Nets and is working at Tesla as the AI director.
-* [http://ruder.io](http://ruder.io) Sebastian Ruder's Deep Learning and NLP blog
-* [http://www.wildml.com/](http://www.wildml.com/)
-* [https://machinelearningmastery.com/](https://machinelearningmastery.com/) Contains a lot of content and beautiful website
-* [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense short hilarious introduction to ML
-* [Two Minute Papers on Deep Learning Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
-* [Distill.pub](https://distill.pub/) A modern medium for presenting research in Machine Learning
-* [deeplearn.org](https://deeplearn.org/) Deep Learning Monitor; news about deep learning papers and tweets
-
-## Impactful People
-* [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
-  the [godfather of deep learning](https://www.youtube.com/watch?v=uAu3jQWaN6E)
-  by introducing 2 revolutionizing techniques (ReLU and Dropout) with his students.
-  These techniques solve the Vanishing Gradient and Generalization problem of
-  deep neural networks. He also taught
-  a [Neural Networks course](https://www.coursera.org/learn/neural-networks) at
-  Coursera.
-* [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), he invented CNNs
-  (Convolutional neural networks), the kind of network that is really popular
-  among computer vision developers today
-* [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
-  serious professor at Deep Learning, you can
-  [watch his TEDx talk here (2017)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
-* [Andrew Ng](http://www.andrewng.org/) he discovered that GPUs make deep learning faster.
-  He taught 2 famous online courses, Machine Learning and Deep Learning specialization at Coursera.
-* [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) invented LSTM (a
-  particular type of RNN)
-* [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
-  Google Brain engineer, watch [his TEDx Talk](https://www.youtube.com/watch?v=BfDQNrVphLQ)
-* [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow), he invented
-  GANs (Generative Adversarial Networks), is an OpenAI engineer
-* [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html) this is
-  the guy behind AlphaGo and Artari reinforcement learning game agents at DeepMind
-* [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) CEO of
-  DeepMind, has given a lot of talks about AlphaGo and Reinforcement Learning
-  achievements they have
-* [Andrej Karparthy](http://cs.stanford.edu/people/karpathy/) he teaches convnet
-  classes, wrote ConvNetJS, and produces a lot of content for DL community, he
-  also writes a blog (see **Nice Blogs & Vlogs to Follow** section)
-* [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) he wrote the book
-  *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
-  Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
-
-
 ## Tools
 
 Libraries and frameworks that are useful for practical machine learning
@@ -318,6 +240,83 @@ Let the machine does machine learning for you!
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML
 * https://mljar.com/ State-of-the-art commercial solution AutoML for tabular data
+
+## Open Source Trained Models
+* [https://modelzoo.co/](https://modelzoo.co/) Model Zoo
+* [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
+* [deepdream](https://github.com/google/deepdream) inceptionism - a deep model that takes an image and hallucinates animals/buildings from it
+* [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
+* [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) (Parsey McParseface)
+* [Neural Storyteller](https://github.com/ryankiros/neural-storyteller) convert image caption into a romantic one
+* [https://github.com/facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) sharp object segmentation on image at pixel-level
+* [https://github.com/facebookresearch/multipathnet](https://github.com/facebookresearch/multipathnet) convnet for classifying DeepMask+SharpMask model above
+* [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText) Library for fast text representation and classification; [Tutorial](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
+* [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
+* [https://github.com/google/seq2seq](https://github.com/google/seq2seq) A
+  general-purpose encoder-decoder framework for Tensorflow (you need to provide
+  it a sequence of vectors as input and also provide sequence of vectors as
+  output to train this deep RNN)
+* [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
+  Image-to-image translation using conditional adversarial nets;
+  [TensorFlow port of pix2pix](https://github.com/affinelayer/pix2pix-tensorflow);
+  Watch the presentation of this work:
+  [Learning to see without a teacher](https://www.youtube.com/watch?v=ck3_7tVuCRs)
+* [wav2letter](https://github.com/flashlight/wav2letter) Facebook AI Research's Automatic Speech Recognition Toolkit
+
+## Interesting Techniques & Applications
+* [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
+* [https://paperswithcode.com/](https://paperswithcode.com/) A list of papers with evaluation metrics, and state of the art comparison.
+* [http://deeplearninggallery.com/](http://deeplearninggallery.com/) Deep Learning Gallery - a curated list of awesome deep learning projects
+* [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.pqg7xhuce) this is my article explaining GANs, I try to be as intuitive as possible, GANs are so awesome that I can't just ignore and not talk about it. You can also watch the [official tutorial by Ian Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks).
+* [https://deepart.io/](https://deepart.io/) transfer image style to other image
+* [WaveNet: A Generative Model for Raw Audio by DeepMind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+* https://github.com/TachibanaYoshino/AnimeGAN
+
+## Nice Blogs & Vlogs to Follow
+* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/) Frequently updated blog about OpenCV and deep learning
+* [http://colah.github.io/](http://colah.github.io/) nice explanations with beautiful visualizations
+* [https://karpathy.github.io/](https://karpathy.github.io/) He has taught some courses on Deep Nets and is working at Tesla as the AI director.
+* [http://ruder.io](http://ruder.io) Sebastian Ruder's Deep Learning and NLP blog
+* [http://www.wildml.com/](http://www.wildml.com/)
+* [https://machinelearningmastery.com/](https://machinelearningmastery.com/) Contains a lot of content and beautiful website
+* [Sirajology's YouTube Playlists](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) lots of dense short hilarious introduction to ML
+* [Two Minute Papers on Deep Learning Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
+* [Distill.pub](https://distill.pub/) A modern medium for presenting research in Machine Learning
+* [deeplearn.org](https://deeplearn.org/) Deep Learning Monitor; news about deep learning papers and tweets
+
+## Impactful People
+* [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
+  the [godfather of deep learning](https://www.youtube.com/watch?v=uAu3jQWaN6E)
+  by introducing 2 revolutionizing techniques (ReLU and Dropout) with his students.
+  These techniques solve the Vanishing Gradient and Generalization problem of
+  deep neural networks. He also taught
+  a [Neural Networks course](https://www.coursera.org/learn/neural-networks) at
+  Coursera.
+* [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), he invented CNNs
+  (Convolutional neural networks), the kind of network that is really popular
+  among computer vision developers today
+* [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
+  serious professor at Deep Learning, you can
+  [watch his TEDx talk here (2017)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
+* [Andrew Ng](http://www.andrewng.org/) he discovered that GPUs make deep learning faster.
+  He taught 2 famous online courses, Machine Learning and Deep Learning specialization at Coursera.
+* [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) invented LSTM (a
+  particular type of RNN)
+* [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
+  Google Brain engineer, watch [his TEDx Talk](https://www.youtube.com/watch?v=BfDQNrVphLQ)
+* [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow), he invented
+  GANs (Generative Adversarial Networks), is an OpenAI engineer
+* [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html) this is
+  the guy behind AlphaGo and Artari reinforcement learning game agents at DeepMind
+* [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) CEO of
+  DeepMind, has given a lot of talks about AlphaGo and Reinforcement Learning
+  achievements they have
+* [Andrej Karparthy](http://cs.stanford.edu/people/karpathy/) he teaches convnet
+  classes, wrote ConvNetJS, and produces a lot of content for DL community, he
+  also writes a blog (see **Nice Blogs & Vlogs to Follow** section)
+* [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) he wrote the book
+  *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
+  Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
 
 ## Cutting-Edge Research Publishers
 
