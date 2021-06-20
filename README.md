@@ -241,7 +241,8 @@ Let the machine does machine learning for you!
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML
 * https://mljar.com/ State-of-the-art commercial solution AutoML for tabular data
 
-## Open Source Trained Models
+### Open Source Model Architectures
+
 * [https://modelzoo.co/](https://modelzoo.co/) Model Zoo
 * [Self-Driving Car by Udacity](https://github.com/udacity/self-driving-car)
 * [deepdream](https://github.com/google/deepdream) inceptionism - a deep model that takes an image and hallucinates animals/buildings from it
