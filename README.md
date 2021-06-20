@@ -285,8 +285,9 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 
 ### Hyperparameter Tuning
 
-My top opinionated preferences are ray tune, optuna, and determined because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow every hyperparameter including the dataset preprocessing), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
+My top opinionated preferences are determined, ray tune, and optuna because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow every hyperparameter including the dataset preprocessing), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
 
+* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. In my opinion, this is the most undervalued project right now.
 * https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
 * https://github.com/optuna/optuna an automatic hyperparameter optimization software framework (framework agnostic, define-by-run)
 * https://github.com/keras-team/keras-tuner an easy-to-use, distributable hyperparameter optimization for keras; read its article [here](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
@@ -294,7 +295,7 @@ My top opinionated preferences are ray tune, optuna, and determined because of p
 * https://github.com/maxpumperla/hyperas (deprecated) Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
-* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
+
 
 ### AutoML
 
