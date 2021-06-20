@@ -234,14 +234,14 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
   Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
 
 
-## Libraries, Frameworks and Services
+## Tools and Services
 
-Glancing at their GitHub statistics can give you an estimate for how active/popular each of them is.
+Libraries and frameworks that are useful for practical machine learning
 
 * [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
 * [Python Deep Learning Frameworks Reviewed 2017](https://indico.io/blog/python-deep-learning-frameworks-reviewed/) read this to decide which framework is appropriate for you
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
-* [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Learning TensorFlow](http://learningtensorflow.com/index.html); [Installing on Windows](https://github.com/tensorflow/tensorflow/issues/42#issuecomment-263645160); [Fresh Install on Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/); [Serving](https://tensorflow.github.io/serving/); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
+* [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
 * [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework; **Deprecated!** See [this announcement](https://groups.google.com/forum/m/#!topic/theano-dev/gCBAhE3Sb_8) from Yoshua Bengio for more info.
 * [Lasagne (Python)](https://github.com/Lasagne/Lasagne) Lightweight library to build and train neural networks in **Theano**
 * [Keras: Deep Learning library for Theano and TensorFlow (Python)](https://github.com/fchollet/keras)
@@ -254,7 +254,6 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
 * [Kur (YAML, Python)](https://github.com/deepgram/kur) Descriptive Deep Learning, get started in minutes because you don't need to code!
 * [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
-* [Bonsai (Inkling)](https://bons.ai/) a [simplification layer](http://blogs.enterprisemanagement.com/torstenvolk/2017/01/13/machine-learning-artificial-intelligence-masses/) for machine learning
 * [bitfusion - Software to Manage Deep Learning & GPUs](http://www.bitfusion.io/) contains
   Amazon Machine Images for many Deep Learning libraries
   including
@@ -262,17 +261,18 @@ Glancing at their GitHub statistics can give you an estimate for how active/popu
 * [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
 * [Lobe](https://lobe.ai/) a drag-and-drop tool for machine learning
 * [comet.ml](https://www.comet.ml/) Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
-* [MLflow](https://mlflow.org/) MLflow (currently in beta) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. It currently offers three components: MLflow Tracking, MLflow Projects, MLflow Models.
 * [wav2letter++](https://code.fb.com/ai-research/wav2letter/) Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native
 * [Ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. It's by Uber team.
 * [spektral](https://github.com/danielegrattarola/spektral/) A Python framework for relational representation learning in Keras
 
-### Machine Learning in Production
+### Life Cycle
 
 Libraries that help you develop/debug/deploy the model in production. There is more to ML than training the model.
 * https://github.com/iterative/cml Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. Use it to automate parts of your development workflow, including model training and evaluation, comparing ML experiments across your project history, and monitoring changing datasets.
 * https://github.com/creme-ml/creme Python library for **online machine learning**. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data.
 * https://github.com/aimhubio/aim A super-easy way to record, search and compare 1000s of ML training runs
+* https://github.com/Netflix/metaflow Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix.
+* [MLflow](https://mlflow.org/) MLflow (currently in beta) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. It currently offers three components: MLflow Tracking, MLflow Projects, MLflow Models.
 
 ### Data Storage
 
@@ -281,7 +281,8 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 
 ### Data Wrangling
 
-* https://github.com/Netflix/metaflow Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix.
+Data cleaning and data augmentation
+
 * https://github.com/aleju/imgaug Image augmentation library which supports converting keypoints to heatmaps
 * https://github.com/albu/albumentations Fastest image augmentation library
 * https://github.com/mdbloice/Augmentor Easy-to-use image augmentation for classification tasks (cannot augment keypoints)
@@ -291,7 +292,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 
 My top opinionated preferences are determined, ray tune, and optuna because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow every hyperparameter including the dataset preprocessing), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
 
-* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. In my opinion, this is the most undervalued project right now.
+* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. In my opinion, this is probably the most undervalued project right now.
 * https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
 * https://github.com/optuna/optuna an automatic hyperparameter optimization software framework (framework agnostic, define-by-run)
 * https://github.com/keras-team/keras-tuner an easy-to-use, distributable hyperparameter optimization for keras; read its article [here](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
@@ -300,6 +301,13 @@ My top opinionated preferences are determined, ray tune, and optuna because of p
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
 
+### Gradient boosting trees
+
+Models that are used heavily in competitions because of their outstanding generalization performance.
+
+* https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular among Kaggle competitors
+* https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
+* https://github.com/catboost/catboost A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 
 ### AutoML
 
@@ -313,10 +321,8 @@ Let the machine does machine learning for you!
 * https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
 * https://github.com/EpistasisLab/tpot Run thousands of machine learning pipelines and output the code for you
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
-* https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular among Kaggle competitors
-* https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML
-* https://mljar.com/ Commercial solution for AutoML that integrates multiple libraries like sklearn, keras, tensorflow, etc.
+* https://mljar.com/ State-of-the-art commercial solution AutoML for tabular data
 
 ## Cutting-Edge Research Publishers
 
