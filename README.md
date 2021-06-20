@@ -11,6 +11,9 @@ machines learn from observational data without being explicitly programmed.
 > to produce a behavior. ML is teaching machines to make decisions in situations
 > they have never seen.
 
+This curriculum is made to guide you to learn machine learning, recommend tools, and news source.
+I update it regularly to maintain freshness and get rid of outdated content and deprecated tools.
+
 ## Machine Learning in General
 
 Study this section to understand fundamental concepts and develop intuitions before going any deeper.
@@ -173,6 +176,7 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
   [TensorFlow port of pix2pix](https://github.com/affinelayer/pix2pix-tensorflow);
   Watch the presentation of this work:
   [Learning to see without a teacher](https://www.youtube.com/watch?v=ck3_7tVuCRs)
+* [wav2letter](https://github.com/flashlight/wav2letter) Facebook AI Research's Automatic Speech Recognition Toolkit
 
 ## Interesting Techniques & Applications
 * [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
@@ -234,36 +238,36 @@ Unsupervised Domain Adaptation is a type of Transfer Learning that applies a mod
   Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
 
 
-## Tools and Services
+## Tools
 
 Libraries and frameworks that are useful for practical machine learning
 
+### Frameworks
+
+Machine learning building blocks
+
 * [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
-* [Python Deep Learning Frameworks Reviewed 2017](https://indico.io/blog/python-deep-learning-frameworks-reviewed/) read this to decide which framework is appropriate for you
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
 * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
-* [Theano (Python)](https://github.com/Theano/Theano) another popular deep learning framework; **Deprecated!** See [this announcement](https://groups.google.com/forum/m/#!topic/theano-dev/gCBAhE3Sb_8) from Yoshua Bengio for more info.
-* [Lasagne (Python)](https://github.com/Lasagne/Lasagne) Lightweight library to build and train neural networks in **Theano**
 * [Keras: Deep Learning library for Theano and TensorFlow (Python)](https://github.com/fchollet/keras)
-* [Caffe (Python)](https://github.com/BVLC/caffe) originally created to tackle computer vision problems
-* [Microsoft Cognitive Toolkit (CNTK)](https://github.com/Microsoft/CNTK) Microsoft's framework (previously known as Computational Network Toolkit)
-* [Torch (LuaJIT)](https://github.com/torch/torch7) the most popular scientific computing framework for LuaJIT
 * [PyTorch (Python)](https://github.com/pytorch/pytorch) PyTorch is a deep learning framework that puts Python first.
-* [MXNet: A Scalable Deep Learning Framework](https://github.com/dmlc/mxnet/) supports multiple language interfaces
-* [MinPy (Python)](https://github.com/dmlc/minpy) NumPy interface with mixed backend execution (MXNet, autograd)
+* Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity.
 * [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
-* [Kur (YAML, Python)](https://github.com/deepgram/kur) Descriptive Deep Learning, get started in minutes because you don't need to code!
-* [DeepLearning4j (Java)](https://github.com/deeplearning4j/deeplearning4j) not so popular, preferable for you if you like Java
-* [bitfusion - Software to Manage Deep Learning & GPUs](http://www.bitfusion.io/) contains
-  Amazon Machine Images for many Deep Learning libraries
-  including
-  [TensorFlow](http://www.bitfusion.io/2016/05/09/easy-tensorflow-model-training-aws/)
-* [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
+* [DeepLearning4j (Java)](https://github.com/eclipse/deeplearning4j) Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
+* [spektral](https://github.com/danielegrattarola/spektral/) Graph Neural Networks with Keras and Tensorflow 2.
+
+#### No coding
+
 * [Lobe](https://lobe.ai/) a drag-and-drop tool for machine learning
-* [comet.ml](https://www.comet.ml/) Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
-* [wav2letter++](https://code.fb.com/ai-research/wav2letter/) Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native
-* [Ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. It's by Uber team.
-* [spektral](https://github.com/danielegrattarola/spektral/) A Python framework for relational representation learning in Keras
+* [Ludwig](https://github.com/ludwig-ai/ludwig) Ludwig is a toolbox that allows users to train and test deep learning models without the need to write code. It is built on top of TensorFlow.
+
+#### Gradient Boosting
+
+Models that are used heavily in competitions because of their outstanding generalization performance.
+
+* https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular among Kaggle competitors
+* https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
+* https://github.com/catboost/catboost A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 
 ### Life Cycle
 
@@ -273,6 +277,9 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * https://github.com/aimhubio/aim A super-easy way to record, search and compare 1000s of ML training runs
 * https://github.com/Netflix/metaflow Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix.
 * [MLflow](https://mlflow.org/) MLflow (currently in beta) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. It currently offers three components: MLflow Tracking, MLflow Projects, MLflow Models.
+* [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
+* [comet.ml](https://www.comet.ml/) Comet enables data scientists and teams to track, compare, explain and optimize experiments and models across the model's entire lifecycle. From training to production
+* https://neptune.ai/ Manage all your model building metadata in a single place
 
 ### Data Storage
 
@@ -300,14 +307,6 @@ My top opinionated preferences are determined, ray tune, and optuna because of p
 * https://github.com/maxpumperla/hyperas (deprecated) Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
-
-### Gradient boosting trees
-
-Models that are used heavily in competitions because of their outstanding generalization performance.
-
-* https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular among Kaggle competitors
-* https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
-* https://github.com/catboost/catboost A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 
 ### AutoML
 
