@@ -277,6 +277,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 
 ### Data Wrangling
 
+* https://github.com/activeloopai/Hub Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it.
 * https://github.com/Netflix/metaflow Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix.
 * https://github.com/aleju/imgaug Image augmentation library which supports converting keypoints to heatmaps
 * https://github.com/albu/albumentations Fastest image augmentation library
@@ -357,6 +358,7 @@ brain works so that you can discover new deep learning breakthrough
 ## Other Big Lists
 
 * https://github.com/collections/machine-learning
+* https://github.com/topics/machine-learning
 * https://papers.labml.ai/papers/daily
 * [https://github.com/alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 * [https://github.com/jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
