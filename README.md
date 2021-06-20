@@ -274,10 +274,13 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * https://github.com/creme-ml/creme Python library for **online machine learning**. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data.
 * https://github.com/aimhubio/aim A super-easy way to record, search and compare 1000s of ML training runs
 
+### Data Storage
+
+* https://github.com/activeloopai/Hub Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it.
+* https://github.com/determined-ai/yogadl Better approach to data loading for Deep Learning. API-transparent caching to disk, GCS, or S3.
 
 ### Data Wrangling
 
-* https://github.com/activeloopai/Hub Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it.
 * https://github.com/Netflix/metaflow Metaflow is a human-friendly Python library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix.
 * https://github.com/aleju/imgaug Image augmentation library which supports converting keypoints to heatmaps
 * https://github.com/albu/albumentations Fastest image augmentation library
