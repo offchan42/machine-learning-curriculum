@@ -323,7 +323,7 @@ Let the machine does machine learning for you!
 
 Steal the most recent techniques introduced by smart computer scientists (could be you).
 
-* http://www.arxiv-sanity.com/
+* http://www.arxiv-sanity.com/ Arxiv Sanity Preserver
 * [https://research.facebook.com/ai/](https://research.facebook.com/ai/)
 * [http://research.google.com/pubs/MachineIntelligence.html](http://research.google.com/pubs/MachineIntelligence.html)
 * [https://deepmind.com/research/](https://deepmind.com/research/) Research of DeepMind company
