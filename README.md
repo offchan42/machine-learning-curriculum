@@ -198,6 +198,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
 * [comet.ml](https://www.comet.ml/) Comet enables data scientists and teams to track, compare, explain and optimize experiments and models across the model's entire lifecycle. From training to production
 * https://neptune.ai/ Manage all your model building metadata in a single place
+* https://wandb.ai/site Build better models faster with experiment tracking, dataset versioning, and model management
 
 ### Data Storage
 
@@ -358,6 +359,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://www.youtube.com/user/aicourses](https://www.youtube.com/user/aicourses)
 * [The Fundamentals of Neuroscience](https://www.mcb80x.org/) learn how our
 brain works so that you can discover new deep learning breakthrough
+* [https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](Bayesian Methods for Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 
 ## Other Big Lists
 
