@@ -25,7 +25,6 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Opinionated Machine Learning Course by Fast.ai](http://course.fast.ai/ml.html)
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas, Deep Learning, and convolutional neural network
-* [How do I learn machine learning? - Quora](https://www.quora.com/How-do-I-learn-machine-learning-1)
 * [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
 * [Machine Learning: Supervised, Unsupervised & Reinforcement - Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
 * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/) carefully laid out step-by-step guide to some particular algorithms
@@ -35,7 +34,6 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Machine Learning with Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
 * [Machine Learning Crash Course: Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
-* [https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-iv)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Most Shared Machine Learning Content on Twitter For The Past 7 Days](http://theherdlocker.com/tweet/popularity/machinelearning)
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/) This class takes an engineering approach to exploring possible research paths toward building human-level intelligence.
@@ -88,14 +86,10 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
   deep learning wizards (Goodfellow, Bengio and Courville)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
-* [UFLDL Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [Neural networks class - YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [http://deeplearning.net/](http://deeplearning.net/)
-* [https://developer.nvidia.com/deep-learning](https://developer.nvidia.com/deep-learning)
 * [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html) a hands-on online book for deep learning maths intuition, I can say that after you finish this, you will be able to explain deep learning in a fine detail.
-* [https://github.com/lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 * [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) You will implement a lot of things inside TensorFlow such as Autoencoders, Convolutional neural net, Feedforward neural nets, Generative models (Generative Adversarial Networks, Recurrent networks), visualizing the network, etc. You will have lots of assignments to finish. The course director (Parag) is also approachable and active.
-* [Deep Learning Lectures by Yann LeCun](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) Why not learn Deep Learning from the guy who invented Convolutional nets?
 * [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) a course at MIT
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) a bunch of neural network models that you should know about (I know about half of them so don't worry that you don't know many because most of them are not popular or useful in the present)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) a course for 2017
@@ -378,12 +372,16 @@ If you are a beginner and want to get started with my suggestions, please read t
 
 ## Disclaimer
 
-This is a really big list because I also point to other people's list to ensure
-that most of the resources are accessible from this page without you looking
-anywhere else.
+From now on, this list is going to be compact and *opinionated* towards my own real-world ML journey and I will put only content that I think are truly beneficial for me and most people.
+All the materials and tools that are not good enough (in any aspect) will be gradually removed, including:
 
-Most of these resources are the ones I enjoy reading/watching. I wouldn't put
-something that I am not interested in here.
+- too difficult materials without much intuition; impractical content
+- too much theory without real-world practice
+- unstructured materials
+- courses that I don't consider to enroll myself
+- information overload content, unclear direction
+- tools that are too specialized and not many people can use it in their works e.g. deepdream (because you can Google it if you want to use it in your work)
+- tools that are beaten by other tools; not being state-of-the-art anymore
 
 **NOTE**: There is no particular rank for each link. The order in which they
 appear does not convey any meaning and should not be treated differently.
