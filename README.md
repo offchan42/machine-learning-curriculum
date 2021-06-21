@@ -70,7 +70,6 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 <div style="text-align:center"><img src ="img/Brain-549603035-1.jpg" /></div>
 
-* [Advancing AI theory with a first-principles understanding of deep neural networks](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks) we use deep learning successfully for quite a long time but we don't know exactly why it works and how to really improve it from the ground up. This blog post contains a link to the paper that explains the first-principles attempt of understanding neural networks so that we can advance deep learning field further.
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/) Learn Production-Level Deep Learning from Top Practitioners
 * [DeepLearning.ai](https://www.deeplearning.ai/) new 5 courses specialization taught by Andrew Ng at Coursera; It's the sequel of [Machine Learning course](https://www.coursera.org/learn/machine-learning) at Coursera.
 * [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) consists of 7 courses on Coursera
@@ -87,9 +86,6 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [Deep Learning Book](http://www.deeplearningbook.org/) recommended for math
   nerds who want to understand the theoretical side, the book is crafted by our
   deep learning wizards (Goodfellow, Bengio and Courville)
-* [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/Main_Page)
-* [DeepMind Publications](https://deepmind.com/publications.html)
-* [DeepLearning.TV - YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) broad overview of deep learning, no implementation, just pure ideas
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 * [UFLDL Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/)
@@ -104,9 +100,9 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) a bunch of neural network models that you should know about (I know about half of them so don't worry that you don't know many because most of them are not popular or useful in the present)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) a course for 2017
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo/blob/master/README.md) a list of GAN papers which have their own name
-* [A Microsoft CNTK tutorial in Python – build a neural network](http://adventuresinmachinelearning.com/microsoft-cntk-tutorial/) a comprehensive introductory tutorial for Microsoft's CNTK framework
 * [https://deeplearning.mit.edu/](https://deeplearning.mit.edu/) MIT Deep Learning taught by Lex Fridman
 * [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) taught at Udacity
+* [Advancing AI theory with a first-principles understanding of deep neural networks](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks) we use deep learning successfully for quite a long time but we don't know exactly why it works and how to really improve it from the ground up. This blog post contains a link to the paper that explains the first-principles attempt of understanding neural networks so that we can advance deep learning field further.
 
 ### Convolutional Neural Networks
 
