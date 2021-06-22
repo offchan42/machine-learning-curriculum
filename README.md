@@ -198,10 +198,12 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 
 Data cleaning and data augmentation
 
+* https://github.com/cgnorthcutt/cleanlab Clean labeling error of dataset
 * https://github.com/aleju/imgaug Image augmentation library which supports converting keypoints to heatmaps
 * https://github.com/albu/albumentations Fastest image augmentation library
 * https://github.com/mdbloice/Augmentor Easy-to-use image augmentation for classification tasks (cannot augment keypoints)
-* https://github.com/cgnorthcutt/cleanlab Clean labeling error of dataset
+* https://github.com/facebookresearch/AugLy A data augmentations library for audio, image, text, and video.
+
 
 ### Hyperparameter Tuning
 
