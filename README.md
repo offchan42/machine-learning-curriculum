@@ -344,7 +344,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://www.youtube.com/user/aicourses](https://www.youtube.com/user/aicourses)
 * [The Fundamentals of Neuroscience](https://www.mcb80x.org/) learn how our
 brain works so that you can discover new deep learning breakthrough
-* [https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](Bayesian Methods for Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 
 ## Other Big Lists
 
