@@ -23,7 +23,6 @@ Study this section to understand fundamental concepts and develop intuitions bef
 > `T`, as measured by `P`, improves with experience `E`.
 
 * [Opinionated Machine Learning Course by Fast.ai](http://course.fast.ai/ml.html)
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas, Deep Learning, and convolutional neural network
 * [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
@@ -38,6 +37,10 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Most Shared Machine Learning Content on Twitter For The Past 7 Days](http://theherdlocker.com/tweet/popularity/machinelearning)
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/) This class takes an engineering approach to exploring possible research paths toward building human-level intelligence.
+
+### Books
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
+- https://github.com/fastai/fastbook The fastai book, published as Jupyter Notebooks
 
 ## Reinforcement Learning
 
@@ -191,6 +194,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * [comet.ml](https://www.comet.ml/) Comet enables data scientists and teams to track, compare, explain and optimize experiments and models across the model's entire lifecycle. From training to production
 * https://neptune.ai/ Manage all your model building metadata in a single place
 * https://wandb.ai/site Build better models faster with experiment tracking, dataset versioning, and model management
+* https://github.com/fastai/nbdev Create delightful python projects using Jupyter Notebooks
 
 ### Data Storage
 
