@@ -216,7 +216,12 @@ Data cleaning and data augmentation
 
 ### Hyperparameter Tuning
 
+Before you begin, please read this blog post to understand the motivation of searching in general: https://www.determined.ai/blog/stop-doing-iterative-model-development
+
+Open your eyes to search-driven development. It will change you. Main benefit is that there will be no setbacks. Only progress and improvement are allowed. Imagine working and progressing everyday, instead of regressing backwards because your new solution doesn't work. This guaranteed progress is what search-driven development will do to you. Apply it to everything in optimization, not just machine learning.
+
 My top opinionated preferences are determined, ray tune, and optuna because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow every hyperparameter including the dataset preprocessing), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
+
 
 * https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. In my opinion, this is probably the most undervalued project right now.
 * https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
