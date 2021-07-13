@@ -247,6 +247,7 @@ Let the machine does machine learning for you!
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML
 * https://mljar.com/ State-of-the-art commercial solution AutoML for tabular data
+* https://github.com/awslabs/autogluon AutoML for Text, Image, and Tabular Data
 
 ### Model Architectures
 
