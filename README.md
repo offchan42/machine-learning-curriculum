@@ -251,8 +251,11 @@ Let the machine does machine learning for you!
 
 #### Time Series Forecasting
 
+Time series data require unique feature extraction process for them to be usable in most machine learning models because most models require data to be in a tabular format.
+Or you can use special model architectures which target time series e.g. LSTM, TCN, etc.
+
 * https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
-* 
+* https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
 
 ### Model Architectures
 
