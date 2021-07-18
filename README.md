@@ -179,6 +179,7 @@ Models that are used heavily in competitions because of their outstanding genera
 * https://github.com/dmlc/xgboost eXtreme Gradient Boosting, not actually AutoML but it is quite popular among Kaggle competitors
 * https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
 * https://github.com/catboost/catboost A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+* https://github.com/tensorflow/decision-forests TensorFlow Decision Forests (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models.
 
 #### Time Series Forecasting
 
