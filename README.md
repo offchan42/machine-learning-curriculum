@@ -256,6 +256,8 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 * https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
 * https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
+* [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/minirocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features
+* 
 
 ### Model Architectures
 
