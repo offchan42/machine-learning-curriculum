@@ -189,7 +189,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 * https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
 * https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
-* [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/rocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features
+* [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/rocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features. Further read: [ROCKET: Fast and Accurate Time Series Classification](https://pub.towardsai.net/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9)
 
 ### Life Cycle
 
@@ -412,6 +412,7 @@ All the materials and tools that are not good enough (in any aspect) will be gra
 - information overload content, unclear direction
 - tools that are too specialized and not many people can use it in their works e.g. deepdream (because you can Google it if you want to use it in your work)
 - tools that are beaten by other tools; not being state-of-the-art anymore
+- commercial tools that look like it can die any time soon
 
 **NOTE**: There is no particular rank for each link. The order in which they
 appear does not convey any meaning and should not be treated differently.
