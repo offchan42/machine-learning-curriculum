@@ -200,7 +200,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production. There is more to ML than training the model.
 
-* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. In my opinion, this is probably the most undervalued project right now.
+* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
 * https://github.com/iterative/cml Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. Use it to automate parts of your development workflow, including model training and evaluation, comparing ML experiments across your project history, and monitoring changing datasets.
 * https://github.com/creme-ml/creme Python library for **online machine learning**. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data.
 * https://github.com/aimhubio/aim A super-easy way to record, search and compare 1000s of ML training runs
@@ -239,7 +239,7 @@ Open your eyes to search-driven development. It will change you. Main benefit is
 My top opinionated preferences are determined, ray tune, and optuna because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow every hyperparameter including the dataset preprocessing), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
 
 
-* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. In my opinion, this is probably the most undervalued project right now.
+* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
 * https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
 * https://github.com/optuna/optuna an automatic hyperparameter optimization software framework (framework agnostic, define-by-run)
 * https://github.com/keras-team/keras-tuner an easy-to-use, distributable hyperparameter optimization for keras; read its article [here](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
