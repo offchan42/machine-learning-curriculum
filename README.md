@@ -187,6 +187,7 @@ Models that are used heavily in competitions because of their outstanding genera
 Time series data require unique feature extraction process for them to be usable in most machine learning models because most models require data to be in a tabular format.
 Or you can use special model architectures which target time series e.g. LSTM, TCN, etc.
 
+* https://github.com/alan-turing-institute/sktime A unified framework for machine learning with time series
 * https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
 * https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
 * [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/rocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features. Further read: [ROCKET: Fast and Accurate Time Series Classification](https://pub.towardsai.net/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9)
