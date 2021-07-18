@@ -182,12 +182,13 @@ Models that are used heavily in competitions because of their outstanding genera
 * https://github.com/tensorflow/decision-forests TensorFlow Decision Forests (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models.
 * https://github.com/dreamquark-ai/tabnet PyTorch implementation of [TabNet paper](https://arxiv.org/pdf/1908.07442.pdf). Further read: [TabNet balances explainability and model performance on tabular data, but can it dethrone boosted tree models?](https://towardsdatascience.com/tabnet-e1b979907694)
 
-#### Time Series Forecasting
+#### Time Series Inference
 
 Time series data require unique feature extraction process for them to be usable in most machine learning models because most models require data to be in a tabular format.
 Or you can use special model architectures which target time series e.g. LSTM, TCN, etc.
 
 * https://github.com/alan-turing-institute/sktime A unified framework for machine learning with time series
+* https://github.com/tslearn-team/tslearn/ A machine learning toolkit dedicated to time-series data
 * https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
 * https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
 * [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/rocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features. Further read: [ROCKET: Fast and Accurate Time Series Classification](https://pub.towardsai.net/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9)
