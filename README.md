@@ -249,6 +249,11 @@ Let the machine does machine learning for you!
 * https://mljar.com/ State-of-the-art commercial solution AutoML for tabular data
 * https://github.com/awslabs/autogluon AutoML for Text, Image, and Tabular Data
 
+#### Time Series Forecasting
+
+* https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
+* 
+
 ### Model Architectures
 
 Architectures that are state-of-the-art in its field.
