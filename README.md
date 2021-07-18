@@ -189,6 +189,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 * https://github.com/timeseriesAI/tsai Time series Timeseries Deep Learning Pytorch fastai - State-of-the-art Deep Learning with Time Series and Sequences in Pytorch / fastai. Further read: [tsai — State of the Art Machine Learning for Time Series, Part 1.](https://peijin.medium.com/tsai-state-of-the-art-machine-learning-for-time-series-part-1-dd4cac6707bc)
 * https://github.com/alan-turing-institute/sktime A unified framework for machine learning with time series
+* https://github.com/sktime/sktime-dl An extension package for deep learning with Tensorflow/Keras for sktime
 * https://github.com/tslearn-team/tslearn/ A machine learning toolkit dedicated to time-series data
 * https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
 * https://github.com/johannfaouzi/pyts A Python package for time series classification
