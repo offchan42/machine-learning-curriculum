@@ -180,6 +180,15 @@ Models that are used heavily in competitions because of their outstanding genera
 * https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
 * https://github.com/catboost/catboost A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 
+#### Time Series Forecasting
+
+Time series data require unique feature extraction process for them to be usable in most machine learning models because most models require data to be in a tabular format.
+Or you can use special model architectures which target time series e.g. LSTM, TCN, etc.
+
+* https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
+* https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
+* [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/rocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features
+
 ### Life Cycle
 
 Libraries that help you develop/debug/deploy the model in production. There is more to ML than training the model.
@@ -248,16 +257,6 @@ Let the machine does machine learning for you!
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML
 * https://mljar.com/ State-of-the-art commercial solution AutoML for tabular data
 * https://github.com/awslabs/autogluon AutoML for Text, Image, and Tabular Data
-
-#### Time Series Forecasting
-
-Time series data require unique feature extraction process for them to be usable in most machine learning models because most models require data to be in a tabular format.
-Or you can use special model architectures which target time series e.g. LSTM, TCN, etc.
-
-* https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
-* https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
-* [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/minirocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features
-* 
 
 ### Model Architectures
 
