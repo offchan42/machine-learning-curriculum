@@ -190,6 +190,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 * https://github.com/alan-turing-institute/sktime A unified framework for machine learning with time series
 * https://github.com/tslearn-team/tslearn/ A machine learning toolkit dedicated to time-series data
 * https://github.com/blue-yonder/tsfresh Automatic extraction of relevant features from time series
+* https://github.com/facebook/prophet Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 * https://github.com/philipperemy/keras-tcn Keras Temporal Convolutional Network
 * [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels](https://github.com/angus924/rocket); [MINIROCKET: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://github.com/angus924/minirocket); these 2 techniques are for extracting time series features. Further read: [ROCKET: Fast and Accurate Time Series Classification](https://pub.towardsai.net/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9)
 
