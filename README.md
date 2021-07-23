@@ -166,7 +166,7 @@ Machine learning building blocks
 * [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
 * [DeepLearning4j (Java)](https://github.com/eclipse/deeplearning4j) Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. There is a specific focus on reinforcement learning with several contextual bandit algorithms implemented and the online nature lending to the problem well.
-* [H2O](https://github.com/h2oai/h2o-3) H2O is an in-memory platform for distributed, scalable machine learning.
+* [H2O](https://github.com/h2oai/h2o-3) is an in-memory platform for distributed, scalable machine learning.
 * [spektral](https://github.com/danielegrattarola/spektral/) Graph Neural Networks with Keras and Tensorflow 2.
 
 #### No coding
