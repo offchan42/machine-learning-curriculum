@@ -165,6 +165,7 @@ Machine learning building blocks
 * [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity.
 * [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
 * [DeepLearning4j (Java)](https://github.com/eclipse/deeplearning4j) Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
+* [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. There is a specific focus on reinforcement learning with several contextual bandit algorithms implemented and the online nature lending to the problem well.
 * [spektral](https://github.com/danielegrattarola/spektral/) Graph Neural Networks with Keras and Tensorflow 2.
 
 #### No coding
