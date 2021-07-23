@@ -182,7 +182,7 @@ Models that are used heavily in competitions because of their outstanding genera
 * https://github.com/microsoft/LightGBM lightweight alternative compared to xgboost
 * https://github.com/catboost/catboost A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 * https://github.com/tensorflow/decision-forests TensorFlow Decision Forests (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models.
-* https://github.com/dreamquark-ai/tabnet PyTorch implementation of [TabNet paper](https://arxiv.org/pdf/1908.07442.pdf). Further read: [TabNet balances explainability and model performance on tabular data, but can it dethrone boosted tree models?](https://towardsdatascience.com/tabnet-e1b979907694)
+* [PyTorch](https://github.com/dreamquark-ai/tabnet)/[TensorFlow](https://github.com/titu1994/tf-TabNet) implementation of [TabNet paper](https://arxiv.org/pdf/1908.07442.pdf). Further read: [TabNet balances explainability and model performance on tabular data, but can it dethrone boosted tree models?](https://towardsdatascience.com/tabnet-e1b979907694)
 
 #### Time Series Inference
 
