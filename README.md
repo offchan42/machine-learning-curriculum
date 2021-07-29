@@ -214,6 +214,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * https://neptune.ai/ Manage all your model building metadata in a single place
 * https://wandb.ai/site Build better models faster with experiment tracking, dataset versioning, and model management
 * https://github.com/fastai/nbdev Create delightful python projects using Jupyter Notebooks
+* https://rapids.ai/ data science on GPUs
 
 ### Data Storage
 
@@ -289,8 +290,6 @@ Architectures that are state-of-the-art in its field.
 * [https://paperswithcode.com/](https://paperswithcode.com/) A list of papers with evaluation metrics, and state of the art comparison.
 * [http://deeplearninggallery.com/](http://deeplearninggallery.com/) Deep Learning Gallery - a curated list of awesome deep learning projects
 * [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.pqg7xhuce) this is my article explaining GANs, I try to be as intuitive as possible, GANs are so awesome that I can't just ignore and not talk about it. You can also watch the [official tutorial by Ian Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks).
-* [https://deepart.io/](https://deepart.io/) transfer image style to other image
-* https://github.com/TachibanaYoshino/AnimeGAN
 
 ## Nice Blogs & Vlogs to Follow
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/) Frequently updated blog about OpenCV and deep learning
