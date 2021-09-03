@@ -360,6 +360,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://www.facebook.com/groups/DeepNetGroup/](https://www.facebook.com/groups/DeepNetGroup/) 
 
 ## Thoughtful Insights for Future Research
+* [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871)
 * [The Consciousness Prior](https://arxiv.org/abs/1709.08568) by Yoshua Bengio
 * [What Can't Deep Learning Do?](http://rbharath.github.io/what-cant-deep-learning-do/) a list of problems that deep learning faces
 * [Pedro Domingos: "The Master Algorithm" - Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
