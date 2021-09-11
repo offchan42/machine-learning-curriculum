@@ -234,6 +234,7 @@ Data cleaning and data augmentation
 
 ### Data Visualization
 * https://github.com/streamlit/streamlit Streamlit turns data scripts into shareable web apps in minutes. All in Python. All for free. No front‑end experience required.
+* https://github.com/oegedijk/explainerdashboard Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
 
 ### Hyperparameter Tuning
 
