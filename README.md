@@ -386,6 +386,7 @@ brain works so that you can discover new deep learning breakthrough
 
 * https://github.com/collections/machine-learning
 * https://github.com/topics/machine-learning
+* https://github.com/topics/mlops
 * https://github.com/GokuMohandas/MadeWithML Join 30K+ developers in learning how to responsibly deliver value with ML.
 * https://papers.labml.ai/papers/daily
 * [https://github.com/alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
