@@ -204,7 +204,8 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production. There is more to ML than training the model.
 
-* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
+* https://github.com/quantumblacklabs/kedro A Python framework for creating reproducible, maintainable and modular data science code.
+* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. I use it mainly for tuning hyperparameters.
 * https://github.com/iterative/cml Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. Use it to automate parts of your development workflow, including model training and evaluation, comparing ML experiments across your project history, and monitoring changing datasets.
 * https://github.com/creme-ml/creme Python library for **online machine learning**. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data.
 * https://github.com/aimhubio/aim A super-easy way to record, search and compare 1000s of ML training runs
