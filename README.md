@@ -202,8 +202,9 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 ### Life Cycle
 
-Libraries that help you develop/debug/deploy the model in production. There is more to ML than training the model.
+Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
+* https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
 * https://github.com/quantumblacklabs/kedro A Python framework for creating reproducible, maintainable and modular data science code.
 * https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. I use it mainly for tuning hyperparameters.
 * https://github.com/iterative/cml Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. Use it to automate parts of your development workflow, including model training and evaluation, comparing ML experiments across your project history, and monitoring changing datasets.
@@ -217,6 +218,7 @@ Libraries that help you develop/debug/deploy the model in production. There is m
 * https://wandb.ai/site Build better models faster with experiment tracking, dataset versioning, and model management
 * https://github.com/fastai/nbdev Create delightful python projects using Jupyter Notebooks
 * https://rapids.ai/ data science on GPUs
+* https://github.com/datarevenue-berlin/OpenMLOps
 
 ### Data Storage
 
@@ -244,7 +246,7 @@ Before you begin, please read this blog post to understand the motivation of sea
 
 Open your eyes to search-driven development. It will change you. Main benefit is that there will be no setbacks. Only progress and improvement are allowed. Imagine working and progressing everyday, instead of regressing backwards because your new solution doesn't work. This guaranteed progress is what search-driven development will do to you. Apply it to everything in optimization, not just machine learning.
 
-My top opinionated preferences are determined, ray tune, and optuna because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow every hyperparameter including the dataset preprocessing), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
+My top opinionated preferences are determined, ray tune, and optuna because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow dataset parameters to be tuned), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
 
 
 * https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
@@ -281,7 +283,6 @@ Architectures that are state-of-the-art in its field.
 * [https://modelzoo.co/](https://modelzoo.co/) Model Zoo
 * [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
 * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
-* [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText) Library for fast text representation and classification; [Tutorial](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
 * [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
   Image-to-image translation using conditional adversarial nets;
   [TensorFlow port of pix2pix](https://github.com/affinelayer/pix2pix-tensorflow);
@@ -307,6 +308,7 @@ Architectures that are state-of-the-art in its field.
 * [Two Minute Papers on Deep Learning Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2)
 * [Distill.pub](https://distill.pub/) A modern medium for presenting research in Machine Learning
 * [deeplearn.org](https://deeplearn.org/) Deep Learning Monitor; news about deep learning papers and tweets
+* [datarevenue](https://www.datarevenue.com/en-blog) blog about MLOps mostly
 
 ## Impactful People
 * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
