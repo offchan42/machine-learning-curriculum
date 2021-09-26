@@ -264,6 +264,7 @@ that you have to do yourself.
 
 Let the machine does machine learning for you!
 
+* https://github.com/dabl/dabl Data Analysis Baseline Library; quickly train a simple model to be used as a performance baseline
 * https://www.automl.org/ Find curated list of AutoML libraries and researches
 * https://github.com/jhfjhfj1/autokeras As of writing (24 August 2018), this library is pretty premature as it can only does classification.
 * https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
