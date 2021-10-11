@@ -273,7 +273,7 @@ Let the machine does machine learning for you!
 * https://github.com/automl/auto-sklearn/ Does not run on Windows, you need to install WSL (Windows Subsystem for Linux) to use it
 * https://github.com/EpistasisLab/tpot Run thousands of machine learning pipelines and output the code for you
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
-* https://github.com/microsoft/FLAML Fast and Lightweight AutoML
+* https://github.com/microsoft/FLAML Fast and Lightweight AutoML with cost-effective economical optimization algorithms
 * https://github.com/mljar/mljar-supervised an Automated Machine Learning Python package that works with tabular data.
 * https://github.com/awslabs/autogluon AutoML for Text, Image, and Tabular Data
 
