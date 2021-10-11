@@ -262,10 +262,12 @@ My top opinionated preferences are determined, ray tune, and optuna because of p
 
 ### AutoML
 
-Make machine learns without the tedious task of feature engineer, model selection, and hyperparameter tuning
-that you have to do yourself.
+Make machines learn without the tedious task of feature engineering, model selection, and hyperparameter tuning
+that you have to do yourself. Let the machines perform machine learning for you!
 
-Let the machine does machine learning for you!
+Personally if I have a tabular dataset I would try FLAML and mljar first, especially if you want to get something working fast.
+If you want to try gradient boosting frameworks such as XGBoost, LightGBM, CatBoost, etc but you don't know which one works best,
+I suggest you to try AutoML first because internally it will try the gradient boosting frameworks mentioned previously.
 
 * https://github.com/dabl/dabl Data Analysis Baseline Library; quickly train a simple model to be used as a performance baseline
 * https://www.automl.org/ Find curated list of AutoML libraries and researches
@@ -275,7 +277,7 @@ Let the machine does machine learning for you!
 * https://github.com/ClimbsRocks/auto_ml Read what the author think about [the comparison between tpot and  auto-sklearn](https://github.com/ClimbsRocks/auto_ml/issues/230)
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML with cost-effective economical optimization algorithms.
 * https://github.com/mljar/mljar-supervised an Automated Machine Learning Python package that works with tabular data. I like that it generates visualization report (in the Explain mode) and extra features for you e.g. golden features and K-means features.
-* https://github.com/awslabs/autogluon AutoML for Text, Image, and Tabular Data
+* https://github.com/awslabs/autogluon AutoML for Text, Image, and Tabular Data. But it doesn't support Windows (as of 11 October 2021).
 
 ### Model Architectures
 
