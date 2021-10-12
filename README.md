@@ -379,6 +379,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [These are three of the biggest problems facing today's AI](http://www.theverge.com/2016/10/10/13224930/ai-deep-learning-limitations-drawbacks)
 * [Four Questions For: Geoff Hinton](https://gigaom.com/2017/01/16/four-questions-for-geoff-hinton/) Geoff Hinton is referred to as "godfather of neural networks"
 * [What product breakthroughs will recent advances in deep learning enable? - Quora](https://www.quora.com/What-product-breakthroughs-will-recent-advances-in-deep-learning-enable/answer/Eric-Jang?srid=Ul)
+* [Liquid Neural Networks](https://www.youtube.com/watch?v=IlliqYiRhMU)
 
 ## Uncategorized
 * [Artificial Intelligence: A Modern Approach (Online Book)](http://aima.cs.berkeley.edu/)
