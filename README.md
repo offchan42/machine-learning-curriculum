@@ -235,6 +235,11 @@ Data cleaning and data augmentation
 * https://github.com/mdbloice/Augmentor Easy-to-use image augmentation for classification tasks (cannot augment keypoints)
 * https://github.com/facebookresearch/AugLy A data augmentations library for audio, image, text, and video.
 
+### Data Orchestration
+
+* https://github.com/PrefectHQ/prefect
+* https://github.com/dagster-io/dagster
+
 ### Data Visualization
 * https://github.com/streamlit/streamlit Streamlit turns data scripts into shareable web apps in minutes. All in Python. All for free. No front‑end experience required.
 * https://github.com/oegedijk/explainerdashboard Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
