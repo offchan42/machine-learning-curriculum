@@ -23,6 +23,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 > `T`, as measured by `P`, improves with experience `E`.
 
 * [Elements of AI](https://www.elementsofai.com/) A bunch of easy courses teaching AI and machine learning
+* [COMS W4995 Applied Machine Learning Spring 2020](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) videos and slides of an applied ML course from Columbia University.
 * [Opinionated Machine Learning Course by Fast.ai](http://course.fast.ai/ml.html)
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning
 * [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas, Deep Learning, and convolutional neural network
