@@ -275,6 +275,7 @@ Personally if I have a tabular dataset I would try FLAML and mljar first, especi
 If you want to try gradient boosting frameworks such as XGBoost, LightGBM, CatBoost, etc but you don't know which one works best,
 I suggest you to try AutoML first because internally it will try the gradient boosting frameworks mentioned previously.
 
+* [Best OpenSource AutoML frameworks in 2021](https://techninjahere.medium.com/best-opensource-automl-frameworks-4e40820e2d79) an article on medium containing a curated list of OpenSource AutoML frameworks.
 * https://github.com/dabl/dabl Data Analysis Baseline Library; quickly train a simple model to be used as a performance baseline
 * https://www.automl.org/ Find curated list of AutoML libraries and researches
 * https://github.com/jhfjhfj1/autokeras As of writing (24 August 2018), this library is pretty premature as it can only does classification.
