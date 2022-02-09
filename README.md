@@ -205,6 +205,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
+* https://github.com/ploomber/ploomber Ploomber is the fastest way to build data pipelines ⚡️. Use your favorite editor (Jupyter, VSCode, PyCharm) to develop interactively and deploy ☁️ without code changes (Kubernetes, Airflow, AWS Batch, and SLURM).
 * https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
 * https://github.com/quantumblacklabs/kedro A Python framework for creating reproducible, maintainable and modular data science code.
 * https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. I use it mainly for tuning hyperparameters.
