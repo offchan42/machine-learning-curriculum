@@ -222,6 +222,7 @@ Libraries that help you develop/debug/deploy the model in production (MLOps). Th
 * https://github.com/fastai/nbdev Create delightful python projects using Jupyter Notebooks
 * https://rapids.ai/ data science on GPUs
 * https://github.com/datarevenue-berlin/OpenMLOps
+* https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat Not really a tool, but a guide on how to compose many tools together in real-world reasonable scale business.
 
 ### Data Storage
 
