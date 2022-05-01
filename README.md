@@ -289,6 +289,7 @@ I suggest you to try AutoML first because internally it will try the gradient bo
 * https://github.com/microsoft/FLAML Fast and Lightweight AutoML with cost-effective economical optimization algorithms.
 * https://github.com/mljar/mljar-supervised an Automated Machine Learning Python package that works with tabular data. I like that it generates visualization report (in the Explain mode) and extra features for you e.g. golden features and K-means features.
 * https://github.com/awslabs/autogluon AutoML for Text, Image, and Tabular Data. But it doesn't support Windows (as of 11 October 2021).
+* https://github.com/AutoViML/Auto_ViML Auto_ViML was designed for building High Performance Interpretable Models with the fewest variables needed.
 
 ### Model Architectures
 
