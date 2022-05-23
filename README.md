@@ -227,6 +227,7 @@ Libraries that help you develop/debug/deploy the model in production (MLOps). Th
 
 * https://github.com/activeloopai/Hub Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it.
 * https://github.com/determined-ai/yogadl Better approach to data loading for Deep Learning. API-transparent caching to disk, GCS, or S3.
+* https://github.com/google/ml_collections ML Collections is a library of Python Collections designed for ML use cases. It contains ConfigDict, a "dict-like" data structures with dot access to nested elements. It is supposed to be used as a main way of expressing configurations of experiments and models.
 
 ### Data Wrangling
 
