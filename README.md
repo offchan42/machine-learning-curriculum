@@ -30,7 +30,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
 * [Machine Learning: Supervised, Unsupervised & Reinforcement - Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
 * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/) carefully laid out step-by-step guide to some particular algorithms
-* [Andrew Ng's Course on Coursera](https://www.coursera.org/learn/machine-learning) recommended for people who want to know the details of ML algorithms under the hood, understand enough maths to be dangerous and do coding assignments in Octave programming language (Note: Andrew said that you do not need to know Calculus beforehand but he talked about it quite often so you will regret if you don't know Calculus :laughing:)
+* [Andrew Ng's Specialization on Coursera](https://www.coursera.org/specializations/machine-learning-introduction) recommended for people who want to know the details of ML algorithms under the hood, understand enough maths to be dangerous and do coding assignments in python
 * [ML Recipes - YouTube Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) a really nicely designed concrete actionable content for ML introduction
 * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
 * [Machine Learning with Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
