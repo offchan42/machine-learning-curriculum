@@ -306,6 +306,8 @@ Architectures that are state-of-the-art in its field.
   [Learning to see without a teacher](https://www.youtube.com/watch?v=ck3_7tVuCRs)
 * [wav2letter](https://github.com/flashlight/wav2letter) Facebook AI Research's Automatic Speech Recognition Toolkit
 * [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
+* [BigScience LLM Bloom](https://towardsdatascience.com/bloom-is-the-most-important-ai-model-of-the-decade-97f0f861e29f)
+* [https://github.com/hpcaitech/ColossalAI][https://github.com/hpcaitech/ColossalAI]
 
 ## Interesting Techniques & Applications
 * [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
