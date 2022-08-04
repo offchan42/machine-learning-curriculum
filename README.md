@@ -430,6 +430,7 @@ brain works so that you can discover new deep learning breakthrough
 * [Skynet Today](http://www.skynettoday.com) Accessible and informed coverage of the latest AI hype and panic
 * [https://github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) Awesome Reinforcement Learning
 * [https://github.com/artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning) Awesome Transfer Learning
+* https://github.com/labmlai/annotated_deep_learning_paper_implementations
 
 ## I am confused, too many links, where do I start?
 If you are a beginner and want to get started with my suggestions, please read this issue:
