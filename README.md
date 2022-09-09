@@ -308,6 +308,7 @@ Architectures that are state-of-the-art in its field.
 * [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
 * [https://bigscience.huggingface.co/blog/bloom](https://bigscience.huggingface.co/blog/bloom) open large language model from BigScience LLM. [Article](https://towardsdatascience.com/bloom-is-the-most-important-ai-model-of-the-decade-97f0f861e29f)
 * [https://github.com/hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) [Article](https://www.marktechpost.com/2022/07/13/colossal-ai-a-unified-deep-learning-system-for-big-models-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/)
+* [https://stability.ai/blog/stable-diffusion-public-release](https://stability.ai/blog/stable-diffusion-public-release) Stable Diffusion is a model that can generate high-quality images from brief text descriptions.
 
 ## Interesting Techniques & Applications
 * [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
@@ -327,7 +328,7 @@ Architectures that are state-of-the-art in its field.
 * [Distill.pub](https://distill.pub/) A modern medium for presenting research in Machine Learning
 * [deeplearn.org](https://deeplearn.org/) Deep Learning Monitor; news about deep learning papers and tweets
 * [datarevenue](https://www.datarevenue.com/en-blog) blog about MLOps mostly
-* [https://www.youtube.com/c/AndrejKarpathy](https://www.youtube.com/c/AndrejKarpathy) Andrej Karparthy created a new YouTube channel after he left Tesla Autopilot team.
+* [https://www.youtube.com/c/AndrejKarpathy](https://www.youtube.com/c/AndrejKarpathy) Andrej Karparthy created a new YouTube channel after he left Tesla Autopilot team to teach people how to implement neural networks in "spelled-out" style.
 
 ## Impactful People
 * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
