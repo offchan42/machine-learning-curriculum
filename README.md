@@ -366,6 +366,7 @@ Architectures that are state-of-the-art in its field.
 * [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) he wrote the book
   *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
   Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
+* [Emad Mostaque](https://twitter.com/EMostaque) he is the founder of [stability.ai](https://stability.ai/), a company that releases many open source AI models
 
 ## Cutting-Edge Research Publishers
 
