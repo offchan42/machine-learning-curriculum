@@ -376,6 +376,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://www.openai.com/requests-for-research/](https://www.openai.com/requests-for-research/)
 * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
 * [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+* [https://stability.ai/](https://stability.ai/) is releasing a lot of open source high-quality models.
 
 
 ## Practitioner Community
