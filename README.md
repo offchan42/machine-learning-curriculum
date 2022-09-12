@@ -332,6 +332,7 @@ Architectures that are state-of-the-art in its field.
 * [https://www.youtube.com/c/AndrejKarpathy](https://www.youtube.com/c/AndrejKarpathy) Andrej Karparthy created a new YouTube channel after he left Tesla Autopilot team to teach people how to implement neural networks in "spelled-out" style.
 * [https://e2eml.school/blog.html](https://e2eml.school/blog.html) End-to-End Machine Learning blog that covers a lot of topics in detail e.g. [How transformers work](https://e2eml.school/transformers.html).
 * [https://jalammar.github.io/](https://jalammar.github.io/) Visualizing machine learning one concept at a time.
+* [Radek Osmulski blog](https://radekosmulski.com/) He blogs about DL techniques and strategies you can leverage to learn faster.
 
 ## Impactful People
 * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
