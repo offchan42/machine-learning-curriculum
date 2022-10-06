@@ -264,6 +264,7 @@ My top opinionated preferences are determined, ray tune, and optuna because of p
 * https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
 * https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
 * https://github.com/optuna/optuna an automatic hyperparameter optimization software framework (framework agnostic, define-by-run)
+* https://github.com/pyhopper/pyhopper PyHopper is a hyperparameter optimizer, made specifically for high-dimensional problems arising in machine learning research and businesses.
 * https://github.com/keras-team/keras-tuner an easy-to-use, distributable hyperparameter optimization for keras; read its article [here](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
 * https://github.com/autonomio/talos Hyperparameter Optimization for Keras, TensorFlow (tf.keras) and PyTorch
 * https://github.com/maxpumperla/hyperas (deprecated) Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
