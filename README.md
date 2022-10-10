@@ -309,7 +309,7 @@ Architectures that are state-of-the-art in its field.
 * [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch
 * [https://bigscience.huggingface.co/blog/bloom](https://bigscience.huggingface.co/blog/bloom) open large language model from BigScience LLM. [Article](https://towardsdatascience.com/bloom-is-the-most-important-ai-model-of-the-decade-97f0f861e29f)
 * [https://github.com/hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) [Article](https://www.marktechpost.com/2022/07/13/colossal-ai-a-unified-deep-learning-system-for-big-models-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/)
-* [https://stability.ai/blog/stable-diffusion-public-release](https://stability.ai/blog/stable-diffusion-public-release) Stable Diffusion is a model that can generate high-quality images from brief text descriptions. [Here is a short Twitter thread](https://twitter.com/tomgoldsteincs/status/1560334207578161152) explaining why it works so well.
+* [https://stability.ai/blog/stable-diffusion-public-release](https://stability.ai/blog/stable-diffusion-public-release) Stable Diffusion is a model that can generate high-quality images from brief text descriptions. [Here is a short Twitter thread](https://twitter.com/tomgoldsteincs/status/1560334207578161152) explaining why it works so well. And [here is a thread](https://twitter.com/svpino/status/1579441642603311109) containing resources to learn more about diffusion models.
 
 ## Interesting Techniques & Applications
 * [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
