@@ -206,7 +206,8 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
-* https://flyte.org/ Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
+* https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes
+* https://github.com/flyteorg/flyte Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 * https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
 * https://github.com/quantumblacklabs/kedro A Python framework for creating reproducible, maintainable and modular data science code.
 * https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. I use it mainly for tuning hyperparameters.
