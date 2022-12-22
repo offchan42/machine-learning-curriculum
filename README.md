@@ -253,6 +253,7 @@ Data cleaning and data augmentation
 * https://github.com/oegedijk/explainerdashboard Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
 * https://github.com/lux-org/lux By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset.
 * https://github.com/slundberg/shap A game theoretic approach to explain the output of any machine learning model.
+* https://github.com/comet-ml/kangas Kangas is a tool for exploring, analyzing, and visualizing large-scale multimedia data. It provides a straightforward Python API for logging large tables of data, along with an intuitive visual interface for performing complex queries against your dataset.
 
 ### Hyperparameter Tuning
 
