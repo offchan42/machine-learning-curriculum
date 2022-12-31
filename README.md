@@ -206,6 +206,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
+* https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. They can also deploy models for you.
 * https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes
 * https://github.com/flyteorg/flyte Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 * https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
