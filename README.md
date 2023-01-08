@@ -301,6 +301,7 @@ I suggest you to try AutoML first because internally it will try the gradient bo
 
 Architectures that are state-of-the-art in its field.
 
+* [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more. It is typically called `timm`.
 * [https://modelzoo.co/](https://modelzoo.co/) Model Zoo
 * [https://github.com/tensorflow/models](https://github.com/tensorflow/models)
 * [Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
