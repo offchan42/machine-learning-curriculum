@@ -165,6 +165,7 @@ Machine learning building blocks
 * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
 * [Keras: Deep Learning library for Theano and TensorFlow (Python)](https://github.com/fchollet/keras)
 * [PyTorch (Python)](https://github.com/pytorch/pytorch) PyTorch is a deep learning framework that puts Python first.
+* [OneFlow](https://github.com/Oneflow-Inc/oneflow) is a deep learning framework designed to be user-friendly, scalable and efficient.
 * [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity.
 * [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
 * [DeepLearning4j (Java)](https://github.com/eclipse/deeplearning4j) Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
