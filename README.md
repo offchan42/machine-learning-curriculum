@@ -272,7 +272,7 @@ My top opinionated preferences are determined, ray tune, and optuna because of p
 * https://github.com/pyhopper/pyhopper PyHopper is a hyperparameter optimizer, made specifically for high-dimensional problems arising in machine learning research and businesses. [This guy](https://twitter.com/ramin_m_h/status/1577985269067911169) claimed that it's 10x faster than Optuna. Is this claim true? We can't know until we try!
 * https://github.com/keras-team/keras-tuner an easy-to-use, distributable hyperparameter optimization for keras; read its article [here](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
 * https://github.com/autonomio/talos Hyperparameter Optimization for Keras, TensorFlow (tf.keras) and PyTorch
-* https://github.com/maxpumperla/hyperas (deprecated) Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
+* https://github.com/maxpumperla/hyperas Keras + Hyperopt: A very simple wrapper for convenient hyperparameter optimization
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
 * https://github.com/msu-coinlab/pymoo Multi-objective Optimization in Python
