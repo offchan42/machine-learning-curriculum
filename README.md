@@ -229,7 +229,7 @@ Libraries that help you develop/debug/deploy the model in production (MLOps). Th
 ### Data Storage
 
 * https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. They can also deploy models for you.
-* https://github.com/activeloopai/Hub Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it.
+* https://github.com/activeloopai/deeplake Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow.
 * https://github.com/determined-ai/yogadl Better approach to data loading for Deep Learning. API-transparent caching to disk, GCS, or S3.
 * https://github.com/google/ml_collections ML Collections is a library of Python Collections designed for ML use cases. It contains ConfigDict, a "dict-like" data structures with dot access to nested elements. It is supposed to be used as a main way of expressing configurations of experiments and models.
 
