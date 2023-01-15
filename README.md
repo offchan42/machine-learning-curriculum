@@ -207,7 +207,6 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
-* https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes
 * https://github.com/flyteorg/flyte Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 * https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
 * https://github.com/quantumblacklabs/kedro A Python framework for creating reproducible, maintainable and modular data science code.
@@ -251,6 +250,7 @@ Data cleaning and data augmentation
 * https://github.com/orchest/orchest Build data pipelines, the easy way using user-friendly UI
 
 ### Data Visualization
+* https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes. The UI is a web app that can be shared with anyone, even non-technical people. One of the features I like is the [examples](https://gradio.app/docs/#examples) component. It shows you very well that this app is for machine learning use case.
 * https://github.com/streamlit/streamlit Streamlit turns data scripts into shareable web apps in minutes. All in Python. All for free. No front‑end experience required.
 * https://github.com/oegedijk/explainerdashboard Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
 * https://github.com/lux-org/lux By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset.
