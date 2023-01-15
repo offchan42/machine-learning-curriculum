@@ -265,8 +265,7 @@ Open your eyes to search-driven development. It will change you. Main benefit is
 
 My top opinionated preferences are determined, ray tune, and optuna because of parallelization (distributed tuning on many machines), flexibility (can optimize arbitrary objectives and allow dataset parameters to be tuned), library of SOTA tuning algorithms (e.g. HyperBand, BOHB, TPE, PBT, ASHA, etc), result visualization/analysis tools, and extensive documentations/tutorials.
 
-
-* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy.
+* https://github.com/determined-ai/determined Determined is an open-source deep learning training platform that makes building models fast and easy. IMO, it's best for **cheaply** tuning hyperparameters of deep learning models because it will train many epochs on models that have promising metrics and early stop models that don't. They support AWS and most cloud services as first-class citizen. They also support *preemptible* instances, which is again, cheap. When you finish training, all the GPU instances are automatically shutdown. If you want to save money on large-scale training, go with Determined.
 * https://docs.ray.io/en/master/tune/index.html Ray Tune is a Python library for experiment execution and hyperparameter tuning at any scale. If you are looking for distributed tuning, Ray Tune is probably the most serious framework out there.
 * https://github.com/optuna/optuna an automatic hyperparameter optimization software framework (framework agnostic, define-by-run)
 * https://github.com/pyhopper/pyhopper PyHopper is a hyperparameter optimizer, made specifically for high-dimensional problems arising in machine learning research and businesses. [This guy](https://twitter.com/ramin_m_h/status/1577985269067911169) claimed that it's 10x faster than Optuna. Is this claim true? We can't know until we try!
