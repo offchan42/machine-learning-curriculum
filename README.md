@@ -207,7 +207,6 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
-* https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. They can also deploy models for you.
 * https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes
 * https://github.com/flyteorg/flyte Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 * https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
@@ -229,6 +228,7 @@ Libraries that help you develop/debug/deploy the model in production (MLOps). Th
 
 ### Data Storage
 
+* https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. They can also deploy models for you.
 * https://github.com/activeloopai/Hub Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it.
 * https://github.com/determined-ai/yogadl Better approach to data loading for Deep Learning. API-transparent caching to disk, GCS, or S3.
 * https://github.com/google/ml_collections ML Collections is a library of Python Collections designed for ML use cases. It contains ConfigDict, a "dict-like" data structures with dot access to nested elements. It is supposed to be used as a main way of expressing configurations of experiments and models.
