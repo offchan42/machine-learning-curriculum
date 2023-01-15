@@ -317,6 +317,14 @@ Architectures that are state-of-the-art in its field.
 * [https://github.com/hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) [Article](https://www.marktechpost.com/2022/07/13/colossal-ai-a-unified-deep-learning-system-for-big-models-seamlessly-accelerates-large-models-at-low-costs-with-hugging-face/)
 * [https://stability.ai/blog/stable-diffusion-public-release](https://stability.ai/blog/stable-diffusion-public-release) Stable Diffusion is a model that can generate high-quality images from brief text descriptions. [Here is a short Twitter thread](https://twitter.com/tomgoldsteincs/status/1560334207578161152) explaining why it works so well. And [here is a thread](https://twitter.com/svpino/status/1579441642603311109) containing resources to learn more about diffusion models.
 
+### Prompt Engineering
+
+Large language models (LLMs) like GPT-3 are powerful, but they need to be prompted to generate the desired output. This is where prompt engineering comes in. Prompt engineering is the process of designing prompts that can be used to generate the desired output.
+
+* https://github.com/hwchase17/langchain It's a python package for building applications with LLMs through composability.
+* https://dust.tt/ A web-based tool for designing and deploying large language model apps.
+* https://github.com/jerryjliu/gpt_index GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries.
+
 ## Interesting Techniques & Applications
 * [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
 * [https://paperswithcode.com/](https://paperswithcode.com/) A list of papers with evaluation metrics, and state of the art comparison.
