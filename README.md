@@ -83,8 +83,6 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/) a curated maths guide to Deep Learning
 * [Practical Deep Learning For Coders Course at Fast.ai](http://course.fast.ai/) taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic)
 * [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for visual learner who knows some ML, this course provides high level ideas of deep learning, dense intuitive details put in a short amount of time, you will use TensorFlow inside the course
-* [Deep Learning Resources (Papers, Online Courses, Books) - deeplearning4j.org](http://deeplearning4j.org/deeplearningpapers.html)
-* [Introduction to Deep Neural Networks - deeplearning4j.org](http://deeplearning4j.org/neuralnet-overview.html)
 * [NVIDIA Deep Learning Institute](https://developer.nvidia.com/deep-learning-courses) because GPU are efficient at training Neural Networks, NVIDIA notices this market !
 * [Deep Learning Book](http://www.deeplearningbook.org/) recommended for math
   nerds who want to understand the theoretical side, the book is crafted by our
@@ -155,7 +153,6 @@ Machine learning building blocks
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow) is a deep learning framework designed to be user-friendly, scalable and efficient.
 * [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity.
 * [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
-* [DeepLearning4j (Java)](https://github.com/eclipse/deeplearning4j) Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. There is a specific focus on reinforcement learning with several contextual bandit algorithms implemented and the online nature lending to the problem well.
 * [H2O](https://github.com/h2oai/h2o-3) is an in-memory platform for distributed, scalable machine learning.
 * [spektral](https://github.com/danielegrattarola/spektral/) Graph Neural Networks with Keras and Tensorflow 2.
