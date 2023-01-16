@@ -461,14 +461,14 @@ If you are a beginner and want to get started with my suggestions, please read t
 From now on, this list is going to be compact and *opinionated* towards my own real-world ML journey and I will put only content that I think are truly beneficial for me and most people.
 All the materials and tools that are not good enough (in any aspect) will be gradually removed, including:
 
-- too difficult materials without much intuition; impractical content
-- too much theory without real-world practice
-- unstructured materials
-- courses that I don't consider to enroll myself
-- information overload content, unclear direction
-- knowledge or tools that are too specialized and not many people can use it in their works e.g. deepdream or unsupervised domain adaptation (because you can Google it if you want to use it in your work).
-- tools that are beaten by other tools; not being state-of-the-art anymore
-- commercial tools that look like it can die any time soon
+* too difficult materials without much intuition; impractical content
+* too much theory without real-world practice
+* unstructured materials
+* courses that I don't consider to enroll myself
+* information overload content, unclear direction
+* knowledge or tools that are too niche and not many people can use it in their works e.g. deepdream or unsupervised domain adaptation (because you can Google it if you want to use it in your work).
+* tools that are beaten by other tools; not being state-of-the-art anymore
+* commercial tools that look like it can die any time soon
 
 **NOTE**: There is no particular rank for each link. The order in which they
 appear does not convey any meaning and should not be treated differently.
