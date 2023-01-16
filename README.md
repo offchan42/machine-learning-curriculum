@@ -225,8 +225,9 @@ Libraries that help you develop/debug/deploy the model in production (MLOps). Th
 * https://github.com/datarevenue-berlin/OpenMLOps
 * https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat Not really a tool, but a guide on how to compose many tools together in real-world reasonable scale business.
 
-
 ### GPU Cloud
+
+Remember that this is an opinionated list. There are bazillions of cloud providers out there. I'm not going to list them all. I'm just going to list the ones that I'm familiar with and I think are good.
 
 * https://modal.com/ Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure. Their service is so interesting [someone make a course about it](https://twitter.com/jim_dowling/status/1604464301015797760).
 * https://lambdalabs.com/ GPU cloud built for deep learning. Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with Pytorch, TensorFlow, Jupyter
