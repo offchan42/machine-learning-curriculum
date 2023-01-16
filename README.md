@@ -141,15 +141,6 @@ They are sometimes called **RNNs**.
 * [How to debug neural networks. Manual.](https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
 
-## Unsupervised Domain Adaptation
-
-Unsupervised Domain Adaptation is a type of Transfer Learning that applies a model that was trained on source dataset to do well on a target dataset without any label on the target dataset. It's one of the technique that is practically useful in the real world when the cost of labeling target dataset is high. One of the example is to train a model on synthetic data with label and try to use it on real data without label.
-
-* [https://paperswithcode.com/task/unsupervised-domain-adaptation](https://paperswithcode.com/task/unsupervised-domain-adaptation)
-* [https://github.com/zhaoxin94/awsome-domain-adaptation#unsupervised-da](https://github.com/zhaoxin94/awsome-domain-adaptation#unsupervised-da)
-* [https://github.com/barebell/DA](https://github.com/barebell/DA)
-* [https://github.com/bbdamodaran/deepJDOT](https://github.com/bbdamodaran/deepJDOT) one of the easy-to-use implementation on keras of a unsupervised domain adaptation technique that I tried before and work great
-
 ## Tools
 
 Libraries and frameworks that are useful for practical machine learning
@@ -475,7 +466,7 @@ All the materials and tools that are not good enough (in any aspect) will be gra
 - unstructured materials
 - courses that I don't consider to enroll myself
 - information overload content, unclear direction
-- tools that are too specialized and not many people can use it in their works e.g. deepdream (because you can Google it if you want to use it in your work)
+- knowledge or tools that are too specialized and not many people can use it in their works e.g. deepdream or unsupervised domain adaptation (because you can Google it if you want to use it in your work).
 - tools that are beaten by other tools; not being state-of-the-art anymore
 - commercial tools that look like it can die any time soon
 
