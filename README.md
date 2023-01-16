@@ -38,8 +38,9 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Landing A Data Job: The Course](https://www.sharpestminds.com/landing-a-data-job-the-course) is an opinionated and practical guideline for people who want to focus on landing a job. For example, they suggest that knowing how decision tree works is already good enough, you don't need to know how all the models work, which is true! But this advice is mostly for tabular data.
 
 ### Books
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
-- https://github.com/fastai/fastbook The fastai book, published as Jupyter Notebooks
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
+* https://github.com/fastai/fastbook The fastai book, published as Jupyter Notebooks
+* https://www.deeplearningbook.org/ math heavy book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 ## Reinforcement Learning
 
