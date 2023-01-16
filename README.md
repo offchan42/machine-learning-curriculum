@@ -26,7 +26,6 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [COMS W4995 Applied Machine Learning Spring 2020](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) videos and slides of an applied ML course from Columbia University.
 * [Opinionated Machine Learning Course by Fast.ai](http://course.fast.ai/ml.html)
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) Google's fast-paced, practical introduction to machine learning
-* [Artificial Intelligence, Revealed](https://code.facebook.com/pages/1902086376686983) a quick introduction by Yann LeCun, mostly about Machine Learning ideas, Deep Learning, and convolutional neural network
 * [Intro to Machine Learning - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) hands on scikit-learn (python) programming learning on core ML concepts
 * [Machine Learning: Supervised, Unsupervised & Reinforcement - Udacity](https://www.udacity.com/course/machine-learning--ud262) the 2 instructors are hilarious
 * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/) carefully laid out step-by-step guide to some particular algorithms
@@ -35,11 +34,8 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
 * [Machine Learning with Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
-* [Machine Learning Crash Course: Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-* [Most Shared Machine Learning Content on Twitter For The Past 7 Days](http://theherdlocker.com/tweet/popularity/machinelearning)
-* [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/) This class takes an engineering approach to exploring possible research paths toward building human-level intelligence.
-* [Landing A Data Job: The Course](https://www.sharpestminds.com/landing-a-data-job-the-course) is an opinionated and practical guideline for those who wants to become data scientists quickly. For example, they suggest that knowing how decision tree works is already good enough, you don't need to know how all the models work, which is true!
+* [Landing A Data Job: The Course](https://www.sharpestminds.com/landing-a-data-job-the-course) is an opinionated and practical guideline for people who want to focus on landing a job. For example, they suggest that knowing how decision tree works is already good enough, you don't need to know how all the models work, which is true! But this advice is mostly for tabular data.
 
 ### Books
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
