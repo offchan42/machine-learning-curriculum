@@ -125,7 +125,6 @@ They are sometimes called **convnets** or **CNNs**.
   concerns and the assumptions that convnets make. This is a great lecture!
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis) explains
   how to visualize a convnet using various techniques
-* [Convolutional Neural Networks Tutorial in TensorFlow](http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/) gives an introduction to CNNs for beginners in TensorFlow
 
 ### Recurrent Neural Networks
 
