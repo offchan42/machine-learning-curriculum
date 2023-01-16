@@ -83,22 +83,11 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [A Guide to Deep Learning by YN^2](http://yerevann.com/a-guide-to-deep-learning/) a curated maths guide to Deep Learning
 * [Practical Deep Learning For Coders Course at Fast.ai](http://course.fast.ai/) taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic)
 * [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) recommended for visual learner who knows some ML, this course provides high level ideas of deep learning, dense intuitive details put in a short amount of time, you will use TensorFlow inside the course
-* [Deep Learning Book](http://www.deeplearningbook.org/) recommended for math
-  nerds who want to understand the theoretical side, the book is crafted by our
-  deep learning wizards (Goodfellow, Bengio and Courville)
-* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
 * [Neural networks class - YouTube Playlist](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-* [http://deeplearning.net/](http://deeplearning.net/)
 * [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html) a hands-on online book for deep learning maths intuition, I can say that after you finish this, you will be able to explain deep learning in a fine detail.
-* [https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-i) You will implement a lot of things inside TensorFlow such as Autoencoders, Convolutional neural net, Feedforward neural nets, Generative models (Generative Adversarial Networks, Recurrent networks), visualizing the network, etc. You will have lots of assignments to finish. The course director (Parag) is also approachable and active.
-* [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) a course at MIT
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) a bunch of neural network models that you should know about (I know about half of them so don't worry that you don't know many because most of them are not popular or useful in the present)
-* [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) a course for 2017
-* [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo/blob/master/README.md) a list of GAN papers which have their own name
-* [https://deeplearning.mit.edu/](https://deeplearning.mit.edu/) MIT Deep Learning taught by Lex Fridman
 * [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) taught at Udacity
-* [Advancing AI theory with a first-principles understanding of deep neural networks](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks) we use deep learning successfully for quite a long time but we don't know exactly why it works and how to really improve it from the ground up. This blog post contains a link to the paper that explains the first-principles attempt of understanding neural networks so that we can advance deep learning field further.
 
 ### Convolutional Neural Networks
 
@@ -109,7 +98,6 @@ invariance. For example, given an image, it might be useful to detect the same
 kind of edges everywhere on the image.
 They are sometimes called **convnets** or **CNNs**.
 
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) a course taught at Stanford university
 * [How Convolutional Neural Networks work - Youtube](https://www.youtube.com/watch?v=FmpDIaiMIeA) technical
   explanation including pooling operations, ReLU, fully connected layer,
   optimization using gradient descent
