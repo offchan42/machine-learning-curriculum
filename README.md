@@ -42,6 +42,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
 * https://github.com/fastai/fastbook The fastai book, published as Jupyter Notebooks
 * https://www.deeplearningbook.org/ math heavy book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+* https://christophm.github.io/interpretable-ml-book/ A Guide for Making Black Box Models Explainable
 
 ## Reinforcement Learning
 
