@@ -126,7 +126,6 @@ They are sometimes called **convnets** or **CNNs**.
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis) explains
   how to visualize a convnet using various techniques
 * [Convolutional Neural Networks Tutorial in TensorFlow](http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/) gives an introduction to CNNs for beginners in TensorFlow
-* [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900) CapsNets are a hot new architecture for neural networks, invented by Geoffrey Hinton, one of the godfathers of deep learning.
 
 ### Recurrent Neural Networks
 
