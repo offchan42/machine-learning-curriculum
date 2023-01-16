@@ -135,7 +135,7 @@ Machine learning building blocks
 
 * [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
 * [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
-* [Keras: Deep Learning library for Theano and TensorFlow (Python)](https://github.com/fchollet/keras)
+* [Keras: Deep Learning for humans](https://github.com/keras-team/keras) Keras is a deep learning API written in Python, running on top of TensorFlow. It's still king of high level abstraction for deep learning.
 * [PyTorch (Python)](https://github.com/pytorch/pytorch) PyTorch is a deep learning framework that puts Python first.
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow) is a deep learning framework designed to be user-friendly, scalable and efficient.
 * [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity.
