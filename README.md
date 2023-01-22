@@ -123,7 +123,8 @@ They are sometimes called **RNNs**.
 
 ### Best Practices
 * [How to debug neural networks. Manual.](https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2)
-* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
+* [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
+* [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) A playbook for systematically maximizing the performance of deep learning models.
 
 ## Tools
 
