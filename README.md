@@ -409,6 +409,8 @@ brain works so that you can discover new deep learning breakthrough
 
 ## Other Big Lists
 
+* https://www.mrdbourke.com/ml-resources/ Machine Learning Courses & Resources recommendation by Daniel Bourke
+* [List of MLOps Courses and Books by Damien Benveniste on Facebook](https://www.facebook.com/damien.benveniste/posts/pfbid0urWLFrAHged7MLYnVwqKMGzNJMn5N94p3RhiDG8ACzNZCRoBPNRVo691JvXBksDJl)
 * https://github.com/collections/machine-learning
 * https://github.com/topics/machine-learning
 * https://github.com/topics/mlops
@@ -417,25 +419,18 @@ brain works so that you can discover new deep learning breakthrough
 * [https://github.com/alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 * [https://github.com/jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
 * [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
-* [http://aireads.top](http://aireads.top) AI/ML Reads - a directory of artificial intelligence/machine learning resources
 * [https://github.com/ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [https://github.com/terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [https://github.com/Developer-Y/cs-video-courses#machine-learning](https://github.com/Developer-Y/cs-video-courses#machine-learning)
-* [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) an open source deep learning curriculum which contains a lot of course recommendations for you to consider enrolling. (Many recommendations are the same as in this list)
 * [Deep Learning Resources by Jeremy D. Jackson](http://www.jeremydjacksonphd.com/category/deep-learning/)
 * [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-* [http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
-* [A Large set of Machine Learning Resources for Beginners to Mavens](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
-* [Skynet Today](http://www.skynettoday.com) Accessible and informed coverage of the latest AI hype and panic
 * [https://github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) Awesome Reinforcement Learning
 * [https://github.com/artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning) Awesome Transfer Learning
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
 * https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
-* https://www.mrdbourke.com/ml-resources/ Machine Learning Courses & Resources recommendation by Daniel Bourke
-* [List of Courses and Books by Damien Benveniste on Facebook](https://www.facebook.com/damien.benveniste/posts/pfbid0urWLFrAHged7MLYnVwqKMGzNJMn5N94p3RhiDG8ACzNZCRoBPNRVo691JvXBksDJl)
 
 ## I am confused, too many links, where do I start?
 If you are a beginner and want to get started with my suggestions, please read this issue:
