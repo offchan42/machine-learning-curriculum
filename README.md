@@ -37,6 +37,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Landing A Data Job: The Course](https://www.sharpestminds.com/landing-a-data-job-the-course) is an opinionated and practical guideline for people who want to focus on landing a job. For example, they suggest that knowing how decision tree works is already good enough, you don't need to know how all the models work, which is true! But this advice is mostly for tabular data.
 * [Serverless Machine Learning](https://www.serverless-ml.org/) Build your own Machine Learning Serverless Prediction Service
+* [Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) A free course by Weights & Biases with certification
 
 ### Books
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
