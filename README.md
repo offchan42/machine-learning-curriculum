@@ -147,6 +147,7 @@ Machine learning building blocks
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. There is a specific focus on reinforcement learning with several contextual bandit algorithms implemented and the online nature lending to the problem well.
 * [H2O](https://github.com/h2oai/h2o-3) is an in-memory platform for distributed, scalable machine learning.
 * [spektral](https://github.com/danielegrattarola/spektral/) Graph Neural Networks with Keras and Tensorflow 2.
+* [Ivy](https://github.com/unifyai/ivy) is an ML framework that currently supports JAX, TensorFlow, PyTorch, and Numpy. They're on a mission to unify all ML frameworks
 
 #### No coding
 
