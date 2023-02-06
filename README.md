@@ -41,6 +41,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) math course by Coursera
 
 ### Books
+
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron is the best selling book because it's great.
 * https://github.com/fastai/fastbook The fastai book, published as Jupyter Notebooks
 * https://www.deeplearningbook.org/ math heavy book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
@@ -78,6 +79,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/) Learn Production-Level Deep Learning from Top Practitioners
 * [DeepLearning.ai](https://www.deeplearning.ai/) a bunch of courses taught by Andrew Ng at Coursera; It's the sequel of [Machine Learning course](https://www.coursera.org/learn/machine-learning) at Coursera.
+* [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) a course by Facebook AI on Udacity
 * [A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [A Neural Network Playground](http://playground.tensorflow.org/) Tinker with a simple neural network designed to help you visualize the learning process
 * [Deep Learning Demystified - Youtube](https://www.youtube.com/watch?v=Q9Z20HCPnww) explain inspiration of deep learning from real neurons to artificial neural networks
@@ -91,6 +93,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) a bunch of neural network models that you should know about (I know about half of them so don't worry that you don't know many because most of them are not popular or useful in the present)
 * [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) taught at Udacity
 * [Primers • AI](https://aman.ai/primers/ai/) Here’s a hand-picked selection of articles on AI fundamentals/concepts that cover the entire process of building neural nets to training them to evaluating results. There is also a very detailed Transformer architecture explanation.
+* [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) Learn the theory, train the model from scratch, and use it to generate images and audio.
 
 ### Convolutional Neural Networks
 
