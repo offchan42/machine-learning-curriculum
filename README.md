@@ -263,6 +263,7 @@ My top opinionated preferences are determined, ray tune, and optuna because of p
 * https://github.com/fmfn/BayesianOptimization A Python implementation of global optimization with gaussian processes.
 * https://github.com/hyperopt/hyperopt
 * https://github.com/msu-coinlab/pymoo Multi-objective Optimization in Python
+* https://github.com/google/vizier Open Source Vizier: Reliable and Flexible Black-Box Optimization. OSS Vizier is a Python-based service for black-box optimization and research, based on Google Vizier, one of the first hyperparameter tuning services designed to work at scale.
 
 ### AutoML
 
