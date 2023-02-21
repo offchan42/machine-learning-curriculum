@@ -313,6 +313,7 @@ Large language models (LLMs) like GPT-3 are powerful, but they need to be prompt
 * https://github.com/hwchase17/langchain It's a python package for building applications with LLMs through composability.
 * https://dust.tt/ A web-based tool for designing and deploying large language model apps.
 * https://github.com/jerryjliu/gpt_index GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries.
+* https://github.com/Xpitfire/symbolicai/ Compositional Differentiable Programming Library: Building applications with LLMs at its core through our Symbolic API leverages the power of classical and differentiable programming in Python.
 
 ## Interesting Techniques & Applications
 * [2020: A Year Full of Amazing AI Papers — A Review](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b)
@@ -335,7 +336,7 @@ Large language models (LLMs) like GPT-3 are powerful, but they need to be prompt
 * [datarevenue](https://www.datarevenue.com/en-blog) blog about MLOps mostly
 * [https://www.youtube.com/c/AndrejKarpathy](https://www.youtube.com/c/AndrejKarpathy) Andrej Karparthy created a new YouTube channel after he left Tesla Autopilot team to teach people how to implement neural networks in "spelled-out" style.
 * [https://e2eml.school/blog.html](https://e2eml.school/blog.html) End-to-End Machine Learning blog that covers a lot of topics in detail e.g. [How transformers work](https://e2eml.school/transformers.html).
-* [https://jalammar.github.io/](https://jalammar.github.io/) Visualizing machine learning one concept at a time.
+* [https://jalammar.github.io/](https://jalammar.github.io/) Visualizing machine learning one concept at a time. His blog contains illustrated explanations of ML concepts such as transformer or stable diffusion.
 * [Radek Osmulski blog](https://radekosmulski.com/) He blogs about DL techniques and strategies you can leverage to learn faster.
 
 ## Impactful People
