@@ -420,6 +420,7 @@ brain works so that you can discover new deep learning breakthrough
 
 ## Other Big Lists
 
+* https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide This guide is designated to anybody with basic programming knowledge or a computer science background interested in becoming a Research Scientist with 🎯 on Deep Learning and NLP.
 * https://www.mrdbourke.com/ml-resources/ Machine Learning Courses & Resources recommendation by Daniel Bourke
 * [List of MLOps Courses and Books by Damien Benveniste on Facebook](https://www.facebook.com/damien.benveniste/posts/pfbid0urWLFrAHged7MLYnVwqKMGzNJMn5N94p3RhiDG8ACzNZCRoBPNRVo691JvXBksDJl)
 * https://github.com/collections/machine-learning
