@@ -442,6 +442,7 @@ brain works so that you can discover new deep learning breakthrough
 * [https://github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) Awesome Reinforcement Learning
 * [https://github.com/artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning) Awesome Transfer Learning
 * [https://github.com/heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) Awesome Diffusion Models
+* [https://github.com/Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) Data-centric AI is the practice of systematically engineering the data used to build AI systems.
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
 * https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
