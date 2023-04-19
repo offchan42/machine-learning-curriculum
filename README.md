@@ -219,7 +219,8 @@ Remember that this is an opinionated list. There are bazillions of cloud provide
 
 ### Data Storage
 
-* https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. They can also deploy models for you.
+* https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. The storage is free and unlimited for both public and private projects.
+* https://github.com/huggingface/datasets/ a package for loading, preprocessing and sharing datasets.
 * https://github.com/activeloopai/deeplake Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow.
 * https://github.com/determined-ai/yogadl Better approach to data loading for Deep Learning. API-transparent caching to disk, GCS, or S3.
 * https://github.com/google/ml_collections ML Collections is a library of Python Collections designed for ML use cases. It contains ConfigDict, a "dict-like" data structures with dot access to nested elements. It is supposed to be used as a main way of expressing configurations of experiments and models.
@@ -242,6 +243,7 @@ Data cleaning and data augmentation
 * https://github.com/orchest/orchest Build data pipelines, the easy way using user-friendly UI
 
 ### Data Visualization
+
 * https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes. The UI is a web app that can be shared with anyone, even non-technical people. One of the features I like is the [examples](https://gradio.app/docs/#examples) component. It shows you very well that this app is for machine learning use case.
 * https://github.com/streamlit/streamlit Streamlit turns data scripts into shareable web apps in minutes. All in Python. All for free. No front‑end experience required.
 * https://github.com/oegedijk/explainerdashboard Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
