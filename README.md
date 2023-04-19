@@ -34,7 +34,6 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * [Machine Learning is Fun Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) simple approach to machine learning for non-maths people
 * [Machine Learning with Python - YouTube Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
-* [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Landing A Data Job: The Course](https://www.sharpestminds.com/landing-a-data-job-the-course) is an opinionated and practical guideline for people who want to focus on landing a job. For example, they suggest that knowing how decision tree works is already good enough, you don't need to know how all the models work, which is true! But this advice is mostly for tabular data.
 * [Serverless Machine Learning](https://www.serverless-ml.org/) Build your own Machine Learning Serverless Prediction Service
 * [Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) A free course by Weights & Biases with certification
@@ -130,6 +129,8 @@ They are sometimes called **RNNs**.
 * [http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 ### Best Practices
+
+* [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) it's a document by Martin Zinkevich about Google's best practices in machine learning.
 * [How to debug neural networks. Manual.](https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
 * [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) A playbook for systematically maximizing the performance of deep learning models.
