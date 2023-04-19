@@ -190,6 +190,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
+* https://wandb.ai/ Build better models faster with experiment tracking, dataset versioning, and model management
 * https://github.com/flyteorg/flyte Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 * https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
 * https://github.com/quantumblacklabs/kedro A Python framework for creating reproducible, maintainable and modular data science code.
@@ -202,7 +203,6 @@ Libraries that help you develop/debug/deploy the model in production (MLOps). Th
 * [FloydHub](https://www.floydhub.com/) a Heroku for Deep Learning (You focus on the model, they'll deploy)
 * [comet.ml](https://www.comet.ml/) Comet enables data scientists and teams to track, compare, explain and optimize experiments and models across the model's entire lifecycle. From training to production
 * https://neptune.ai/ Manage all your model building metadata in a single place
-* https://wandb.ai/site Build better models faster with experiment tracking, dataset versioning, and model management
 * https://github.com/fastai/nbdev Create delightful python projects using Jupyter Notebooks
 * https://rapids.ai/ data science on GPUs
 * https://github.com/datarevenue-berlin/OpenMLOps
@@ -461,7 +461,7 @@ All the materials and tools that are not good enough (in any aspect) will be gra
 
 * too difficult materials without much intuition; impractical content
 * too much theory without real-world practice
-* unstructured materials
+* low-quality and unstructured materials
 * courses that I don't consider to enroll myself
 * information overload content, unclear direction
 * knowledge or tools that are too niche and not many people can use it in their works e.g. deepdream or unsupervised domain adaptation (because you can Google it if you want to use it in your work).
