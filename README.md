@@ -349,18 +349,15 @@ Large language models (LLMs) like GPT-3 are powerful, but they need to be prompt
   the [godfather of deep learning](https://www.youtube.com/watch?v=uAu3jQWaN6E)
   by introducing 2 revolutionizing techniques (ReLU and Dropout) with his students.
   These techniques solve the Vanishing Gradient and Generalization problem of
-  deep neural networks. He also taught
-  a [Neural Networks course](https://www.coursera.org/learn/neural-networks) at
-  Coursera.
+  deep neural networks.
 * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), he invented CNNs
   (Convolutional neural networks), the kind of network that is really popular
-  among computer vision developers today
+  among computer vision developers today. Currently working at Meta.
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) another
   serious professor at Deep Learning, you can
   [watch his TEDx talk here (2017)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
 * [Andrew Ng](http://www.andrewng.org/) he discovered that GPUs make deep learning faster.
   He taught 2 famous online courses, Machine Learning and Deep Learning specialization at Coursera.
-* [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) invented LSTM (a
   particular type of RNN)
 * [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)), a
   Google Brain engineer, watch [his TEDx Talk](https://www.youtube.com/watch?v=BfDQNrVphLQ)
@@ -377,9 +374,9 @@ Large language models (LLMs) like GPT-3 are powerful, but they need to be prompt
 * [Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) he wrote the book
   *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
   Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
-* [Emad Mostaque](https://twitter.com/EMostaque) he is the founder of [stability.ai](https://stability.ai/), a company that releases many open source AI models
+* [Emad Mostaque](https://twitter.com/EMostaque) he is the founder of [stability.ai](https://stability.ai/), a company that releases many open source AI models including Stable Diffusion
 * [Sam Altman](https://twitter.com/sama) he is the president of OpenAI, a company
-  that releases many open source AI models and released ChatGPT.
+  that releases ChatGPT
 
 ## Cutting-Edge Research Publishers
 
@@ -401,7 +398,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [https://gym.openai.com](https://gym.openai.com)
 * [https://universe.openai.com/](https://universe.openai.com/)
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-* [https://www.facebook.com/groups/DeepNetGroup/](https://www.facebook.com/groups/DeepNetGroup/) 
+* [https://www.facebook.com/groups/DeepNetGroup/](https://www.facebook.com/groups/DeepNetGroup/)
 
 ## Thoughtful Insights for Future Research
 * [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871)
