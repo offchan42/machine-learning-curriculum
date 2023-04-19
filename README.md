@@ -395,7 +395,7 @@ Steal the most recent techniques introduced by smart computer scientists (could 
 * [State of the art performance on each ML task](http://rodrigob.github.io/are_we_there_yet/build/)
 * [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 * [https://stability.ai/](https://stability.ai/) is releasing a lot of open source high-quality models.
-* [https://twitter.com/ai__pub] AI papers and AI research explained, for technical people.
+* [https://twitter.com/ai__pub](https://twitter.com/ai__pub) AI papers and AI research explained, for technical people.
 * [https://twitter.com/_akhaliq](https://twitter.com/_akhaliq) is a Twitter account that tweets the latest research papers in the field of AI.
 
 ## Practitioner Community
