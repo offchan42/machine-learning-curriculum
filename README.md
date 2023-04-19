@@ -131,6 +131,7 @@ They are sometimes called **RNNs**.
 ### Best Practices
 
 * [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) it's a document by Martin Zinkevich about Google's best practices in machine learning.
+* [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) Andrej's blogpost about how to train yourself to be a paranoid machine learning engineer.
 * [How to debug neural networks. Manual.](https://hackernoon.com/how-to-debug-neural-networks-manual-dc2a200f10f2)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
 * [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) A playbook for systematically maximizing the performance of deep learning models.
