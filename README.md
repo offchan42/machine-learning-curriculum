@@ -95,6 +95,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) taught at Udacity
 * [Primers • AI](https://aman.ai/primers/ai/) Here’s a hand-picked selection of articles on AI fundamentals/concepts that cover the entire process of building neural nets to training them to evaluating results. There is also a very detailed Transformer architecture explanation.
 * [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) Learn the theory, train the model from scratch, and use it to generate images and audio.
+* [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/) by Lightning.AI with Sebastian Raschka
 
 ### Convolutional Neural Networks
 
