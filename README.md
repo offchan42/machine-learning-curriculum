@@ -142,14 +142,14 @@ Libraries and frameworks that are useful for practical machine learning
 
 Machine learning building blocks
 
-* [scikit-learn (Python)](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
-* [TensorFlow (Python)](https://github.com/tensorflow/tensorflow); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
+* [TensorFlow](https://github.com/tensorflow/tensorflow); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
 * [Keras: Deep Learning for humans](https://github.com/keras-team/keras) Keras is a deep learning API written in Python, running on top of TensorFlow. It's still king of high level abstraction for deep learning.
-* [PyTorch (Python)](https://github.com/pytorch/pytorch) PyTorch is a deep learning framework that puts Python first.
+* [PyTorch](https://github.com/pytorch/pytorch) Tensors and Dynamic neural networks in Python with strong GPU acceleration. It's commonly used by cutting-edge researchers including OpenAI.
 * [Lightning](https://github.com/Lightning-AI/lightning) The Deep Learning framework to train, deploy, and ship AI products Lightning fast. (Used to be called PyTorch Lightning)
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow) is a deep learning framework designed to be user-friendly, scalable and efficient.
 * [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity.
-* [Chainer (Python)](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
+* [Chainer](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. There is a specific focus on reinforcement learning with several contextual bandit algorithms implemented and the online nature lending to the problem well.
 * [H2O](https://github.com/h2oai/h2o-3) is an in-memory platform for distributed, scalable machine learning.
 * [spektral](https://github.com/danielegrattarola/spektral/) Graph Neural Networks with Keras and Tensorflow 2.
