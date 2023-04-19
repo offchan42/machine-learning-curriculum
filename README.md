@@ -190,6 +190,7 @@ Or you can use special model architectures which target time series e.g. LSTM, T
 
 Libraries that help you develop/debug/deploy the model in production (MLOps). There is more to ML than training the model.
 
+* https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. The storage is free and unlimited for both public and private projects.
 * https://wandb.ai/ Build better models faster with experiment tracking, dataset versioning, and model management
 * https://github.com/flyteorg/flyte Flyte makes it easy to create concurrent, scalable, and maintainable workflows for machine learning and data processing.
 * https://github.com/allegroai/clearml Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
@@ -219,7 +220,6 @@ Remember that this is an opinionated list. There are bazillions of cloud provide
 
 ### Data Storage
 
-* https://huggingface.co/ Just like GitHub, but for storing ML models, datasets, and apps (they call apps as spaces). They have libraries for you to easily use their models/datasets in your code. The storage is free and unlimited for both public and private projects.
 * https://github.com/huggingface/datasets/ a package for loading, preprocessing and sharing datasets.
 * https://github.com/activeloopai/deeplake Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow.
 * https://github.com/determined-ai/yogadl Better approach to data loading for Deep Learning. API-transparent caching to disk, GCS, or S3.
