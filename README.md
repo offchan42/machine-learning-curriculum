@@ -326,7 +326,7 @@ Large language models (LLMs) like GPT-3 are powerful, but they need to be prompt
 ## Nice Blogs & Vlogs to Follow
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/) Frequently updated blog about OpenCV and deep learning
 * [http://colah.github.io/](http://colah.github.io/) nice explanations with beautiful visualizations
-* [https://karpathy.github.io/](https://karpathy.github.io/) He has taught some courses on Deep Nets and is working at Tesla as the AI director.
+* [https://karpathy.github.io/](https://karpathy.github.io/) He has taught some courses on Deep Nets and used to work at Tesla as the AI director.
 * [http://ruder.io](http://ruder.io) Sebastian Ruder's Deep Learning and NLP blog
 * [http://www.wildml.com/](http://www.wildml.com/)
 * [https://machinelearningmastery.com/](https://machinelearningmastery.com/) Contains a lot of content and beautiful website
