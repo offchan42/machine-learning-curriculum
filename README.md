@@ -344,6 +344,7 @@ Large language models (LLMs) like GPT-3 are powerful, but they need to be prompt
 * [Radek Osmulski blog](https://radekosmulski.com/) He blogs about DL techniques and strategies you can leverage to learn faster.
 
 ## Impactful People
+
 * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), he has been called
   the [godfather of deep learning](https://www.youtube.com/watch?v=uAu3jQWaN6E)
   by introducing 2 revolutionizing techniques (ReLU and Dropout) with his students.
@@ -377,6 +378,8 @@ Large language models (LLMs) like GPT-3 are powerful, but they need to be prompt
   *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
   Remake Our World*, [watch his TEDx talk here](https://www.youtube.com/watch?v=qIZ5PXLVZfo)
 * [Emad Mostaque](https://twitter.com/EMostaque) he is the founder of [stability.ai](https://stability.ai/), a company that releases many open source AI models
+* [Sam Altman](https://twitter.com/sama) he is the president of OpenAI, a company
+  that releases many open source AI models and released ChatGPT.
 
 ## Cutting-Edge Research Publishers
 
