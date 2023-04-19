@@ -147,6 +147,7 @@ Machine learning building blocks
 * [Keras: Deep Learning for humans](https://github.com/keras-team/keras) Keras is a deep learning API written in Python, running on top of TensorFlow. It's still king of high level abstraction for deep learning.
 * [PyTorch](https://github.com/pytorch/pytorch) Tensors and Dynamic neural networks in Python with strong GPU acceleration. It's commonly used by cutting-edge researchers including OpenAI.
 * [Lightning](https://github.com/Lightning-AI/lightning) The Deep Learning framework to train, deploy, and ship AI products Lightning fast. (Used to be called PyTorch Lightning)
+* [JAX](https://github.com/google/jax) is Autograd and XLA, brought together for high-performance machine learning research.
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow) is a deep learning framework designed to be user-friendly, scalable and efficient.
 * [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity.
 * [Chainer](https://github.com/pfnet/chainer) A flexible framework of neural networks for deep learning
