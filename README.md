@@ -210,6 +210,7 @@ Libraries that help you develop/debug/deploy the model in production (MLOps). Th
 * https://rapids.ai/ data science on GPUs
 * https://github.com/datarevenue-berlin/OpenMLOps
 * https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat Not really a tool, but a guide on how to compose many tools together in real-world reasonable scale business.
+* https://www.modular.com/ A company with ambitious goal of redesigning AI infrastructure from the ground up. They introduce a new language called Mojo which is a superset of python.
 
 ### GPU Cloud
 
