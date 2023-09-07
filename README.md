@@ -46,6 +46,7 @@ Study this section to understand fundamental concepts and develop intuitions bef
 * https://github.com/fastai/fastbook The fastai book, published as Jupyter Notebooks
 * https://www.deeplearningbook.org/ math heavy book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 * https://christophm.github.io/interpretable-ml-book/ A Guide for Making Black Box Models Explainable
+* https://themlbook.com/ The Hundred-Page Machine learning book by Andriy Burkov
 
 ## Reinforcement Learning
 
