@@ -147,7 +147,7 @@ Machine learning building blocks
 
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) general machine learning library, high level abstraction, geared towards beginners
 * [TensorFlow](https://github.com/tensorflow/tensorflow); [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow); computation graph framework built by Google, has nice visualization board, probably the most popular framework nowadays for doing Deep Learning
-* [Keras: Deep Learning for humans](https://github.com/keras-team/keras) Keras is a deep learning API written in Python, running on top of TensorFlow. It's still king of high level abstraction for deep learning.
+* [Keras: Deep Learning for humans](https://github.com/keras-team/keras) Keras is a deep learning API written in Python, running on top of TensorFlow. It's still king of high level abstraction for deep learning. **Update: Keras is now available for TensorFlow, JAX and PyTorch!**
 * [PyTorch](https://github.com/pytorch/pytorch) Tensors and Dynamic neural networks in Python with strong GPU acceleration. It's commonly used by cutting-edge researchers including OpenAI.
 * [Lightning](https://github.com/Lightning-AI/lightning) The Deep Learning framework to train, deploy, and ship AI products Lightning fast. (Used to be called PyTorch Lightning)
 * [JAX](https://github.com/google/jax) is Autograd and XLA, brought together for high-performance machine learning research.
