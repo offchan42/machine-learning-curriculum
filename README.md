@@ -161,7 +161,6 @@ Machine learning building blocks
 
 #### No coding
 
-* [Lobe](https://lobe.ai/) a drag-and-drop tool for machine learning
 * [Ludwig](https://github.com/ludwig-ai/ludwig) Ludwig is a toolbox that allows users to train and test deep learning models without the need to write code. It is built on top of TensorFlow.
 
 #### Gradient Boosting
