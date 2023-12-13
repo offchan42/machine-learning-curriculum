@@ -78,6 +78,7 @@ a [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 <div style="text-align:center"><img src ="img/Brain-549603035-1.jpg" /></div>
 
+* [THE LITTLE BOOK OF DEEP LEARNING](https://fleuret.org/francois/lbdl.html) This book is a short introduction to deep learning for readers with a STEM background, originally designed to be read on a phone screen. It is distributed under a non-commercial Creative Commons license and was downloaded close to 250'000 times in the month following its public release.
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/) Learn Production-Level Deep Learning from Top Practitioners
 * [DeepLearning.ai](https://www.deeplearning.ai/) a bunch of courses taught by Andrew Ng at Coursera; It's the sequel of [Machine Learning course](https://www.coursera.org/learn/machine-learning) at Coursera.
 * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) a course by Facebook AI on Udacity
