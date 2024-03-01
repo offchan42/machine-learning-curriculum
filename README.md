@@ -453,7 +453,7 @@ brain works so that you can discover new deep learning breakthrough
 
 ## I am confused, too many links, where do I start?
 If you are a beginner and want to get started with my suggestions, please read this issue:
-[https://github.com/off99555/machine-learning-curriculum/issues/4](https://github.com/off99555/machine-learning-curriculum/issues/4)
+[https://github.com/offchan42/machine-learning-curriculum/issues/4](https://github.com/offchan42/machine-learning-curriculum/issues/4)
 
 ## Disclaimer
 
@@ -473,11 +473,11 @@ All the materials and tools that are not good enough (in any aspect) will be gra
 appear does not convey any meaning and should not be treated differently.
 
 ## How to contribute to this list
-1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
-2. Make a [pull request](https://github.com/off99555/machine-learning-curriculum/pull/new/master) and tag me if you want.
+1. Fork this [repository](https://github.com/offchan42/machine-learning-curriculum), then apply your change.
+2. Make a [pull request](https://github.com/offchan42/machine-learning-curriculum/pull/new/master) and tag me if you want.
 3. That's it. If your edition is useful, I'll merge it.
 
-Or you can just submit a [new issue](https://github.com/off99555/machine-learning-curriculum/issues/new)
+Or you can just submit a [new issue](https://github.com/offchan42/machine-learning-curriculum/issues/new)
 containing the resource you want me to include if you don't have time to send a pull request.
 
 The resource you want to include should be free to study.
